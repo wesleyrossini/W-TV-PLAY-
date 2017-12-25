@@ -1,1148 +1,1121 @@
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
+<?xml version="1.0" encoding="utf-8"?>
 
 
 <item>
-<title>[COLOR white][COLOR white]It - A Coisa (Dublado) - 2017[/COLOR][COLOR yellow] (Viidlox)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>","(.*mp4.*?)"</expres><page>https://vidlox.tv/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidlox.tv/</referer></regex><regex><name>ID_Igor_rangel</name><expres>vidlox=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/it-coisa-2017-dublado-hd-6/</page></regex>
-<genre>Terror e Drama</genre>
-<info>Um grupo de crianÁas enfrentam seus maiores medos quando tentam descobrir a causa do desaparecimento de v·rias crianÁas em sua cidade natal, Derry. Eles acabam se deparando com uma forÁa maligna em forma de palhaÁo, chamado de Pennywise, cujo histÛrico de mortes e violÍncia se repetem h· sÈculos.</info>
-<fanart>http://cosmonerd.com.br/wp-content/uploads/2017/08/It-A-Coisa-capa-post-cosmonerd-ingresso.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/17635444_1275381065842660_2087496026919231892_o.jpg</thumbnail>
+<title>[COLOR blue][B]Rainha de Katwe [2016][/B][/COLOR][COLOR red][B] 720p[/B][/COLOR]</title>
+<playthis>http://lh3.googleusercontent.com/ZUwYbfpBKbqPdi54OwOcie72Db86MGhBrgJ2DFlJNxmBl2WxDKrPrdBMXHx0Uxbztx7vzqex65kVn-61hQ=m22?</playthis>
+<thumbnail>http://i.imgur.com/2p32CW8.jpg</thumbnail>
+<fanart>http://www.ocamundongo.com.br/wp-content/uploads/2016/05/QOK-FINAL.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*PDMAG.*?)" fra</expres>
-<page>http://netcine.us/planeta-dos-macacos-a-guerra/</page></regex>
-<genre>AÁ„o,Drama e Aventura</genre>
-<info>CÈsar e seus macacos s„o forÁados a um conflito mortal contra um exÈrcito de seres humanos liderados por um Coronel implac·vel. Depois que os macacos sofrem perdas inimagin·veis, CÈsar luta contra seus instintos mais escuros e comeÁa sua prÛpria busca mÌtica para vingar sua espÈcie. ¿ medida em que a jornada finalmente os coloca cara a cara, CÈsar e o Coronel se enfrentam em uma batalha Èpica que determinar· o destino de suas espÈcies e o futuro do planeta.</info>
-<fanart>http://br.web.img2.acsta.net/c_400_200/newsv7/17/08/30/19/51/243260.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170401_120545.jpg</thumbnail>
+<title>[COLOR red][B]‚óá[/B][/COLOR] [COLOR white][B]Terra Selvagem[/B][/COLOR][COLOR green][I]  LEGENDADO[/I][/COLOR]</title>        <link>https://1fjiw5r.oloadcdn.net/dl/l/Jht45ERipYqdTqtM/InJQCVzl_zQ/Wind.River.2017.720p.WEB-DL.MkvCage.mp4?mime=false</link>
+<thumbnail>https://goo.gl/DZBZwC</thumbnail>
+<fanart>https://goo.gl/UeeZw5</fanart>
+<info>Cory (Jeremy Renner), ca√ßador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e inicia uma investiga√ß√£o sobre o crime com o aux√≠lio de uma agente novata do FBI (Elizabeth Olsen) que desconhece a regi√£o.</info>
+<genre>A√á√ÉO,CRIME,MIST√âRIO,SUSPENSE (2017)</genre>
 </item>
 
 <item>
-<title>[COLOR white]Fala Comigo (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/fala-comigo-2017-nacional/</page></regex>
-<genre>Nacional e Drama</genre>
-<info>Diogo, adolescente de 17 anos, gosta de ligar para as pacientes da sua m„e psicanalista e assim conhece ¬ngela, de 43 anos, que acabou de ser abandonada pelo marido. Os dois se apaixonam e precisar„o encontrar uma maneira de permanecerem juntos, mas os obst·culos s„o muitos: a diferenÁa de idade, a m„e de Diogo e, acima de tudo, seu prÛprio caminho em direÁ„o ‡ idade adulta.</info>
-<fanart>https://2.bp.blogspot.com/-SjXSIE10AYo/WWfSotXX-QI/AAAAAAAAOeE/0xMbMDDwNaoILS1SPYP2wtrVMJIibNk2gCLcBGAs/s1600/Filme_Fala-Comigo_img01.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/falacomigo.jpg</thumbnail>
+<title>[COLOR red][B]‚óá[/B][/COLOR] [COLOR white][B]TERCEIRA PESSOA[/B][/COLOR][COLOR green][I]  DUBLADO[/I][/COLOR]</title>        <link>https://ia601509.us.archive.org/3/items/TerceiraPessoa2015.1080p/TerceiraPessoa2015.1080p.mp4</link>
+<thumbnail>https://goo.gl/hW9Jqq</thumbnail>
+<fanart>https://i.imgur.com/g9GyK29.jpg</fanart>
+<info>O filme conta tr√™s hist√≥rias de amor diferentes: Michael (Liam Neeson) √© um escritor veterano, que acaba de romper com a esposa (Kim Basinger) e viaja a Paris, buscando novas hist√≥rias. Ele encontra na aspirante a escritora Anna (Olivia Wilde) uma amante e uma inspira√ß√£o, devido ao passado sombrio da garota. O empres√°rio Scott (Adrien Brody) est√° passeando por Roma, quando conhece a misteriosa cigana Monica (Moran Atias) e simpatiza com sua perigosa busca para reencontrar a filha pequena. Julia (Mila Kunis) √© uma jovem m√£e, traumatizada ap√≥s perder a guarda do filho para o ex-marido famoso (James Franco), e conta com a ajuda da advogada Theresa (Maria Bello) nesta batalha judicial.</info>
+<genre>Drama, Romance(2013)</genre>
+</item>
+
+
+<item>
+<title>[COLOR red][B]‚óá[/B][/COLOR] [COLOR white][B]OPERA√á√ÉO VALQU√çRIA[/B][/COLOR][COLOR green][I]  DUBLADO[/I][/COLOR]</title>        <link>https://ia601501.us.archive.org/7/items/OperaoValquqria/Opera%C3%A7%C3%A3o%20Valqu%C3%ADria.mp4</link>
+<thumbnail>https://goo.gl/qGGXdt</thumbnail>
+<fanart>https://goo.gl/DdAEBa</fanart>
+<info>[COLOR red][B]Classifica√ß√£o[/B][/COLOR]:[COLOR green][I]16 anos[/I][/COLOR]>>> 2¬™ Guerra Mundial. Claus von Stauffenberg (Tom Cruise) √© um coronel que retorna √† Alemanha gravemente ferido, devido √† guerra na √Åfrica. Ao chegar ele se envolve em uma conspira√ß√£o para acabar com o governo local, que tem por objetivo matar Adolph Hitler (David Bamber). O objetivo do grupo √© p√¥r em pr√°tica a Opera√ß√£o Valqu√≠ria, um plano j√° existente que prev√™ a implementa√ß√£o de um governo que conduza a Alemanha ap√≥s a morte de seu l√≠der. Aos poucos o coronel Claus ganha destaque na organiza√ß√£o, sendo encarregado para que cometa o assassinato de Hitler.</info>
+<genre>Hist√≥rico, Drama, Suspense (2016)</genre>
 </item>
 
 <item>
-<title>[COLOR white]1922 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/1922-2017-dublado/</page></regex>
+<title>[COLOR white][B]A Persegui√ß√£o (Dublado) - 2012-1080p[/B][/COLOR]</title>
+<link>https://ia801509.us.archive.org/20/items/APerseguio/A%20Persegui%C3%A7%C3%A3o.mp4</link>
+<thumbnail>https://goo.gl/aGMHyj</thumbnail>
+<fanart>https://goo.gl/aGMHyj</fanart>
+<info>Ap√≥s cinco semanas pesadas de trabalho em uma refinaria de √≥leo, um grupo de trabalhadores retorna para o descanso merecido. Uma forte tempestade causa a queda do avi√£o na imensid√£o gelada do Alasca, e apenas oito deles sobrevivem. Liderados pelo experiente ca√ßador John Ottway, os homens seguem rumo ao sul, onde pretendem encontrar a seguran√ßa da civiliza√ß√£o. Ferimentos mortais, a amea√ßa constante do gelo e uma alcateia de lobos famintos dificultam a jornada.</info>
 <genre>Drama</genre>
-<info>Wilfred James (Thomas Jane), È um fazendeiro que assassina a prÛpria esposa com a ajuda de seu filho. Depois do acontecido, com o remorso e uma sucess„o de problemas acontecendo logo apÛs o crime, Wilfred acredita que o espÌrito da sua esposa est· assombrando ele.</info>
-<fanart>https://str18.vidoza.net/i/11/00447/tsltj80esfau.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/1922.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR white]Esta … A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/esta-e-sua-morte-2017-legendado/</page></regex>
-<genre>Suspense,Terror e Drama</genre>
-<info>O p˙blico de hoje tornou-se apaixonado por assistir ‡ degradaÁ„o de outros na televis„o e na internet. Eles desejam um argumento selvagem, uma luta sangrenta ou um esc‚ndalo publicit·rio. Esta se tornou a principal fonte de entretenimento. Mas quando os limites parecem n„o poderem ser mais ultrapassados, o apresentador de um game show, Adam Rogers, decide quebrar as barreiras ao colocar no ar um novo show, no qual os concorrentes arriscam suas vidas pela chance de ganhar dinheiro. Adam sÛ ficar· satisfeito se seu reality show for o n˙mero um no ranking da audiÍncia, e ele n„o vai parar por nada para se certificar de que ele chega l·, mesmo que isso signifique perder sua humanidade.</info>
-<fanart>https://lh3.googleusercontent.com/proxy/BaQBhnrJAcodMGCAZtHhDsUeqEXV4DrPDc0BSzwf6iVhOOXzVNHdsCddtY30OFhyvlmFWhu3JVfPUYsvuKSRZKijxE8Lm67DQ8_cXVXyzTHGOiz0jgx3-wPICIlNGWVGoVnPu8U3-VFC80vfAxppcQ=w454-h324-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/13_1.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]Baywatch - S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
-<genre>AÁ„o,ComÈdia e Drama</genre>
-<info>Em Emerald Bay ninguÈm se destaca mais do que o lend·rio salva-vidas Mitch Buchannon (Dwayne "The Rock"). Como lÌder da equipe de Baywatch, Mitch tornou-se uma espÈcie de herÛi local. Mas o novo e insubordinado recruta do time Matt Brody (Zac Efron) anda tirando a sua paciÍncia. Apesar das desavenÁas, os dois se unem quando descobrem uma conspiraÁ„o criminosa local que ameaÁa o futuro da baÌa onde trabalham.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MDQ3MTE0NTNeQTJeQWpwZ15BbWU4MDUwOTAwMzIy._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/17991494_10155231994442052_4678730947847768271_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Fome de Poder (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/fome-de-poder/</page></regex>
+<title>[COLOR white][B]O Regresso (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORGRSODUB.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/12/17/18/20/090910.jpg</thumbnail>
+<fanart>http://www.hcnoar.com/image.axd?picture=2016%2F1%2Frevenant-leo-banner-1280jpg-9b4220-1280w_rqfb.jpg</fanart>
+<info>Ap√≥s ser atacado por um urso, o ca√ßador Hugh Glass √© abandonado na floresta por seu companheiro John Fitzgerald. Apesar de muito ferido, Glass consegue sobreviver e vai em busca de vingan√ßa.</info>
 <genre>Drama</genre>
-<info>A histÛria da ascenÁ„o do McDonald's. ApÛs receber uma demanda sem precedentes e notar uma movimentaÁ„o de consumidores fora do normal, o vendedor de Illinois Ray Kroc (Michael Keaton) adquire uma participaÁ„o nos negÛcios da lanchonete dos irm„os Richard e Maurice "Mac" McDonald no sul da CalifÛrnia e, pouco a pouco eliminando os dois da rede, transforma a marca em um gigantesco impÈrio alimentÌcio.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDE3MjQ5NzItNjczYy00ZTFmLWJlMzYtMTUwMzYxZjljOWEwXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/cwh5uycwgaevta5-jpg.jpg</thumbnail>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Sete Minutos Depois da Meia-Noite (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STMNDPSDMENTDUB.mp4</link>
+	<thumbnail>http://br.web.img3.acsta.net/pictures/16/06/18/13/58/389192.jpg</thumbnail>
+	<fanart>https://www.papodecinema.com.br/wp-content/uploads/2016/12/20161217-04-sete-minutos-depois-da-meia-noite-papo-	de-cinema.jpg</fanart>
+	<info>O garoto Conor tem muitos problemas na vida. Seu pai √© muito ausente, a m√£e sofre um um c√¢ncer em fase terminal, a av√≥ √© uma megera, e ele √© maltratado na escola pelos colegas. No entanto, todas as noites Conor tem o mesmo sonho, com uma gigantesca √°rvore que decide contar hist√≥rias para ele, em troca de escutar as hist√≥rias do garoto. Embora as conversas com a √°rvore tenham consequ√™ncias negativas na vida real, elas ajudam Conor a escapar das dificuldades por meio do mundo da fantasia.</info>
+	<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]N√£o Me Abandone Jamais (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NMABNDJMS.mp4</link>
+	<thumbnail>http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/87/35/00/19874582.jpg</thumbnail>
+	<fanart>https://3.bp.blogspot.com/_JD9ZIeYHyqs/TH2snqxRnJI/AAAAAAAAAGg/vsHgOGVF9HA/s500/Never+let+Me+Go+Movie.png</fanart>
+	<info>Os amigos Kathy, Tommy e Ruth crescem juntos em o que parece ser um id√≠lico col√©gio interno no interior ingl√™s. Quando eles deixam a escola e a horr√≠vel verdade sobre o prop√≥sito de suas vidas √© revelada, eles precisam simultaneamente confrontar os seus sentimentos de amor, ci√∫mes e trai√ß√µes, que amea√ßam acabar com sua amizade.</info>
+	<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Ela Dan√ßa, Eu Dan√ßo (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC1.mp4</link>
+	<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/87/00/41/20028598.jpg</thumbnail>
+	<fanart>https://simg.minhateca.com.br/554d66834e25b733c7a6f1343fafb091a81e1404?	url=https%3A%2F%2Fallshelikes.files.wordpress.com%2F2013%2F06%2Fstep-up-imagem-1.jpg</fanart>
+	<info>Tyler Gage √© um rapaz problem√°tico que tem que fazer trabalhos comunit√°rios em uma escola de arte. Ele chama a aten√ß√£o de Nora, uma talentosa bailarina que est√° tentando misturar passos de hip-hop ao bal√© cl√°ssico e que o convence a ajud√°-la.</info>
+	<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Ela Dan√ßa, Eu Dan√ßo 2 (Dublado) - 2007 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC2.mp4</link>
+	<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/90/37/63/20093733.jpg</thumbnail>
+	<fanart>https://simg.minhateca.com.br/554d66834e25b733c7a6f1343fafb091a81e1404?	url=https%3A%2F%2Fallshelikes.files.wordpress.com%2F2013%2F06%2Fstep-up-imagem-1.jpg</fanart>
+	<info>Quando a rebelde dan√ßarina de rua Andie se junta ao moderno dan√ßarino Chase para participar de uma grande e acirrada competi√ß√£o, as fa√≠scas se espalham dentro e fora do palco.</info>
+	<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Ela Dan√ßa, Eu Dan√ßo 3 (Dublado) - 2010 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC3.mp4</link>
+	<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/90/37/67/20093741.JPG</thumbnail>
+	<fanart>https://simg.minhateca.com.br/554d66834e25b733c7a6f1343fafb091a81e1404?	url=https%3A%2F%2Fallshelikes.files.wordpress.com%2F2013%2F06%2Fstep-up-imagem-1.jpg</fanart>
+	<info>O mundo da dan√ßa de rua de Nova York √© o cen√°rio para a hist√≥ria de dois dan√ßarinos talentosos, Luke e Natalie. A dupla se une a um estudante calouro da Universidade de Nova York chamado Moose para uma competi√ß√£o de hip hop que mudar√° suas vidas para sempre.</info>
+	<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Ela Dan√ßa, Eu Dan√ßo 4 (Dublado) - 2012 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC4.mp4</link>
+	<thumbnail>http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/91/00/22/20156867.jpg</thumbnail>
+	<fanart>https://simg.minhateca.com.br/554d66834e25b733c7a6f1343fafb091a81e1404?	url=https%3A%2F%2Fallshelikes.files.wordpress.com%2F2013%2F06%2Fstep-up-imagem-1.jpg</fanart>
+	<info>A filha de um rico empres√°rio sonha em ser dan√ßarina. Ao saber que o pai amea√ßa destruir um bairro hist√≥rico em Miami, ela se alia ao l√≠der de um grupo de dan√ßa flash mob e transforma sua arte em protesto, arriscando seus sonhos por uma causa maior.</info>
+	<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Ela Dan√ßa, Eu Dan√ßo 5: Tudo ou Nada (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC5.mp4</link>
+	<thumbnail>http://4.bp.blogspot.com/-	S6G6Lha1Gms/VaaCvbm7qfI/AAAAAAAAGEo/TRL190Javn0/s1600/eladan%25C3%25A7aeudan%25C3%25A7o5.jpg</thumbnail>
+	<fanart>https://simg.minhateca.com.br/554d66834e25b733c7a6f1343fafb091a81e1404?	url=https%3A%2F%2Fallshelikes.files.wordpress.com%2F2013%2F06%2Fstep-up-imagem-1.jpg</fanart>
+		<info>O dan√ßarino Sean se muda para Hollywood perseguindo o sonho de se tornar famoso, por√©m encontra barreiras quase intranspon√≠veis para vencer no mundo da dan√ßa. Mas quando ouve falar de uma competi√ß√£o, ele e seu novo grupo de dan√ßarinos decidem participar e conseguem chegar √†s finais. Agora, eles fazem de tudo para finalmente alcan√ßar a fama e o sucesso.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Capit√£o Fant√°stico (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4</link>
+	<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/16/09/21/19/14/207893.jpg</thumbnail>
+	<fanart>http://netb.tmsimg.com/assets/p12433041_i_h10_aa.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</fanart>
+		<info>Nas florestas do estado de Washington, um pai cria seus seis filhos longe da civiliza√ß√£o, em uma r√≠gida rotina de aventuras. Ele √© for√ßado a deixar o isolamento e leva sua fam√≠lia para encarar o mundo, desafiando sua ideia do que significa ser pai.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]A Fabulosa Gilly Hopkins (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFBLSGLHP.mp4</link>
+	<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/17/04/25/17/15/467290.jpg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/zgQ1HJ6GzIA/maxresdefault.jpg</fanart>
+		<info>Gilly Hopkins √© uma garota de 12 anos que passa por diversos lares adotivos durante a vida. Ao ser enviada para a casa de Maime Trotter, ela planeja uma fuga para se juntar √† sua m√£e biol√≥gica, mas as coisas n√£o s√£o t√£o simples quanto ela imaginava.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Um Limite Entre N√≥s (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMLMTENTNS.mp4</link>
+	<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/17/02/20/19/50/417698.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jNlCIAcheh0iOuL3kz9x1Wq9WLG.jpg</fanart>
+		<info>Baseado na aclamada e premiada pe√ßa teatral hom√¥nima, um jogador de beisebol aposentado, que sonhava em se tornar uma grande estrela do esporte durante sua inf√¢ncia, agora trabalha como coletor de lixo para sobreviver. Ele ter√° de navegar pelas complicadas √°guas de seu relacionamento com a esposa, o filho e os amigos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Peles (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PLES.mp4</link>
+	<thumbnail>http://www.cineplayers.com/img/cartazes/30718_poster.jpg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/sdr_Bwbybsk/maxresdefault.jpg</fanart>
+		<info>Em uma sociedade extremamente tomada pela cultura do visual, pessoas com diferen√ßas f√≠sicas curiosas s√£o for√ßados a se esconder, se tornando reclusas entre elas. Dentre elas est√£o Samantha, uma mulher com o sistema digestivo de cabe√ßa para baixo, Laura, uma menina sem olhos e Ana, que possui o rosto deformado. Juntas, esfor√ßam-se para se encontrar em uma sociedade que s√≥ entende uma forma f√≠sica e maltrata o diferente.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]O Desvio (Dublado) - 2011 - 720p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ODSVIO.mp4</link>
+	<thumbnail>http://megafilmestorrent.org/wp-content/uploads/2015/06/O-Desvio-Torrent.jpg</thumbnail>
+	<fanart>http://tbsila.cdn.turner.com/tbsila/tvela/images/10654/161369/h/630/tntgo-swerve-br.jpg</fanart>
+		<info>Um homem sofre um acidente de carro numa estrada da Austr√°lia e descobre que o outro motorista morreu, uma mulher est√° ferida e h√° uma pasta cheia de dinheiro no local. Ao recorrer √†s autoridades, provoca uma s√©rie de problemas violentos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Nossos Amantes (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NOSAMNTS.mp4</link>
+	<thumbnail>https://img.fstatic.com/2rJV4J2cAykOGcRyaWN8t4oRrtI=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/05/nuestro-amantes_t124967.jpg</thumbnail>
+	<fanart>https://4.bp.blogspot.com/-aZ1AovlF1g8/WPMz8DQJfMI/AAAAAAAAB58/tsmQK-g15pEzDyCrDMb1L0_LCpvdjB8XACLcB/s1600/nossos-amantes-torrent-download.jpg</fanart>
+		<info>Conta a hist√≥ria do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas est√£o √† deriva, e o fez lembrar da import√¢ncia de se atrever a sonhar.</info>
+		<genre>Drama</genre>
+</item>
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Fazenda Dos Cisnes (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FZNDSCSN.mp4</link>
+	<thumbnail>https://2.bp.blogspot.com/-rshVdX18mLo/WO_lsN28vLI/AAAAAAAAG3I/1MWZPFJE5-cRWoL1X_W2nMuYwvBgmzpwgCLcB/s1600/cover.png</thumbnail>
+	<fanart>http://1.bp.blogspot.com/-Ms27W2NBhPg/Vg5yyl0QUuI/AAAAAAAAJ9o/A9mULcHGx8g/s1600/Fazenda%2Bdos%2Bcisnes%2Bfilme%2B1.png</fanart>
+		<info>A pequena Frankie (Maggie Elizabeth Jones) e seus dois irm√£os querem salvar filhotes de cisne ap√≥s a morte da m√£e. Esta situa√ß√£o far√° Jennie (Minka Kelly), uma antip√°tica ornit√≥loga, e o vi√∫vo pai das crian√ßas, Jack (Jason Lee), a cultivar um belo v√≠nculo.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Coragem em Campo (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4</link>
+	<thumbnail>http://www.pirate3dm.com/wp-content/uploads/2017/03/Coragem-em-Campo.jpg</thumbnail>
+	<fanart>http://i.imgur.com/cKqioHo.jpg</fanart>
+		<info>O maior sonho da vida de Freddie √© ser jogador de futebol americano. Mesmo n√£o tendo a altura ideal, Freddie treina duro e n√£o desiste. Ao chamar a aten√ß√£o de Darrell, treinador dos Longhorns, time da Universidade do Texas, ele tem a chance de provar seu valor.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Armas na Mesa (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ARMSNMSA.mp4</link>
+	<thumbnail>http://br.web.img2.acsta.net/pictures/16/12/20/14/36/470771.jpg</thumbnail>
+	<fanart>http://www.movieaholic.com.br/wp-content/uploads/2017/03/2-4.jpg</fanart>
+		<info>Elizabeth Sloane √© uma poderosa estrategista pol√≠tica que arrisca sua carreira a fim de passar com sucesso uma emenda com leis de controle de armas mais r√≠gidas.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+	<title>[COLOR white][B]Al√©m Da Realidade (Dublado) - 2016 - 720p[/B][/COLOR]</title>
+	<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALMDRLD.mp4</link>
+	<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/16/06/24/00/15/238609.jpg</thumbnail>
+	<fanart>https://2.bp.blogspot.com/-pT-bWvt3kk8/WGYSc6qSnfI/AAAAAAAAZyA/DjY9lh9iWn0f35-Q22KqRHL3W-KECIwWQCLcB/s1600/Al%25C3%25A9m%2Bda%2BRealidade%2B%25282016%2529..jpg</fanart>
+		<info>Um casal, desesperado para ter filhos e ap√≥s in√∫meras tentativas infrut√≠feras, contrata uma mulher para servir como barriga de aluguel. Quando ela entra em um avan√ßado est√°gio de gesta√ß√£o, a mulher desenvolve uma perigosa obsess√£o direcionada ao futuro pai do beb√™.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Pandora (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PNDRA.mp4</link>
+<thumbnail>https://img.fstatic.com/WqI2Zgj3mkEhFTrna4gbsO2AtFU=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/03/p13875730_p_v8_aa.jpg</thumbnail>
+<fanart>http://screenanarchy.com/assets/2016/12/2016%20-%20Pandora.jpg</fanart>
+		<info>Jae-Hyeok (Kim Nam-Gil) luta para salvar a sua fam√≠lia e o seu pa√≠s de um desastre nuclear. Jae-Hyeok vive com sua m√£e (Kim Young-Ae), sua cunhada (Moon Jeong-Hee) e sobrinho Min-Jae (Bae Gang-Yoo) em uma pequena cidade coreana. Ele est√° namorando Yeon-Joo (Kim Joo-Hyun) e trabalha na usina nuclear local. Enquanto isso, Pyung-Sub (Jung Jin-Young) trabalha na mesma usina nuclear. Ele est√° preocupado com as condi√ß√µes l√°, mas ningu√©m no governo o escuta. Um terremoto atinge a pequena cidade onde Jae-Hyeok vive e causa explos√µes na usina nuclear. A situa√ß√£o rapidamente fica fora de controle, levando toda a na√ß√£o a entrar em p√¢nico. Para evitar outro desastre nuclear, Jae-Hyeok e seus colegas de trabalho retornam √† usina nuclear.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Monstro no Arm√°rio (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSNTNARMR.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/16/03/16/20/45/082983.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-fFUhwFsQt9s/WNvIBsAb-1I/AAAAAAAB_x8/xnvD3Nwe5cs0qfDjY-bz7SXk9kJ7o9vfQCLcB/s0/O%2BMonstro%2BDo%2BArm%25C3%25A1rio.jpg</fanart>
+		<info>Oscar √© um adolescente emocionalmente inst√°vel e traumatizado, por√©m muito criativo que deseja fugir das mem√≥rias de sua inf√¢ncia complicada e dolorosa. Certo dia, algo extraordin√°rio muda sua vida por completo e o ajuda a descobrir sua identidade.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Horizonte Profundo: Desastre no Golfo (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/16/04/05/19/53/569935.jpg</thumbnail>
+<fanart>http://republikapop.com.br/wp-content/uploads/2016/11/horizonte-profundo-desastre-no-golfo-chamada.jpg</fanart>
+		<info>Conhe√ßa a hist√≥ria de sobreviv√™ncia e valor de 126 trabalhadores presos durante uma explos√£o em uma plataforma de extra√ß√£o de petr√≥leo no Golfo do M√©xico.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Mestre dos G√™nios (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSTRDSGNS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/16/06/03/21/11/097750.jpg</thumbnail>
+<fanart>http://cinemabh.com/wp-content/uploads/2016/10/O-Mestre-dos-G%C3%AAnios.jpg</fanart>
+		<info>Confira a rela√ß√£o entre editor e escritor por meio da experi√™ncia de trabalho do editor Max Perkins, com diferentes mestres da literatura como Thomas Wolfe, Hemingway e Fitzgerald.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Call to Duty: Fora de Alcance (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4</link>
+<thumbnail>https://img.fstatic.com/pTbt5LuhhsUium4hHwPtQSo677Y=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BMjM2NzQyOTMxN15BMl5BanBnXkFtZTgwMDA3ODExMDI._V1_UY317_CR200214317_AL_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/N3n_jc1_iFY/maxresdefault.jpg</fanart>
+		<info>Parte do batalh√£o de opera√ß√µes especiais, o Esquadr√£o Alpha tinha uma miss√£o de reconhecimento que parecia ser simples. Entretanto, eles s√£o atacados por um grupo de zumbis sanguin√°rios - e sua guerra ser√° pela sobreviv√™ncia e continuidade da ra√ßa humana.</info>
+		<genre>Drama</genre>
+</item>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Hora de Voltar (Dublado) - 2004 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRDVLTR.mp4</link>
+<thumbnail>https://img.fstatic.com/of1jXvtQEs7_JFvT7EJsEJk_jyE=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2012/03/5423d1ddc05c53948487608eefa629ce.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-AczdZYs7AZ0/UTWQlVAmvqI/AAAAAAAAASI/7kX1iIow4gw/s1600/18373705.jpg</fanart>
+		<info>Depois de aus√™ncia de muitos anos, o ator Andrew Largeman volta para sua cidade em Nova Jersey para ir ao enterro da m√£e. O passado parece sufoc√°-lo, e ele n√£o sabe como lidar com o pai arrogante e outras figuras de sua vida.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Como Eu Era Antes de Voc√™ (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/16/02/03/19/11/303307.jpg</thumbnail>
+<fanart>http://republikapop.com.br/wp-content/uploads/2016/02/Cinema-Como-Eu-Era-Antes-de-Voce-Trailer.jpg</fanart>
+		<info>A jovem e peculiar Louisa "Lou" Clark transita de emprego a emprego para ajudar a sustentar sua fam√≠lia. Entretanto, sua atitude alegre √© testada quando se torna cuidadora de Will Traynor.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Meu Irm√£o Cego (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MEUIRMCG.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kToi62HGVUGGdzyw7ACwK9uBUWj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hEbD12inXMxAacjvw4lA9p4SUrA.jpg</fanart>
+		<info>Robbie (Adam Scott) √© um atleta cego campe√£o e um her√≥i local. Seu irm√£o Bill (Nick Kroll) sempre
+foi ignorado, mesmo quando ele corria todas as maratonas ao seu lado. Quando os dois se apaixonam pela mesma mulher, Bill deve decidir se ir√° se colocar em segundo lugar mais um vez ou finalmente ir√° se impor sobre seu irm√£o.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Amor & Amizade (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMREAMZD.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/16/07/03/22/47/375171.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-z7Gyrbwpc94/V36FXW5GB2I/AAAAAAAAEyo/7iJj3Plb4SQ9mvjmSNoW9WQanjn_H7eHgCLcB/s1600/Amor%2Be%2BAmizade%2B-%2B1920x1080.jpg</fanart>
+		<info>Para fugir das fofocas sobre seus casos amorosos, a vi√∫va Lady Susan Vernon busca ref√∫gio na casa dos antigos sogros e decide arranjar um novo marido para si e um bom pretendente para sua filha, Frederica.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Contador (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCNTDR.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/16/05/26/09/01/502331.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/EZw5etrt9xs/maxresdefault.jpg</fanart>
+		<info>Christian Wolff, um contador com uma s√≠ndrome que limita suas habilidades sociais, cuida da contabilidade das organiza√ß√µes criminosas mais perigosas do mundo. Ao assumir um outro cliente, uma a empresa de rob√≥tica "state-of-the-art", quanto mais perto ele chega da verdade, maior √© o n√∫mero de corpos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Programa (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OPRGMA.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/17/01/03/14/19/379106.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-nuC3LGYskZw/WDG5GLLXQCI/AAAAAAAAJ9w/9A3CqZwMn3ow4kzQMfi9eGAJdjw-M-4GQCLcB/s1600/o_programa3.jpg</fanart>
+		<info>Quando come√ßa a carreira de ciclista, Lance Armstrong (Ben Foster) √© considerado inferior aos concorrentes por sua t√©cnica e seu t√≠pico f√≠sico. Perseguindo a vit√≥ria a qualquer custo, ele junta-se ao programa de um m√©dico italiano e passa a usar todos os tipos de drogas experimentais para melhorar a sua performance. Rapidamente, ele se torna o melhor ciclista do mundo, vencendo sete edi√ß√µes do Tour de France, contando com um indetect√°vel esquema de doping e com a coniv√™ncia das institui√ß√µes esportivas. Mas um dia, a verdade por tr√°s de suas conquistas √© revelada ao p√∫blico.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Uma Can√ß√£o (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMACNCAO.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/14/11/13/08/11/157426.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/K0Vx4Xi4vhE/maxresdefault.jpg</fanart>
+		<info>Uma arque√≥loga (Anne Hathaway) est√° de volta aos Estados Unidos ap√≥s um per√≠odo de escava√ß√µes no Marrocos, onde seu irm√£o sofreu um acidente. Ao retornar, ela se envolve com um astro do rock (Johnny Flynn), que vem a ser o m√∫sico preferido de seu irm√£o.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Ritmo Total (Dublado) - 2002 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RTMTOTL.mp4</link>
+<thumbnail>http://4.bp.blogspot.com/-PEdOazzQP80/UhWG9RIZcYI/AAAAAAAAAU8/tkN6C9RZSIA/s1600/Ritmo+Total.jpg</thumbnail>
+<fanart>http://3.fotos.web.sapo.io/i/G980448e1/19531141_gS9p8.jpeg</fanart>
+		<info>Jovem talentoso pretende que sua banda da faculdade seja um sucesso e saia vitoriosa do concurso de bandas universit√°rias, mas devido ao seu temperamento ego√≠sta, enfrenta problemas de relacionamento que podem por fim √†s suas pretens√µes.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Os Embalos de S√°bado √† Noite (Dublado) - 1978 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OSEMBLDSBDANT.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/95/20/16/20387656.jpg</thumbnail>
+<fanart>https://velhaonda.files.wordpress.com/2014/07/saturday-night-fever-2.jpg</fanart>
+		<info>Levando uma vida tranquila e ainda morando com os pais, Tony trabalha em uma loja de tintas no Brooklyn. Nos fins de semana, ele se veste bem e vai com amigos √† discoteca, onde se inscreve em concurso de dan√ßas prestes a come√ßar.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Opera√ß√£o Drag√£o (Dublado) - 1973 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OPRCDRGO.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/97/24/09/20517729.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Teu9HI6Tfdo/maxresdefault.jpg</fanart>
+		<info>O chef√£o chin√™s Han realiza um torneio de artes marciais em sua ilha-fortaleza, mas o evento serve apenas de desculpa para o recrutamento de novos distribuidores de √≥pio.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Aviador (Dublado) - 2005 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OAVIDOR.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/68/88/64/20063821.jpg</thumbnail>
+<fanart>http://d20inc.com.br/wp-content/uploads/2016/02/031.jpg</fanart>
+		<info>Depois de receber a heran√ßa de seu pai, Howard Hughes passou a investir na ind√∫stria do cinema e ajudou a carreira de grandes nomes de Hollywood. Apesar de sucesso e riqueza, o pioneiro da avia√ß√£o sofria de depress√£o e fobias paralisantes.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]A F√∫ria do Drag√£o (Dublado) - 1972 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFRDRGO.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/210/139/21013970_20130619190535264.jpg</thumbnail>
+<fanart>http://www.apertastart.com.br/wp-content/uploads/2013/11/bruce-lee-poster-vintage1920x12001.jpg</fanart>
+		<info>Chen Chen retorna a sua escola em Xangai quando descobre que seu amado professor foi assassinado. Enquanto investiga sua morte, descobre que uma escola japonesa rival tem uma opera√ß√£o de tr√°fico de drogas. Para se vingar ele acaba com os assassinos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Johnny & June (Dublado) - 2005 - 720p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JOHNTEJNE.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/89/61/89/20169451.jpg</thumbnail>
+<fanart>https://durango95br.files.wordpress.com/2011/12/cash-4.jpg</fanart>
+		<info>A ascens√£o do famoso cantor Johnny Cash, uma lenda da m√∫sica country. Cash foi um garoto criado em um s√≠tio e vivia com o descaso de seu pai. Com o passar dos anos, ele vai com sua esposa para Memphis, no Tennessee, onde come√ßa a gravar. Durante uma turn√™, Cash conhece o amor de sua vida, a cantora June Carter, mas seu estilo de vida vol√°til amea√ßa separ√°-los.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Horas Decisivas (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRSDCSVS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/16/01/29/18/02/253848.jpg</thumbnail>
+<fanart>http://cinescopiotv.com/blog/wp-content/uploads/2016/02/maxresdefault.jpg</fanart>
+		<info>Dois navios petroleiros s√£o destru√≠dos durante uma tempestade de neve na costa de Cape Cod, em 1952, levando a guarda costeira a fazer uma perigosa tentativa de resgate de mais de 30 tripulantes que est√£o presos dentro das embarca√ß√µes.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Honey: No Ritmo dos Seus Sonhos (Dublado) - 2003 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HONY1.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/87/89/16/19962610.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/5jnk4bzHhLI/maxresdefault.jpg</fanart>
+		<info>Honey Daniels √© uma dan√ßarina de hip-hop que d√° aulas para os jovens de seu bairro e tem um sonho: coreografar videoclipes. O diretor Michael Ellis a v√™ dan√ßando e a convida para participar de um videoclipe. Mas Honey v√™ que o sucesso tem um pre√ßo.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Honey 2: No Ritmo dos Sonhos (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HONY2.mp4</link>
+<thumbnail>http://2.bp.blogspot.com/-QW2leVIEFgo/UklsydaYyJI/AAAAAAAACns/FMizy5llybE/s1600/Honey+2+-+No+Ritmo+dos+Sonhos.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/dvd-dos-dvd-D_NQ_NP_16204-MLB20116322701_062014-F.jpg</fanart>
+		<info>Ap√≥s ser liberada de um centro de deten√ß√£o juvenil, uma dan√ßarina talentosa se prepara para competir em um show de talentos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Honey 3: No Ritmo do Amor (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HONY3.mp4</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/9f/a5/d6/9fa5d61fb0acbeaf6b46e9c37371a01c.jpg</thumbnail>
+<fanart>http://oi65.tinypic.com/10gisfk.jpg</fanart>
+		<info>Universit√°ria aluga um teatro decadente e apresenta uma vers√£o hip-hop de "Romeu e Julieta".</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]For√ßa Para Viver (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FRCPRVIV.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/14/09/18/15/33/390116.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-g6fm02A58FU/VkvxVUUlNHI/AAAAAAAADqg/sb--7FQFTjw/s1600/8534%2B-%2BHoovey%2B%25282015%2529.jpg</fanart>
+		<info>Depois da morte do filho adolescente, um pai tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma s√©rie letras de m√∫sicas e grava√ß√µes originais. Para honrar a mem√≥ria do filho, ele decide montar uma banda para tocar estas can√ß√µes.</info>
+		<genre>Drama</genre>
+</item>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]As Torres G√™meas (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTRSGMS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/96/49/36/20470979.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/qBPsdNP23qqHUE7niOgKSPNnUSO.jpg</fanart>
+		<info>O World Trade Center √© um complexo de edif√≠cios na regi√£o de Lower Manhattan, Nova Iorque, Estados Unidos, em substitui√ß√£o ao complexo original de sete pr√©dios que anteriormente existia no local com o mesmo nome.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Amor e Revolu√ß√£o (Dublado) - 2015 - 720p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRERVLC.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/16/05/24/18/07/281147.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-Kau3pi-VRJI/V38fj_oFh_I/AAAAAAAB1DE/K7opkH98K2s7vpyKmkvXmQbyMsVG71n7QCLcB/s0/capa%2Bdvd%2Bwww.gamecover.com.br%2B%252812%2529.jpg</fanart>
+		<info>Um jovem casal se envolve no golpe de Estado do Chile em 1973. Ele √© sequestrado pela pol√≠cia secreta de Pinochet, e ela vai seguir a pista at√© uma √°rea no sul do pa√≠s chamado Colonia Dignidad.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]A Fera (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFERA.mp4</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a0/75/b3/a075b38f968c064d4198364c5c1445bb.jpg</thumbnail>
+<fanart>https://maniacosporfilme.files.wordpress.com/2012/03/a-fera-0.jpg</fanart>
+		<info>Kyle era um jovem bem sucedido e cobi√ßado pelas mulheres, mas ao tentar humilhar Kendra, ela lan√ßa uma maldi√ß√£o que o deixa com o rosto deformado. Envergonhado, ele passa a viver isolado com a companhia de uma empregada e um professor cego contratado para lhe dar aulas. Para quebrar o feiti√ßo, Kyle tem que fazer com que uma mulher consiga am√°-lo de verdade. Ele volta a ter esperan√ßas quando se aproxima de Lindy, uma colega da escola.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Em Meus Sonhos (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/EMSNHS.mp4</link>
+<thumbnail>http://onlinecineplay.com/wp-content/uploads/2017/08/xJXyLw1.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-2AuwewOTvpI/Vp-gNLJpe5I/AAAAAAAASQA/m3BVcu4aNgY/s1600/in%2Bmy%2Bdreams.jpg</fanart>
+		<info>Depois de se encontrarem apenas em seus sonhos, um homem e uma mulher t√™m sete dias para transformar suas vis√µes rom√¢nticas em realidade.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]O Vendedor de Sonhos - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*HOS.*?)" fra</expres>
-<page>http://netcine.us/o-vendedor-de-sonhos/</page></regex>
-<genre>Drama</genre>
-<info>AdaptaÁ„o do best-seller homÙnimo do psicoterapeuta e escritor Augusto Cury. J˙lio CÈsar, um psicÛlogo decepcionado com a vida em geral, tenta o suicÌdio, mas È impedido de cometer o ato final por intermÈdio de um mendigo, o "Mestre". Uma amizade peculiar surge entre os dois e, logo, a dupla passa a tentar salvar pessoas ao apresentar um novo caminho para se viver.</info>
-<fanart>http://br.web.img3.acsta.net/pictures/16/12/01/14/18/460043.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/O_Vendedor_de_Sonhos_-_PÙster_-_Filme.jpg</thumbnail>
+<title>[COLOR white][B]Ele Nunca Morre (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELENCMRR.mp4</link>
+<thumbnail>http://megafilmesonline.net/wp-content/uploads/2016/08/TS3BGgODnBHQPmlenTm6PbtyfT.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/lTCPu2Aq-uk/maxresdefault.jpg</fanart>
+		<info>Quando Jack subitamente encontra sua filha perdida h√° muito tempo, levada pelo crime organizado da cidade, ele precisa combater seus dem√¥nios interiores enquanto embarca em uma guerra sangrenta para vingar-se e salv√°-la.</info>
+		<genre>Drama</genre>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]√Ä Procura da Liberdade (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/APRCURDLBRD.mp4</link>
+<thumbnail>http://www.secbotucatu.org.br/site/wp-content/uploads/2017/06/a-procura-da-liberdade.jpg</thumbnail>
+<fanart>http://www.movieaholic.com.br/wp-content/uploads/2016/08/3-5.jpg</fanart>
+		<info>Embora tenham vivido em s√©culos diferentes, dois homens t√™m o mesmo objetivo: alcan√ßar a liberdade.
+Em 1856, o escravo Samuel Woodward e sua fam√≠lia escapam da planta√ß√£o Monroe, perto de Richmond, Virginia. A rede secreta conhecida como Underground Railroad orienta a fam√≠lia em sua jornada em dire√ß√£o ao Canad√°.
+Eles s√£o implacavelmente perseguidos pelo not√≥rio ca√ßador de escravos Plimpton (William Sadler). Ca√ßado como um c√£o e assombrado pelo sofrimento inconceb√≠vel enfrentado por ele e seus antepassados, Samuel √© for√ßado a decidir entre a vingan√ßa e a liberdade. 
+Aproximadamente cem anos antes, em 1748, John Newton, capit√£o de um navio negreiro, sai da √Åfrica levando escravos rumo √† Am√©rica. A bordo, est√° o bisav√¥ de Samuel, cuja sobreviv√™ncia est√° ligada ao destino do Capit√£o Newton. A viagem muda a vida de Newton para sempre, e ele cria um legado que inspirar√° Samuel e a vida de milh√µes de pessoas por gera√ß√µes.</info>
+		<genre>Drama</genre>
+</item>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]√Ä Procura da Felicidade (Dublado) - 2007 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APRCRDFLCDAD.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/86/96/34/20028591.jpg</thumbnail>
+<fanart>http://br.web.img2.acsta.net/playlist/16/12/29/17/37/058348.jpg</fanart>
+		<info>Chris Gardner enfrenta uma vida dif√≠cil. Despejado de seu apartamento, este pai solteiro e seu filho n√£o t√™m onde morar. Chris consegue um est√°gio n√£o remunerado em uma firma de prest√≠gio. Sem dinheiro, os dois s√£o obrigados a viver em abrigos, mas Chris est√° determinado a criar um vida melhor para ele e seu filho.</info>
+		<genre>Drama</genre>
+</item>
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Poderoso Chef√£o 3 (Dublado) - 1990 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPDRSOCFAO3.mp4</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/68/73/9e/68739e5fc419ed59308048dc0207c066---change-.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-nulU8x9TYaQ/T2ImR--6qtI/AAAAAAAAPNA/zkq15_GzfeU/s1600/The_Godfather_Don_Vito3_by_donvito62.png</fanart>
+		<info>Don Michel Corleone est√° envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitima√ß√£o dos interesses da fam√≠lia, em Nova York e na It√°lia, antes de sua morte. Mas seu protegido n√£o est√° s√≥ interessado em parte do imp√©rio da fam√≠lia. Ele tamb√©m deseja a filha de Michael, Mary.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Poderoso Chef√£o 2 (Dublado) - 1974 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPDRSOCFAO2.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/90/93/27/20120933.jpg</thumbnail>
+<fanart>https://images7.alphacoders.com/461/thumb-1920-461499.jpg</fanart>
+		<info>Ap√≥s a m√°fia matar sua fam√≠lia, o jovem Vito foge da sua cidade na Sic√≠lia e vai para a Am√©rica. Vito luta para manter sua fam√≠lia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam√≠lia √© o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs√µes em Las Vegas e Havana instalando neg√≥cios ligados ao lazer, mas descobre que aliados como Hyman Roth est√£o tentando mat√°-lo.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Poderoso Chef√£o (Dublado) - 1972 - 1080p[/B][/COLOR]</title>
+<link>O Poderoso Chef√£o (Dublado) - 1972 - 1080p</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/90/93/20/20120876.jpg</thumbnail>
+<fanart>http://images.cinetop.com.br/uploads/2014/10/vito.jpeg</fanart>
+		<info>A saga conta a hist√≥ria de uma fam√≠lia mafiosa que luta para estabelecer sua supremacia na Am√©rica depois da Segunda Guerra. Uma tentativa de assassinato deixa Vito Corleone incapacitado e for√ßa os filhos Michael e Sonny a assumirem os neg√≥cios.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Striptease (Dublado) - 1996 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRPTESE.mp4</link>
+<thumbnail>https://m.movieposter.com/posters/archive/main/68/MPW-34029</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/3/2/striptease-desktop-backgrounds-movie-wallpaper-computer-39938.jpg</fanart>
+		<info>Uma m√£e solteira aceita um emprego como stripper em uma casa noturna de Miami tentando conseguir dinheiro para recuperar a cust√≥dia de sua filha. Logo, ela se v√™ envolvida nas vidas dos empregados e clientes do estabelecimento, e um congressista conservador desprez√≠vel come√ßa a persegui-la.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Spotlight: Segredos Revelados (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPTGHTSCRDSRVLDS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/12/11/13/14/181510.jpg</thumbnail>
+<fanart>http://revistapreview.com.br/wp-content/uploads/2015/12/spotlight-segredos-revelados-poster-2015.jpg</fanart>
+		<info>Um grupo de jornalistas investiga o abuso de crian√ßas por padres cat√≥licos, acobertados pela Igreja. Eles conseguem reunir documentos que podem provar os crimes cometidos e o envolvimento de l√≠deres religiosos que tentaram ocultar os casos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Romeu e Julieta (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RMUEJLETA.mp4</link>
+<thumbnail>http://recantoadormecido.com.br/wp-content/uploads/2013/09/Romeo-and-Juliet-Official-Poster-Banner-PROMO-POSTER-26JULHO2013.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Gp9yaZcrtnU/maxresdefault.jpg</fanart>
+		<info>A tr√°gica hist√≥ria cl√°ssica de Shakespeare de Romeu Montecchio e Julieta Capuleto, dois adolescentes que se apaixonam perdidamente e decidem ficar juntos. Mas como suas fam√≠lias s√£o rivais e est√£o em uma eterna guerra, vivem um intenso amor proibido.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Bravetown (Dublado) - 2015 - 720p[/B][/COLOR]</title>
+<link>https://cdn.traileraddict.com/content/e1-entertainment/bravetown.jpg</thumbnail>
+<fanart>http://redcarpetrefs.com/wp-content/uploads/2015/04/Bravetown_slider.png</fanart>
+		<info>Josh possui um grande talento com m√∫sica, mas ap√≥s um problema com drogas √© obrigado a morar com seu pai e entra em uma jornada para fazer as pazes com a fam√≠lia e amigos do passado.</info>
+		<genre>Drama</genre></item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Ador√°vel Professora (Dublado) - 2013 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADRVLPRFSRA.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/97/31/97/20522568.jpg</thumbnail>
+		<info>Linda Sinclair √© uma professora de ingl√™s que vive na pequena cidade de Kingston, Pensilv√¢nia. Ela leva uma vida tranquila at√© reencontrar um antigo aluno, Jason Sherwood, que acaba de retornar √† cidade. Jason tem o sonho de se tornar um grande autor teatral. Para ajud√°-lo, Linda resolve encenar a pe√ßa escrita por ele na escola em que trabalha. A parti da√≠, ela come√ßa a perceber que sente algo mais por Jason.</info>
+		<genre>Drama</genre>
+<fanart>http://i.imgur.com/asWrNHi.jpg</fanart>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]A Arte da Paix√£o (Dublado) - 2013 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AARTDPXA.mp4</link>
+<thumbnail>https://img.fstatic.com/CYmNa4u7O9t9KG_A3J4ecE5LXhQ=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2013/11/summer-in-february_t62444_2.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-xLe9VArZMIQ/VBNPdE2TjbI/AAAAAAAANpA/nONqKFuggMg/s1600/A%2BARTE%2BDA%2BPAIX%C3%83O.jpg</fanart>
+		<info>No s√©culo 20, uma escola brit√¢nica re√∫ne grandes talentos da √©poca. Florence Carter-Woods e Gilbert Evans, dois aspirantes a artistas, come√ßam um romance. Por√©m, a mo√ßa se v√™ dividida entre Gilbert e Alfred, um talentoso pintor.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Watchmen - O Filme (Dublado) - 2009 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/WTCHMNOFLM.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/87/24/64/19873508.jpg</thumbnail>
+<fanart>http://cdn.wallpapersafari.com/20/32/FxvGy0.jpg</fanart>
+		<info>Um de seus antigos colegas √© assassinado, e o vigilante mascarado Rorschach decide investigar um plano para matar e desacreditar todos os super-her√≥is do passado e do presente. √Ä medida que ele se reconecta com sua antiga legi√£o de combate ao crime, um grupo desorganizado de super-her√≥is aposentados, dentre os quais somente um possui verdadeiros poderes, Rorschach vislumbra uma ampla e perturbadora conspira√ß√£o que est√° ligada ao passado deles e a catastr√≥ficas consequ√™ncias para o futuro.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Steve Jobs (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STVJBS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/09/09/20/14/551564.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-JYz-diKrE78/VZ04YQXH0TI/AAAAAAAAyuY/fMV_9AHSGX0/s1600/steve-jobs-movie.jpg</fanart>
+		<info>O filme destaca momentos decisivos na vida de Steve Jobs, desde o lan√ßamento do primeiro Macintosh, em 1984, e a cria√ß√£o da NeXT Inc, at√© a introdu√ß√£o revolucion√°ria do iMac. Fatos da vida pessoal de Jobs tamb√©m s√£o revelados, especialmente o conturbado relacionamento com sua primeira filha Lisa.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Tempo N√£o Espera por Ningu√©m (Dublado) - 2015 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTMPNESPRPNGM.mp4</link>
+<thumbnail>https://2.bp.blogspot.com/-KpuOQrRdKoI/VvIBBYh4ntI/AAAAAAAABgU/lo1BpuZHUKk0JfavClzoptSrME-sQhNOw/s1600/o%2Btempo%2Bnao%2Bespera%2Bpor%2Bninguem%2Bfrente.jpg</thumbnail>
+<fanart>http://br.web.img2.acsta.net/pictures/15/06/23/13/37/520089.jpg</fanart>
+		<info>Depois de um grave acidente rodovi√°rio que causa a morte de uma equipe de basquete local, a cidade de Rockwell se transforma completamente. Gra√ßas a um pacto maligno, todos os sobreviventes do lugar deixam de envelhecer e morrer. Um dia, um garoto misterioso chega na cidade e consegue fazer com que o tempo volte a passar para todos, mas com graves consequ√™ncias.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Imposs√≠vel (Dublado) - 2012 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OIMPSVL.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/90/80/64/20363523.jpg</thumbnail>
+<fanart>http://images.allocine.fr/medias/nmedia/18/91/84/93/20373543.jpg</fanart>
+	<info>O casal Maria e Henry est√° aproveitando as f√©rias de inverno na Tail√¢ndia junto com os tr√™s filhos pequenos. Mas em uma manh√£, um tsunami de propor√ß√µes devastadoras atinge o local, arrastando tudo o que encontra pela frente. Separados em dois grupos, a m√£e e o filho mais velho v√£o enfrentar situa√ß√µes desesperadoras para se manterem vivos, enquanto, o pai e as duas crian√ßas menores n√£o sabem se os outros dois ainda est√£o vivos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O 30¬∫ Dia (Dublado) - 2010 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/O30DIA.mp4</link>
+<thumbnail>https://img.fstatic.com/-Fydd7qd_X9BNVr6Knq1AkRht8s=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2011/07/ff18194a613736f23dc41205302e2848.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-y9848iW_bPk/U8BuxI2bXsI/AAAAAAAAM0w/Z8PnMP7_sNs/s1600/O+30%C2%BA+Dia.jpg</fanart>
+		<info>Quando a press√£o de viver uma vida comum se torna insuport√°vel, uma jovem problem√°tica de Nova Orleans, sofrendo de uma doen√ßa conhecida como Transtorno Dissociativo de Identidade, decide se trancar dentro de casa por 30 dias, para poder entender o que acontece em sua vida. Ela √© Madison Walker, uma garota que trabalha como atendente em uma central de tele sexo. Madison tem m√∫ltiplas personalidades. Com tend√™ncias suicidas e desesperada depois de alguns eventos infelizes em sua vida, Madison decide se fechar em casa e documentar sua busca por um sentido na vida. S√≥ que ela se deu um prazo para encontrar as respostas: 30 dias. Se ela n√£o conseguir, tirar√° sua pr√≥pria vida. Quem surge para ajudar a mo√ßa em sua jornada √© a m√©dica Elizabeth Burns.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Macbeth: Ambi√ß√£o & Guerra (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MCBETHABCOEGURR.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/15/11/05/15/21/409557.jpg</thumbnail>
+<fanart>http://faustomag.com/wp-content/uploads/2016/01/macbeth_ambicao_guerra.jpg</fanart>
+		<info>Macbeth √© um general do ex√©rcito escoc√™s que conta com enorme respeito do seu rei por sua lealdade e vit√≥rias em batalhas. Certo dia, encontra tr√™s bruxas, que profetizam que ele um dia se tornar√° o novo rei da Esc√≥cia. Encorajado por sua manipuladora esposa Lady Macbeth, que lamenta nunca ter conseguido lhe dar herdeiros, Macbeth se torna ambicioso e assassina o Rei Duncan, assumindo o trono. Atormentado pela culpa e paranoico, Macbeth se transforma em um rei tirano e cruel.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Grace de M√¥naco (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRCDMNC.mp4</link>
+<thumbnail>http://www.magazine-hd.com/apps/wp/wp-content/uploads/2014/03/grace-do-monaco-poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/bFYmYWa348c/maxresdefault.jpg</fanart>
+		<info>Um retrato intimo e glamoroso da maior estrela de Hollywood que, no √°pice de sua carreira, deixou tudo para se tornar uma princesa.
+</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Carol (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRL.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/15/12/16/17/51/008402.jpg</thumbnail>
+<fanart>https://cdn.flickeringmyth.com/wp-content/uploads/2015/10/carol-uk-quad-poster.jpg</fanart>
+		<info>Therese Belivet tem um emprego entediante em uma loja de departamentos. Um dia, ela conhece Carol, uma elegante e misteriosa cliente. Rapidamente, as duas mulheres desenvolvem um v√≠nculo amoroso que ter√° consequ√™ncias s√©rias.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Talentoso Ripley (Dublado) - 1999 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTLNTSRPLY.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/87/28/27/19873892.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-pvqEbSLsJP0/VFTndK9oJAI/AAAAAAABfZA/LeR5RsCx8ig/s0/capa_dvd_www.gamecover.com.br__180_.jpg</fanart>
+		<info>Ser jovem e despreocupado entre as √°guas azuis e a paisagem id√≠lica da ensolarada It√°lia no final dos anos 1950, √© la dolce vita que Tom Ripley anseia e que Dickie Greenleaf leva. Quando o pai de Dickie pede a Tom para trazer seu errante filho de volta para casa na Am√©rica, Dickie e sua bela namorada, Marge Sherwood, nunca suspeitariam dos extremos perigos que Ripley passar√° para tentar mudar o estilo de vida deles para o seu pr√≥prio.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]As Sufragistas (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASFRGISTA.mp4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/245168_pt.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-ERVDwgzYU-g/VsxN0eAIAmI/AAAAAAAAJYc/sjYKZe2Dx7A/s1600/003_suff_online_kms.jpeg</fanart>
+		<info>O in√≠cio da luta do movimento feminista e os m√©todos incomuns de batalha. A hist√≥ria das mulheres que enfrentaram seus limites na luta por igualdade e pelo direito de voto. Elas resistiam √† opress√£o de forma passiva, mas, a partir do momento em que come√ßaram a sofrer uma crescente agress√£o da pol√≠cia, decidiram se rebelar publicamente.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Alta Frequ√™ncia (Dublado) - 2000 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALTFRQNC.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/87/25/92/19904615.jpg</thumbnail>
+<fanart>http://www.freedvdcover.com/wp-content/uploads/frequency_2000_ws_r1-front-www.getdvdcovers.com_.jpg</fanart>
+		<info>Numa noite rara de tempestade solar, o jovem policial John Sullivan encontra o aparelho de radioamador de seu falecido pai. Ao colocar o aparelho para funcionar, John √© contatado por Frank, um radioamador que, pelas conversas, parece estar vivendo no ano de 1969. O mais incr√≠vel acontece quando John percebe que aquele Frank √© Frank Sullivan, seu pai. At√¥nito e emocionado, John tenta mudar o passado, avisando seu pai sobre o incidente que o matou.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]O CÌrculo (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/o-circulo/</page></regex>
-<genre>Drama e FicÁ„o Cientifica</genre>
-<info>Mae (Emma Watson) È uma universit·ria cujo sonho È trabalhar na maior empresa de tecnologia do mundo, O CÌrculo. A organizaÁ„o foi fundada por Eamon Bailey (Tom Hanks) e o seu principal produto È o SeeChange, uma pequena c‚mera que permite aos usu·rios compartilharem detalhes de suas vidas com o mundo. Mae vÍ sua vida mudar completamente quando È contratada pela empresa e sua funÁ„o passa a ser documentar sua vida em tempo integral. O que ela n„o imaginava, no entanto, È que toda essa exposiÁ„o teria um preÁo, n„o sÛ para ela, mas tambÈm para todos ao seu redor.</info>
-<fanart>http://br.web.img3.acsta.net/pictures/17/05/04/11/07/269427.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170317_092230.jpg</thumbnail>
+<title>[COLOR white][B]Click (Dublado) - 2006 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CLCK.mp4</link>
+<thumbnail>https://cdn.traileraddict.com/content/columbia-pictures/click.jpg</thumbnail>
+<fanart>http://www.hdlost.com/HDLOST.com.php?src=walls/adam-sandler-click-normal.jpg&a=t&w=851&h=315</fanart>
+		<info>Um arquiteto, casado e com filhos, est√° cada vez mais frustrado por passar a maior parte de seu tempo trabalhando. Um dia, ele encontra um inventor exc√™ntrico que lhe d√° um controle remoto universal, com capacidade de acelerar o tempo. No in√≠cio, ele usa o aparelho para acelerar qualquer momento tedioso, mas se d√° conta de que est√° acelerando o tempo demais, deixando de viver preciosos momentos em fam√≠lia. Desesperado, ele procura o inventor para ajud√°-lo a reverter o que fez.</info>
+		<genre>Drama</genre>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Mommy (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MOMWY.mp4</link>
+<thumbnail>http://www.giuseppelelli.it/021014/Image00037.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/ZbkFE2Cg6Lk/maxresdefault.jpg</fanart>
+		<info>Este premiado drama canadense dirigido por Xavier Dolan conta a hist√≥ria de Diane Despr√©s, uma vi√∫va recente que luta para criar o filho Steve, um adolescente com transtorno de d√©ficit de aten√ß√£o e imprevis√≠vel que, em certas ocasi√µes, pode se tornar muito violento. O jovem conta com o amor de sua exc√™ntrica m√£e e o carinho de sua nova e misteriosa vizinha, Kyla.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]At√© o Limite da Honra (Dublado) - 1997 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATOLMTDHNRA.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-AmEZp28AETc/Ul3AOkAH1qI/AAAAAAAAD3k/GWx3D7Pps3o/s1600/Ate+o+Limite+da+Honra.jpg</thumbnail>
+<fanart>https://www.topstars.com.br/filmes-imagens/A/ate-o-limite-da-honra-1997-2.jpg</fanart>
+		<info>Em resposta √† press√£o pol√≠tica da Senadora Lillian DeHaven, a Marinha Americana d√° in√≠cio a um programa de integra√ß√£o de mulheres aos seus servi√ßos. O programa come√ßa com uma √∫nica candidata, a tenente Jordan O'Neil, escolhida especificamente devido √† sua feminilidade. Jordan passa a fazer parte de um treinamento severo sob o comando de John James Urgayle, que pressiona a novata at√© que ela ganhe o respeito de seu superior com sua determina√ß√£o.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]A Rede Social (Dublado) - 2010 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARDSCIL.mp4</link>
+<thumbnail>http://marketingdeconteudo.com/wp-content/uploads/2016/08/facebook.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1000/5NGK7YnypChaA9E2wADXEptU4Iz.jpg</fanart>
+		<info>Em 2003, o estudante de Harvard e g√™nio da computa√ß√£o Mark Zuckerberg come√ßa a trabalhar em um novo conceito que acaba se transformando em uma rede social global, o Facebook. Seis anos mais tarde, ele √© um dos bilion√°rios mais jovens do planeta. Mas seu sucesso sem precedentes traz complica√ß√µes legais e pessoais.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]The Beach Boys: Uma Hist√≥ria de Sucesso (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THBCHBYSUHDS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/16/01/21/17/26/517443.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-Dq_ql7mW9Xg/Vso8EsFFWeI/AAAAAAAAVn4/yIhnQwOezMU/s1600/The%2BBeach%2BBoys%2B%2BUma%2BHist%25C3%25B3ria%2Bde%2BSucesso%2B%2528Oficial%2529.jpg</fanart>
+		<info>No final dos anos 60, Brian Wilson, fundador dos "Beach Boys", produz o √°lbum "Pet Sounds" e come√ßa a perder o contato com a realidade. Ele passa a se tratar com o pol√™mico Dr. Eugene Landy, e encontra a salva√ß√£o quando conhece sua esposa, Melinda Ledbetter.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Samba (Dublado) - 2015 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SAMBA.mp4</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/a4/d7/a5/a4d7a52de074755f6b8ba766fe71c43e.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/a0tB_A4obrM/maxresdefault.jpg</fanart>
+		<info>Samba √© um imigrante que vive h√° dez anos na Fran√ßa. Alice √© uma executiva que tem sofrido com estresse. Enquanto ele tenta conseguir arrumar um emprego digno, ela tenta recolocar a vida nos trilhos.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Homem Irracional (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHOMNIRCIONL.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/15/05/26/12/06/302572.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/c1qRUGOY1GYZf94WoduRRUgOfKx.jpg</fanart>
+		<info>No campus de uma faculdade de uma cidade pequena, um professor de filosofia em crise d√° um novo prop√≥sito a sua vida quando adentra em um relacionamento com uma estudante.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Doador de Memorias (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ODOADRDMEMORS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/14/07/16/19/01/103323.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1000/yPZ3ygiHJVsF9DRYKCKUBzWLH5R.jpg</fanart>
+		<info>Jonas vive em uma pequena comunidade aparentemente ideal, sem doen√ßas ou guerras e onde todo mundo √© feliz. Para que essa realidade subsista, um homem √© encarregado de armazenar as m√°s mem√≥rias, poupando os demais habitantes do sofrimento. Jonas, por√©m, descobre o perigoso segredo de sua comunidade e, armado com o poder do conhecimento, tenta fugir do mundo em que vive e proteger os que ama.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Aprendendo Com a Vov√≥ (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRNDOCMAVO.mp4</link>
+<thumbnail>https://3.bp.blogspot.com/-QOU2BR42J7o/V1cI6a147HI/AAAAAAAANjs/ta0XKVw2h9k6PIZH0bq_oYJdZlm5wkcOgCLcB/s1600/pERee6NyTq7w4WGzK4QurDdk21s%2B%25281%2529.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-aqXo4rdi7YA/VtEEHjmG2EI/AAAAAAAADz0/7z1xWhHnFJc/s1600/Aprendendo%2BCom%2Ba%2BVov%25C3%25B3%2B%25282016%2529.jpg</fanart>
+		<info>Elle recebe a visita inesperada da neta, que precisa de dinheiro para fazer um aborto. Como elas n√£o t√™m o valor necess√°rio, embarcam em uma jornada de arrecada√ß√£o, visitando personagens do passado.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Presente (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSENT.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/04/10/10/22/106093.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/g_6LeZ0Y3XU/maxresdefault.jpg</fanart>
+		<info>Simon e Robyn est√£o muito felizes at√© o dia em que ele reencontram Gordo, um velho conhecido. A princ√≠pio Simon n√£o o reconhece, mas depois de uma s√©rie de encontros e presentes misteriosos, um segredo terr√≠vel vem √† tona, e Robyn se sente cada vez mais insegura perto do companheiro.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Sentimentos Que Curam (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SNTMTSQCRM.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/04/16/20/32/027144.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-4XhNPrj4BQQ/Vw7qG2NbzPI/AAAAAAAAJT4/pRJLx3MJaXYTFxf6R9OJUvI8MsYePzu5gCLcB/s1600/sentimentos_que_curam1.jpg</fanart>
+		<info>O fato de Cameron ser man√≠aco-depressivo n√£o impediu que Maggie se envolvesse com ele. O casal teve duas filhas, mas os constantes colapsos nervosos de Cameron fizeram com que eles deixassem de morar juntos, por mais que mantivessem contato constante. Mas tudo muda quando Maggie, passando por dificuldades financeiras, resolve fazer um curso de especializa√ß√£o em Nova York. S√≥ que, para isso, Cameron precisa deixar o hospital pisiqui√°trico onde vive e voltar para casa para cuidar das garotas.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Retrato de Dorian Gray (Dublado) - 2009 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORTRDORNGRY.mp4</link>
+<thumbnail>http://poseseneuroses.com.br/wordpress/wp-content/uploads/2013/01/O-Retrato-de-Dorian-Gray-Poster.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/qG8MPYWkBQs0htKnsH6yBq0iCPJ.jpg</fanart>
+		<info>Dorian Gray, um jovem da alta sociedade, faz um pacto demon√≠aco para ter a juventude eterna enquanto o quadro com seu retrato √© que envelhece. Com o tempo, sua vida de abusos transforma a imagem num monstro. Baseado no livro hom√¥nimo de Oscar Wilde.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]A Cabana (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/a-cabana/</page></regex>
-<genre>Drama</genre>
-<info>A filha mais nova de Mackenzie Allen Philip foi raptada durante as fÈrias em famÌ≠lia e h· evidÍncias de que ela foi brutalmente assassinada e abandonada numa cabana. Quatro anos mais tarde, Mack recebe uma nota suspeita, aparentemente vinda de Deus, convidando-o para voltar ‡quela cabana para passar o fim de semana. Ignorando alertas de que poderia ser uma cilada, ele segue numa tarde de inverno e volta a cen·rio de seu pior pesadelo. O que encontra l· muda sua vida para sempre.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODczMTQ3MTU5N15BMl5BanBnXkFtZTgwMjU3NTM3MDI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/15676079_856435967792851_7475692032673102739_o.jpg</thumbnail>
+<title>[COLOR white][B]O Vizinho (Dublado) - 2008 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OVZNHO.mp4</link>
+<thumbnail>https://static.omelete.uol.com.br/media/extras/capas/filme_14674.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/4PZ0iKR_VS4/maxresdefault.jpg</fanart>
+		<info>Um policial nervoso, autoproclamado c√£o de guarda do seu bairro, fortemente desaprova o casal inter-racial que se mudou para a casa ao lado da sua. Ele se torna cada vez mais hostil em rela√ß√£o aos vizinhos inocentes e faz de tudo para expuls√°-los. A situa√ß√£o muda quando o jovem casal decide lutar contra o policial.</info>
+		<genre>Drama</genre>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Os 33 (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS33.mp4</link>
+<thumbnail>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2015/08/os-33-poster.jpg</thumbnail>
+<fanart>http://evideoclipe.com.br/evideo/wp-content/uploads/2015/08/os-33-evideoclipe.jpg</fanart>
+		<info>Em 2010, os olhos do mundo se voltaram para o Chile, onde 33 mineradores haviam sido enterrados vivo pela explos√£o e colapso de uma centen√°ria mina de ouro e cobre. Nos pr√≥ximos 69 dias, uma equipe internacional trabalhou dia e noite em uma tentativa de resgatar os homens presos enquanto suas fam√≠lias, amigos e milh√µes de pessoas no mundo todo aguardavam ansiosamente por qualquer sinal de esperan√ßa.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Homem Que Mudou o Jogo (Dublado) - 2012 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHMNQMDOJG.mp4</link>
+<thumbnail>http://www.vortexcultural.com.br/images/2012/02/o_homem_que_mudou_o_jogo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/BumI-Yh0P1M/maxresdefault.jpg</fanart>
+		<info>O dirigente Billy Beane nunca concordou com a sabedoria convencional que domina o mundo do beisebol. Surpreendido com um corte no or√ßamento do clube, Billy e seu parceiro recrutam jogadores mais baratos, mas com potencial.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Morrendo e Aprendendo (Dublado) - 2015 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MRNDEAPRNDO.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-9kcj5UxFTqs/VpfejirBN9I/AAAAAAAAVBw/zNIp5veblkk/s1600/Morrendo%2Be%2BAprendendo.jpg</thumbnail>
+<fanart>http://i.imgur.com/e5OALkX.jpg</fanart>
+		<info>Quatro jovens morrem em 1959 em um acidente de √¥nibus e se transformam em guardi√£es da crian√ßa que nasceu no momento da morte deles. A crian√ßa torna-se um empres√°rio de sucesso e tem lembran√ßas dos jovens, mas acha que tudo √© fruto de sua imagina√ß√£o.</info>
+		<genre>Drama/Romance</genre>
+</item>
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Sr. Sherlock Holmes (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SRSLCKHLMS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/06/02/09/35/451783.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/M-XRequjCgg/maxresdefault.jpg</fanart>
+		<info>O ano √© 1947. Um novo caso, talvez o √∫ltimo e mais dif√≠cil, √© apresentado ao detetive Sherlock Holmes, que est√° com 93 anos e aposentado, vivendo em uma casa remota no litoral com sua governanta e o filho dela. Apesar dos problemas de sa√∫de por conta da idade, ele far√° de tudo para desvendar esse grande mist√©rio.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Cara Perfeito (Dublado) - 2015 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OCARPRFTO.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/15/06/08/10/27/164795.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/dvd-o-cara-perfeito-D_NQ_NP_594411-MLB20556169421_012016-F.jpg</fanart>
+		<info>Leah Vaughn, uma lobista com uma √≥tima carreira, se envolve com um homem charmoso que parece ser perfeito, por√©m, aos poucos seu novo amor se revela perigoso e violento.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]A Vigilante do Amanh„: Ghost in the Shell (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/a-vigilante-do-amanha-ghost-in-the-shell/</page></regex>
-<genre>AÁ„o,Drama e FicÁ„o Cientifica</genre>
-<info>Num mundo pÛs 2029, cÈrebros se fundem facilmente a computadores e a tecnologia est· em todos os lugares. Motoko Kusanagi, conhecida como Major, È uma ciborgue com experiÍncia militar que comanda um esquadr„o de elite especializado em combater crimes cibernÈticos.</info>
-<fanart>http://static.srcdn.com/wp-content/uploads/2017/01/ghost-shell-posters-2017-scarlett-johansson.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170305_231603.jpg</thumbnail>
+<title>[COLOR white][B]Ref√©m (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CPTVE.mp4</link>
+<thumbnail>http://recantoadormecido.com.br/wp-content/uploads/2014/09/The-Captive-Official-Poster-Banner-PROMO-08SETEMBRO2014.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-nd2G_zHZ8DU/VVuKvmgHc-I/AAAAAAAAMiI/JCBTtyDO0FI/s1600/captive.jpg</fanart>
+		<info>Ashley Smith √© mantida ref√©m em sua pr√≥pria casa por um prisioneiro que matou o juiz de seu processo. Enquanto ele tenta fugir da pol√≠cia, ela busca uma maneira de rever a filha que perdeu a guarda.</info>
+		<genre>Drama</genre>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]O Encontro (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OENCTRO.mp4</link>
+<thumbnail>http://filmesegames.com.br/wp-content/uploads/2016/01/Time-Out-of-Mind-17Junho2015-02.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/tgP51v9i7_Q/maxresdefault.jpg</fanart>
+	<info>Nas ruas de Nova York, vive George. Ele est√° com a sa√∫de fragilizada e n√£o tem pra onde ir. Ele se sente sufocado pela cidade. Quando George se refugia no maior abrigo de Manhattan, o Hospital Bellevue, ainda se sente perdido, pois o ambiente √© hostil e est√° lotado. Ele conhece Dixon. Eles tornam-se grandes amigos e agora George volta a ter esperan√ßa e deseja se aproximar da filha.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Onde Nasce a Esperan√ßa (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONDNASCESPRCA.mp4</link>
+<thumbnail>http://4.bp.blogspot.com/-QcxrJ35qmhk/VngQghxTs5I/AAAAAAAAUtk/gt8m5DPyIyw/s1600/Onde%2BNasce%2Ba%2BEsperan%25C3%25A7a.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/pictures/15/11/19/15/43/437987.jpg</fanart>		
+	<info>Onde Nasce a Esperan√ßa √© a hist√≥ria inspiradora sobre a reden√ß√£o atrav√©s da amizade, da esperan√ßa e do amor. Calvin Campbell √© um ex-jogador de beisebol profissional que enfrenta dificuldades com as jogadas que o destino preparou para ele.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Os Infiltrados (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSINFTRDS.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/90/18/94/20085052.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/8Od5zV7Q7zNOX0y9tyNgpTmoiGA.jpg</fanart>
+		<info>Billy Costigan, um jovem policial, recebe a miss√£o de se infiltrar na m√°fia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confian√ßa ao mesmo tempo em que Colin Sullivan, um criminoso que foi infiltrado na pol√≠cia como informante de Costello, tamb√©m ascende dentro da corpora√ß√£o. Tanto Billy quanto Colin sentem-se aflitos devido √† vida dupla que levam. Por√©m quando a m√°fia e a pol√≠cia descobrem que entre eles h√° um espi√£o, a vida de ambos passa a correr perigo.</info>
+		<genre>Drama</genre>
+</item>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[COLOR white][B]Sete Vidas (Dublado) - 2008 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STVDS.mp4</link>
+<thumbnail>https://maniacosporfilme.files.wordpress.com/2012/01/sete-vidas.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ymzaJLm2EIYbG9n7snVfCnHAPQk.jpg</fanart>
+		<info>A vida secreta atormenta Ben Thomas. A fim de encontrar a reden√ß√£o, ele se prop√µe a mudar a vida de sete pessoas desconhecidas. Ao longo de sua jornada, ele conhece e se apaixona por uma paciente card√≠aca chamada Emily e, ao fazer isso, complica a sua miss√£o.</info>
+		<genre>Drama</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]Rei Arthur ñ A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
-<genre>AÁ„o,Drama e Aventura</genre>
-<info>Arthur (Charlie Hunnam) È um jovem das ruas que controla os becos de Londonium e desconhece sua predestinaÁ„o atÈ o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difÌceis decisıes, enfrentar seus demÙnios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua famÌlia.</info>
-<fanart>https://jovemnerd.com.br/wp-content/uploads/2017/04/Rei-arthur-lenda-da-espada-trailer-396x222.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170403_150228.jpg</thumbnail>
+<title>[COLOR white][B]Ninfoman√≠aca: Volume 1 (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NFMNCVL1.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/13/12/05/13/52/205934.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-KlO70Htn4wA/U2Brq0EHhYI/AAAAAAAAHkg/B2umCYSuLG8/s1600/807+-+Ninfoman%C3%ADaca+-+Volume+I.jpg</fanart>
+		<info>Ninfoman√≠aca √© um filme de drama dinamarqu√™s de 2013 escrito e dirigido por Lars von Trier. A produ√ß√£o √© estrelada por Charlotte Gainsbourg, Stacy Martin, Stellan Skarsg√•rd, Shia LaBeouf, Christia</info>
+		<genre>Drama</genre>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]Okja (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/okja/</page></regex>
-<genre>AÁ„o,Drama e Aventura</genre>
-<info>A trama acompanhar· Mija, uma jovem garota que deve arriscar tudo para evitar que uma poderosa empresa multinacional de sequestrar sua melhor amiga: um animal enorme chamado de Okja.</info>
-<fanart>https://art-s.nflximg.net/a96c9/befd87a4adb1c86fe4639fb3878aded057da96c9.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/WhatsApp_Image_2017-05-12_at_22.03.06.jpeg</thumbnail>
+<title>[COLOR white][B]Ninfoman√≠aca: Volume 2 (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NFMNCVL2.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/14/01/07/12/09/358282.jpg</thumbnail>
+<fanart>https://i1.wp.com/c.fastcompany.net/multisite_files/fastcompany/poster/2013/10/3019878-poster-p-1-see-these-new-posters-for-lars-von-triers-nymphomaniac.jpg</fanart>
+		<info>Ninfoman√≠aca √© um filme de drama dinamarqu√™s de 2013 escrito e dirigido por Lars von Trier. A produ√ß√£o √© estrelada por Charlotte Gainsbourg, Stacy Martin, Stellan Skarsg√•rd, Shia LaBeouf, Christian ..</info>
+		<genre>Drama</genre>
 </item>
+
+<?xml version="1.0" encoding="utf-8"?>
 
 <item>
-<title>[COLOR white]O EspaÁo Entre NÛs (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/o-espaco-entre-nos/</page></regex>
-<genre>Aventura,Drama e Romance</genre>
-<info>O adolescente Gardner Elliot, È o primeiro humano nascido em solo marciano. Mas ele deseja fazer uma viagem ‡ Terra para conhecer a verdade sobre seu pai biolÛgico, e sobre seu nascimento</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MjY1NjUxNl5BMl5BanBnXkFtZTgwMzUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/260x365_1489616713.jpg</thumbnail>
+<title>[COLOR white][B]Jobs (Dublado) - 2013 - 1080p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JOBS.mp4</link>
+<thumbnail>http://www.cinemum.net/IMAGES/MOVIES/J/JOBS-POSTER.jpg</thumbnail>
+<fanart>http://wallpaper.pickywallpapers.com/1680x1050/jobs-poster.jpg</fanart>
+		<info>Em 1976, Steve Jobs abandonou a faculdade e junto com seu amigo, o g√™nio da tecnologia Steve Wozniak, iniciaram uma revolu√ß√£o nos computadores com a inven√ß√£o do Apple 1, o primeiro computador pessoal. Constru√≠do na garagem dos pais de Jobs, o Apple 1 e a forma√ß√£o da empresa Apple mudaram o mundo para sempre. Steve Jobs n√£o se incomodava em passar por cima dos outros para atingir suas metas, o que fez com que tivesse dificuldades em manter rela√ß√µes amorosas e de amizade.</info>
+		<genre>Drama</genre>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]A Cabana (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/a-cabana/</page></regex>
-<genre>Drama</genre>
-<info>A filha mais nova de Mackenzie Allen Philip foi raptada durante as fÈrias em famÌ≠lia e h· evidÍncias de que ela foi brutalmente assassinada e abandonada numa cabana. Quatro anos mais tarde, Mack recebe uma nota suspeita, aparentemente vinda de Deus, convidando-o para voltar ‡quela cabana para passar o fim de semana. Ignorando alertas de que poderia ser uma cilada, ele segue numa tarde de inverno e volta a cen·rio de seu pior pesadelo. O que encontra l· muda sua vida para sempre.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODczMTQ3MTU5N15BMl5BanBnXkFtZTgwMjU3NTM3MDI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/15676079_856435967792851_7475692032673102739_o.jpg</thumbnail>
+<title>[COLOR white][B]Rocky, um Lutador (Dublado) - 1977 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKY1.mp4</link>
+<thumbnail>http://clotildetavares.files.wordpress.com/2009/07/rocky-flag-fp1731-l.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/341/341558.jpg</fanart>
+		<info>Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filad√©lfia, √© arbitrariamente escolhido para lutar contra o campe√£o dos pesos pesados, Apollo Creed, quando o advers√°rio do invicto lutador agendado para a luta √© ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente come√ßa um relacionamento com Adrian, a invis√≠vel irm√£ de Paulie, seu amigo empacotador de carne.</info>
+		<genre>Drama</genre>
 </item>
 
+<?xml version="1.0" encoding="utf-8"?>
+
 <item>
-<title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/logan/</page></regex>
-<genre>AÁ„o,FicÁ„o Cientifica e Drama</genre>
-<info>Em um futuro prÛximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado s„o interrompidas com a chegada de uma jovem mutante, perseguida por forÁas sombrias.</info>
-<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
+<title>[COLOR white][B]Piratas da Inform√°tica / Piratas do Vale do Sil√≠cio (Dublado) - 1999 - 720p[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PIRTVLDSLCIO.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Pirates_of_silicon_valley_poster_promocional.png</thumbnail>
+<fanart>https://estagiodeferiasimd.files.wordpress.com/2014/03/piratas_do_vale_do_sil_cio__front_.jpg</fanart>
+		<info>At√© o surgimento de Steve Jobs e Bill Gates, a inform√°tica era algo distante, que n√£o fazia parte do universo das pessoas comuns. Os dois, ainda estudantes, lideraram uma revolu√ß√£o que integrou os computadores ao nosso dia a dia.</info>
+		<genre>Drama</genre>
 </item>
+
+<?xml version="1.0" encoding="utf-8"?>
 
 <item>
-<title>[COLOR white]A Descoberta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>ApÛs comprovar cientificamente a existÍncia de vida depois da morte, um cientista vÍ sua descoberta liberar um verdadeiro caos em meio a populaÁ„o, causando uma onda de suicÌdios. Em meio a este turbilh„o, o filho do cientista se apaixona por uma mulher que tem um passado marcado por eventos tr·gicos.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6tpw1kMYNvKGNzc1EDx4yy75tp6qgmeiPbjNR4kIualPcvsypCpsAb3EkpQ</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BMTUzNjE5ODYwN15BMl5BanBnXkFtZTgwMTY4MjQ1MTI._V1__22mrhYM.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]A Fabulosa Gilly Hopkins (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Drama</genre>
-<info>Uma garota de 12 anos que passa por diversos lares adotivos durante sua vida ao ser enviada para a casa de Maime Trotter elabora um plano de fuga para se juntar ‡ sua m„e biolÛgica, mas descobre que as coisas n„o s„o t„o simples quanto ela imaginava.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/BDg637uWj5KSdKf2hHo623BRrhZ_Qt3DTv35LXgw8s4Bc_pehxsYktbrcsHspgkTX1vZctWS=w540-h200-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/the-great-gilly-hopkins_t94779.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Aquarius (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AQRIS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e Drama</genre>
-<info>Clara, 65 anos de idade, È uma escritora e crÌtica de m˙sica aposentada. Ela È vi˙va, m„e de trÍs filhos adultos, e moradora de um apartamento repleto de livros e discos no Bairro de Boa Viagem, num edifÌcio chamado Aquarius. Interessada em construir um novo prÈdio no espaÁo, os respons·veis por uma construtora conseguiram adquirir quase todos os apartamentos do prÈdio, menos o dela. Por mais que tenha deixado bem claro que n„o pretende vendÍ-lo, Clara sofre todo tipo de assÈdio e ameaÁa para que mude de ideia.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGTiVgN2JHm1CANDhR3e9JwkuKH55EALtM692bcO5xBNi9yMBU5wkxQ1YH</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/aquarius_t80043_yGfFPLM.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Capit„o Fant·stico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Romance e ComÈdia</genre>
-<info>Ben È o pai de seis crianÁas, que decide fugir da civilizaÁ„o e criar os filhos nas florestas selvagens do PacÌfico Norte. Ele passa os seus dias dando liÁıes ‡s crianÁas, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben È forÁado a deixar o local e retornar ‡ vida na cidade. ComeÁa o aprendizado do pai, que deve se acostumar ‡ vida moderna.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZL4SUtGXSy4AQBWxFzkkhxKBuzayfp3XfN195OIEgBnROu-ZT6Gecy7n_Nw</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/captain_fantastic_ver3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Deidra e Laney Assaltam um Trem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance,Policial e Drama</genre>
-<info>Depois que sua m„e acaba na pris„o, duas irm„s se voltam a roubar trens para sustentar sua famÌlia.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRefTNNbf9uFy15K3fsh6MnrJsmmojzIjaBcnnLXCRhcsqqN182AIIi3iC</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/DeidraandLaney.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Depois de Tudo (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DPSDTD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e Drama</genre>
-<info>Ney e Marcos s„o melhores amigos que dividem apartamento, trabalho, sonhos, palco e alguns desejos. Entre eles, Bebel. Uma garota linda, destemida e solit·ria, que desperta nos dois diferentes anseios. Uma fatalidade os afasta. Anos depois, a notÌcia de que Bebel est· em coma pode resgatar os laÁos de amizade e amor que foram brutalmente rompidos.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNK3ofm_RZlZJ5iXKzSA2TeySxwDkFcubOw2vMSSKTHq0ZPmPNz7pdjWq</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/depois-de-tudo_t192662.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Ela DanÁa, Eu DanÁo 5: Tudo ou Nada (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>Essa nova parte da franquia de Ela DanÁa, Eu DanÁo une as estrelas dos filmes anteriores. O filme se passa na brilhante Las Vegas, onde o pessoal ter· que lutar por uma vitÛria que poder· definir seus sonhos e suas carreiras</info>
-<fanart>https://2.bp.blogspot.com/-xrZUOT2Tj7o/VQ7ya5BHjnI/AAAAAAAADoU/DPbqmuS_zv4/w1200-h630-p-k-no-nu/580005.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/06/ela-danca-eu-danco-5_t76917_1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Ela DanÁa, Eu DanÁo 3 (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>Na histÛria, um grupo de danÁarinos de rua se unem a um calouro da Universidade de Nova York para uma competiÁ„o contra os melhores danÁarinos no mundo, o que promete mudar as suas vidas para sempre.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5gTu9dpSuOX6Uge6lQLLFSSf_uDlUFA2G2khew9ShE1UajFqAF1TFHR4z</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/09/c62e9d3699c3d880b448d6f9efb7b04c.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Ela DanÁa, Eu DanÁo 2 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>Numa tradicional escola de danÁa em Maryland, dois alunos danÁarinos - e de formaÁ„o bem diferente um do outro - se vÍem ‡s voltas com um romance apaixonado. SequÍncia de "Ela DanÁa, Eu DanÁo".</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYyeghUkVT25Z0uu8NL9hPOs-lQRoM5LYYC1gQ0yTeCpY0gIctnc9NweU</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/d00ce739781e4ba6a1be19d1f622c5c5.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Ela DanÁa, Eu DanÁo (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>ApÛs depredar um colÈgio, Tyler Gage (Channing Tatum) È enviado para fazer serviÁos comunit·rios em uma escola de artes. L· ele conhece Nora Clark (Jenna Dewan), uma bela aluna de danÁa moderna que precisa urgentemente de um novo parceiro. Tyler est· acostumado com as danÁas de rua, mas reluta ‡ idÈia de ser o novo parceiro de Nora. Aos poucos ele aceita a idÈia e passa a se envolver com Nora.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYyeghUkVT25Z0uu8NL9hPOs-lQRoM5LYYC1gQ0yTeCpY0gIctnc9NweU</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/07/ela-danca-eu-danco_t4896.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Entre Abelhas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Nacional e ComÈdia</genre>
-<info>Coisas estranhas comeÁam a acontecer na vida de Bruno (F·bio Porchat), um jovem de quase 30 anos que acaba de se separar da mulher (Giovana Lancelotti). Bruno tropeÁa no ar, esbarra no que n„o vÍ ñ atÈ perceber que as pessoas ao seu redor est„o desaparecendo sÛ para ele. Os dias correm e a situaÁ„o sÛ piora. Com a ajuda da m„e (Irene Ravache) e do melhor amigo (Marcos Veras), Bruno tentar· se adaptar a esse novo mundo com cada vez menos gente.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5FDb2j6Ler42KPVYwHsm8XRlfGQx5gnkn4VNcAYO6iUoqe35yfB8b8AYe4g</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/01/entre-abelhas_t99797.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Aventura e FicÁ„o Cientifica</genre>
-<info>Durante uma miss„o a Marte, o astronauta Mark Watney (Matt Damon) È dado como morto apÛs uma feroz tempestade e È deixado para tr·s por sua tripulaÁ„o. Mas Watney sobrevive e encontra-se sem recursos e sozinho no planeta hostil. Apenas com suprimentos escassos, Watney deve contar com a sua criatividade, engenho e espÌrito para subsistir e encontrar uma maneira de sinalizar ‡ Terra que est· vivo. A milhıes de quilÙmetros de dist‚ncia, a NASA e uma equipe de cientistas internacionais trabalham incansavelmente para trazer "o marciano" de volta enquanto seus colegas de tripulaÁ„o simultaneamente traÁam uma ousada, se n„o impossÌvel, miss„o de resgate. Conforme essas histÛrias de incrÌvel bravura se desdobram, o mundo se une para torcer pelo retorno seguro de Watney.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpM9Kii3i4YzOgSXrmv5DvBDMJWzLz1_NKFQzZZqV8ZbvoSIq3j7GI9bPFSA</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/perdido-em-marte_t99530.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Jonas (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JNS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Nacional e Romance</genre>
-<info>Jonas tem 20 anos, uma vida vazia e uma paix„o de inf‚ncia por Branca, filha da patroa de sua m„e. Na vÈspera do carnaval um acidente faz com que ele a seq¸estre e a esconda no interior da Baleia, carro alegÛrico da escola de samba do bairro. Na semana entre os desfiles os dois vivem uma histÛria de amor impossÌvel, dentro da Baleia. Do lado de fora o drama de Jonas se intensifica ‡ medida que a semana corre e ele tem que lidar com as consequÍncias do sequestro.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeNs5JXTkwTYmagBKzlSJfwfS8CaDEjOQ384Yk9d5LYKRyf65tCIPJg7Xo</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/09/jonas-e-a-baleia_t93423.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]JosÈ do Egito: O Filme - (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Nacional e Romance</genre>
-<info>Telefilme editado a partir da minissÈrie de Vivian de Oliveira.
-De escravo a governador da maior naÁ„o do planeta. A histÛria de um homem de Deus, Ìntegro e indulgente, que apÛs ser vendido como escravo pelos irm„os È levado para o Egito, onde È injustiÁado, caluniado, preso e humilhado. Apesar disso, a vida de JosÈ È um exemplo de pureza, paciÍncia, amor e perd„o.</info>
-<fanart>https://lh3.googleusercontent.com/proxy/NmRAr7FLoIQIma4Q2UwaoEWkqTDkpWGbqWkmxWRJM8TnSo2bHufpGyaM7QY32wDyCmUKDXsDhhrxX5CXqfdy4pI4cyl3Sjti=w443-h332-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/joseegito.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Lavanda (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LVNDA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Quando Jane, uma fotÛgrafa, sofre de perda de memÛria depois um traum·tico acidente de carro, estranhas pistas expostas em suas fotas sugerem que ela pode ser a respons·vel pela morte da famÌlia que ela nunca soube que teve.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaPTYYRil_opLLlj9UDSBO957nBD7dCvM7eE6FcUWSTpZnTyqlYIeJN2-W2Q</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/04/lavender_t196389.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]M„e SÛ H· Uma (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MASHUM.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e Drama</genre>
-<info>Baseado numa histÛria real, ìM„e SÛ H· Umaî È um drama familiar que retrata a vida conturbada de um adolescente de 16 anos, que vai viver com outra famÌlia ao descobrir que sua m„e o roubou na maternidade, sendo obrigado a deixar a famÌlia que o criou. Isso ocorre em um momento em que sua vida apresenta transformaÁıes, inclusive no ‚mbito da sexualidade.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaPTYYRil_opLLlj9UDSBO957nBD7dCvM7eE6FcUWSTpZnTyqlYIeJN2-W2Q</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/mae-so-ha-uma_t199115_tTm71Zz.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Mundo C„o (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNDCA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e Drama</genre>
-<info>Mundo C„o conta a histÛria de Santana (Babu Santana), que trabalha recolhendo cachorros abandonados para o Controle ‡s Zoonoses, e um dia È abordado por um furioso homem que se diz dono de um enorme c„o apreendido.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqcLoSxkY2UPqcNmcx2xtihmgGATSontSq9ABNHBafiQ_bFUwlxKs2VtpmMg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/mundo-cao_t69229.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]N„o Me Abandone Jamais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Romance e FicÁ„o Cientifica</genre>
-<info>Kathy (Carey Mulligan), Ruth (Keira Knightley) e Tommy (Garfield) s„o amigos Ìntimos que cresceram juntos num internato inglÍs que possui um segredo assustador. Quando eles descobrem a excruciante verdade ñ que eles s„o clones produzidos geneticamente para serem doadores de Ûrg„os ñ eles se agarram ao breve tempo que lhes resta para viver e amar.</info>
-<fanart>https://3.bp.blogspot.com/_JD9ZIeYHyqs/TH2snqxRnJI/AAAAAAAAAGg/vsHgOGVF9HA/s500/Never+let+Me+Go+Movie.png</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/05/nao-me-abandone-jamais_t21854_5dlqqMd.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Chamado (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
-</regex>
-<genre>Terror e Drama</genre>
-<info>achel Keller (Naomi Watts) È uma jornalista que decide investigar a misteriosa morte de sua sobrinha. Ela percebe a relaÁ„o da morte dela e de v·rias outras mortes com um estranho vÌdeo, que faz com que todas as pessoas que o assistam morram exatamente sete dias depois. Intrigada com a histÛria, ela agora precisa descobrir um meio que impeÁa que a profecia se realize, j· que ela e seu filho assistiram ao vÌdeo.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpBAPf5csruhRUdqdkv3qClqp3UKYR3Z7drG7XW9KUmFHkUTuqT-8v0KDuw</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdek1Dlr-5ywcK3vPSlgWPt0JO24WbvPHr0EfUoqLJtUPmtz2g</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Chamado 2 (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
-</regex>
-<genre>Terror e Drama</genre>
-<info>Seis meses apÛs os eventos que aterrorizaram Rachel Keller (Naomi Watts) e seu filho Aidan (David Dorfman), os dois tentam deixar para tr·s as lembranÁas de Samara (Daveigh Chase) e sua fita de vÌdeo amaldiÁoada. Rachel e Aidan se mudam de Seattle para a pequena comunidade litor‚nea de Astoria, no estado de Oregon, onde pretendem recomeÁar a vida. PorÈm, apÛs a ocorrÍncia de um crime local que tem uma fita de vÌdeo envolvida, Samara retorna para reiniciar seu ciclo de mortes.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpBAPf5csruhRUdqdkv3qClqp3UKYR3Z7drG7XW9KUmFHkUTuqT-8v0KDuw</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/67a8badd086bd0a4f9c4d98fcc18995b.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Chamado 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Terror e Drama</genre>
-<info>O filme amaldiÁoado de Samara comeÁa a circular novamente e faz mais vÌtimas. Entre os que tÍm o destino alterado ao assistir o vÌdeo est· a jovem Julia (Matilda Lutz). Assim como o namorado Holt (Alex Roe), ela recebe uma ligaÁ„o sinistra, avisando que sÛ lhe restam sete dias de vida. AtÈ l·, ela precisa descobrir um meio de se libertar da maldiÁ„o de Samara e de sobreviver ‡s apariÁıes malignas da menina.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyqnE_lHL6ewgb5tYYuoalXOfrB_bYOPYcxHoRioqeGsKCDr6gn0WHoyeK6A</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/OChamado3_Poster_Oficial_DATA.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Chamado 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Terror e Drama</genre>
-<info>O filme amaldiÁoado de Samara comeÁa a circular novamente e faz mais vÌtimas. Entre os que tÍm o destino alterado ao assistir o vÌdeo est· a jovem Julia (Matilda Lutz). Assim como o namorado Holt (Alex Roe), ela recebe uma ligaÁ„o sinistra, avisando que sÛ lhe restam sete dias de vida. AtÈ l·, ela precisa descobrir um meio de se libertar da maldiÁ„o de Samara e de sobreviver ‡s apariÁıes malignas da menina.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyqnE_lHL6ewgb5tYYuoalXOfrB_bYOPYcxHoRioqeGsKCDr6gn0WHoyeK6A</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/OChamado3_Poster_Oficial_DATA.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Os Amores de Anne (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSAMRSDANLEG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Uma menina Ûrf„, enviada para um irm„o e uma irm„ por engano, encanta sua nova casa e sua comunidade com seu espÌrito e imaginaÁ„o.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRlmLb72zE4sMfQ9omicaSPfUUgziy2JbrcU7k8qJm1d1u8PSXH69JE8AN</fanart>
-<thumbnail>https://i1.wp.com/cfilmesonline.com/arquivos/imagens/filmes/42470.jpg?1490123435</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Sete Minutos Depois da Meia-Noite (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STMNDPSDMENTDUB.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Conor È um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai È muito ausente, a m„e sofre um um c‚ncer em fase terminal, a avÛ È uma megera e ele È maltratado na escola pelos colegas. No entanto, todas as noites Conor tem o mesmo sonho, com uma gigantesca ·rvore que decide contar histÛrias para ele, em troca de escutar as histÛrias do garoto. Embora as conversas com a ·rvore tenham consequÍncias negativas na vida real, elas ajudam Conor a escapar das dificuldades atravÈs do mundo da fantasia.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFlffjcqk8h1fcaAY4ACFHqQXOBO-XHj6YSQl1C4ZsIfO1mXf54e7Fo602</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/sete-minutos-depois-da-meia-no_t99360.jpeg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Sete Minutos Depois da Meia-Noite (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Conor È um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai È muito ausente, a m„e sofre um um c‚ncer em fase terminal, a avÛ È uma megera e ele È maltratado na escola pelos colegas. No entanto, todas as noites Conor tem o mesmo sonho, com uma gigantesca ·rvore que decide contar histÛrias para ele, em troca de escutar as histÛrias do garoto. Embora as conversas com a ·rvore tenham consequÍncias negativas na vida real, elas ajudam Conor a escapar das dificuldades atravÈs do mundo da fantasia.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXB74nVMiy9lXUMCE6dVSW9hVg9rY8bfTc6FyfsTkd6SthPsIc2TPo3gaT</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1iEmrKExlUI8x3DFAV_jzyA1X-R8fWXVoDozE4cAh9kTDaN-v</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]AlÈm Da Realidade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Terror e Drama</genre>
-<info>John e Laura Taylor s„o um casal jovem que quer desesperadamente um filho. Depois de tentarem muitas opÁıes, eles finalmente contratam Anna, a mulher perfeita para ser barriga de aluguel, mas, ao longo da gestaÁ„o, ela fica psicÛtica e perigosamente obcecada pelo futuro pai da crianÁa.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwpveSohAcD_ZAO1vHASI1oV-se6FFGdslioSWmi970Y32l-3yJt-d1GbBA</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/when-the-bough-breaks_t209312.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Armas na Mesa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Elizabeth Sloane (Jessica Chastain) È uma das lobistas mais poderosas dos Estados Unidos, conhecida por usar uma sÈrie de estratÈgias ilegais para atingir os seus objetivos. Um dia, È abordada para apoiar a bancada mais poderosa do congresso americano: os senadores prÛ-armas. Contr·ria ‡ ideia, ela pede demiss„o e passa a trabalhar para o lado oposto, na intenÁ„o de conseguir leis mais rÌgidas para o porte de armas. Sloane comeÁa a sofrer um sÈrie de ameÁas pessoais e profissionais, e comeÁa a questionar os seus limites dentro desta profiss„o.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwLoYIHqn-DPzJ5YJuwvyWEe097l2xUlEiZoFl2d3wuX6eOGyimUIXs0LbjA</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14362498_10154359612975482_1515104609037024966_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]AtÈ o ⁄ltimo Homem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Guerra</genre>
-<info>Durante a Segunda Guerra Mundial, o mÈdico do exÈrcito Desmond T. Doss se recusa a pegar em uma arma e matar pessoas, porÈm, durante a Batalha de Okinawa ele trabalha na ala mÈdica e salva mais de 75 homens, sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da histÛria norte-americana a receber a Medalha de Honra do Congresso.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwPUucHMX2YP0OmHHt3ewy7sX_LAf6xAOpTbi4xykTFJ5eu34o2tpwRiDI</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/hacksaw_ridge_ver2_xxlg.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR white]Manchester ‡ Beira Mar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Lee Chandler È uma espÈcie de faz-tudo do pequeno complexo de apartamento onde vive, no sub˙rbio de Boston. Ele passa seus dias tirando neve das portas, consertando vazamentos e fazendo o possÌvel para ignorar a conversa de seus vizinhos. Em suas noites vazias, Lee bebe cerveja no bar local e arruma confus„o com qualquer um que lhe lanÁar um olhar. Quando seu irm„o mais velho morre, ele recebe a desagrad·vel surpresa de sua nomeaÁ„o como tutor de seu sobrinho. De volta ‡ sua cidade natal, ele ter· que lidar com memÛrias queridas e dolorosas.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgENYRjLkFbrNxEzcNXYDESuWMZklwTKiPVq0Ttw2UwUCXT6565g99Kstb</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/manchester-by-the-sea-poster.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance,ComÈdia e Drama</genre>
-<info>Conta a histÛria do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas est„o ‡ deriva, e o fez lembrar da import‚ncia de se atrever a sonhar.</info>
-<fanart>https://lh4.googleusercontent.com/proxy/0Zq1DyPQf2nonPGm3qSpB8xIgMDDOkb8LEcBA2vFX-DXBRf4whtQW-aTuF9OaX6iCLbCvdK7UGYsnsGazAc9xw3UMs5A3_Jc=w443-h332-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/nuestro-amantes_t124967.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Desvio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODSVIO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Policial</genre>
-<info>Colin se envolve em um acidente de carro que leva a morte de um dos envolvidos e, ao seu lado, ele encontra uma maleta repleta de dinheiro. ApÛs entreg·-la para a polÌcia local sua boa aÁ„o provoca uma sÈrie de acontecimentos bizarros na cidade.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj43YytrjYpQC2Adl6A8Z-zqTN7_5YvpWQ49fwaEZzXftZD0dijpNSrO4-</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/07/760d8f509eb8ca0bb6fc77b10ab4d35a.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Sangue Azul (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e Drama</genre>
-<info>H· vinte anos atr·s, numa ilha vulc‚nica e paradisÌaca, um menino de dez anos foi separado de sua irm„. A m„e, temerosa de que uma atraÁ„o incestuosa se desenvolvesse entre os dois, fez uma escolha e optou por mandar seu filho para o continente. O menino foi entregue a Kaleb, o ilusionista do Circo Netuno, que passava pela ilha. No continente, Kaleb instruiu o menino nas artes do circo e do espÌrito, onde o ex-ilhÈu se tornou Zolah, o Homem Bala.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg5UOic4r6n6mJsf-iT_DqUfOPpuT2LPyLwyMPo6Dk0gM0Ygvl4lLZupbT</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/06/sangue-azul_t75211.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Um Limite Entre NÛs (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Baseado na aclamada e premiada peÁa teatral homÙnima, um jogador de beisebol aposentado (Denzel Washington), que sonhava em se tornar um grande jogador durante sua inf‚ncia, agora trabalha como coletor de lixo para sobreviver. Ele ter· de navegar pelas complicadas ·guas de seu relacionamento com a esposa (Viola Davis), o filho e os amigos.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdofoOBoU-7-GUzRnzBGmN2VmJiLefbQc2JNAGuK8DWS2nrvEZlIqgdyEJ</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/fences-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Pandora (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PNDRA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Jae-Hyeok (Kim Nam-Gil) luta para salvar a sua famÌlia e o seu paÌs de um desastre nuclear. Jae-Hyeok vive com sua m„e (Kim Young-Ae), sua cunhada (Moon Jeong-Hee) e sobrinho Min-Jae (Bae Gang-Yoo) em uma pequena cidade coreana. Ele est· namorando Yeon-Joo (Kim Joo-Hyun) e trabalha na usina nuclear local. Enquanto isso, Pyung-Sub (Jung Jin-Young) trabalha na mesma usina nuclear. Ele est· preocupado com as condiÁıes l·, mas ninguÈm no governo o escuta. Um terremoto atinge a pequena cidade onde Jae-Hyeok vive e causa explosıes na usina nuclear. A situaÁ„o rapidamente fica fora de controle, levando toda a naÁ„o a entrar em p‚nico. Para evitar outro desastre nuclear, Jae-Hyeok e seus colegas de trabalho retornam ‡ usina nuclear.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRoDO7V-epOestE7n60bvreL8641r4hZ6uAiytUNU_lLRmeA2EUx1BbMWf9g</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/pandora-2016-poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Monstro no Arm·rio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Um adolescente criativo e impulsivo est· desesperado para escapar de sua cidade natal e das memÛrias assombrosas de sua inf‚ncia turbulenta.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_NyBCVhrz1LOlRT9gzr8vZBsmFNRArwRnELT0VddsiAH4hL_xovaz_GmA9A</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/closet_monster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Dia do Atentado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>ApÛs os atentados terroristas ‡ Maratona de Boston em 2013, um grupo formado pelo Sargento da PolÌcia Tommy Saunders (Mark Wahlberg), o Agente Especial Richard Deslauries (Kevin Bacon), o Comiss·rio da PolÌcia Ed Davis (John Goodman), o Sargento Jeffrey Pugliese (J.K. Simmons) e a enfermeira Carol Saunders (Michelle Monaghan) se une aos bravos sobreviventes para identificar e capturar os respons·veis pelo ataque terrorista antes que eles possam fazer novas vÌtimas.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL0q9umymaqUmg5sttBvejiN_udEr-PO36fL-PT6ga1ubdYZHrXA_JU--vMw</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/patriots_day_ver2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Horizonte Profundo: Desastre no Golfo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o e Drama</genre>
-<info>Baseado em eventos reais, a histÛria se passa no Golfo do MÈxico, na plataforma de perfuraÁ„o marÌtima Deepwater Horizon que explodiu em abril de 2010. Diante de um dos piores vazamentos de petrÛleo na histÛria dos EUA, a coragem dos trabalhadores e a sobrevivÍncia perante os momentos extremos.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv1powAyEmDaNPQLC3ZPChb77EIiuBD1otzyIQhjvml6qLEkPvpGqKtSph</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/deepwater-horizon_t109493.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Breaking Bad: O Filme (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Policial</genre>
-<info></info>
-<fanart></fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/05/no-half-measures-creating-the-final-season-of-breaking-bad_tNone.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevit·vel confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coraÁ„o para a vida e para a verdadeira cura interior.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6iJsoE2BxhWv1CmyVodJSDmWaieFVZg9MPL0U_HTQetvwsL</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/03/60e06e5290675646d60659aca9390fa1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Como Eu Era Antes de VocÍ (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>Rico e bem sucedido, Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais atÈ ser atingido por uma moto, ao atravessar a rua em um dia chuvoso. O acidente o torna tetraplÈgico, obrigando-o a permanecer em uma cadeira de rodas. A situaÁ„o o torna depressivo e extremamente cÌnico, para a preocupaÁ„o de seus pais (Janet McTeer e Charles Dance). … neste contexto que Louisa Clark (Emilia Clarke) È contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspiraÁıes na vida, ela faz o possÌvel para melhorar o estado de espÌrito de Will e, aos poucos, acaba se envolvendo com ele.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-OaUJmugiKi37FktCzs4sJw37A4EII1yDmG2-KaBfEJD_Ckj70Dsa0tGN</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/como-eu-era-antes-de-voce_t87730_6WE5Ak5.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]As Aventuras de Pi (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Aventura e Drama</genre>
-<info>Pi Patel, È filho do dono de um zoolÛgico localizado em Pondicherry, na Õndia. ApÛs anos cuidando do negÛcio, a famÌlia decide vender o empreendimento devido ‡ retirada do incentivo dado pela prefeitura local. A ideia È se mudar para o Canad·, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrÌvel tempestade. Pi, consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaÁo disponÌvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhB3ioikF9sPlRrX7xtnhHajuVtqcmHpZs7Ekrc_aD5a1xtCqMMOOz7Fwg0A</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/11/b3cc18f97fe620cef165fa0b69d9c0de.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]A Chegada (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e FicÁ„o CientÌfica</genre>
-<info>Quando seres interplanet·rios deixam marcas na Terra, a Dra. Louise Banks (Amy Adams), uma linguista especialista no assunto, È procurada por militares para traduzir os sinais e desvendar se os alienÌgenas representam uma ameaÁa ou n„o. No entanto, a resposta para todas as perguntas e mistÈrios pode ameaÁar a vida de Louise e a existÍncia de toda a humanidade.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdtuUMRlQ_dD7fNibi7AZItt6fAgYdoDxxpjggfWsW_KBNfzVUPB1i8-mU8g</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR--KfRN2lB-AMbWlxqGNhbREjNIO_HZyyNy6ldbJh7t4x7Ub35xiAwcj18cQ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]100 Streets (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]100STRTS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Quatro pessoas, quatro histÛrias extraordin·rias. Todas vividas nas ruas de Londres.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmB87HS2V6tsnD8IrdjoIlYsfPupWVPQOY-vCjCslPa9Kydw2Ua5xGjmg</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_H04eQp4gyxExKIIrM6DA1C6p2hzIlJ0u85DfNc6GYeq68PlHvg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>SÈculo XVIII. A bela vi˙va Lady Susan Vernon (Kate Beckinsale) foge das fofocas sobre seus casos amorosos buscando ref˙gio na fazenda dos antigos sogros. L· reflete sobre a vida e decide arranjar um novo marido para si e um bom pretendente para a filha, Frederica (Morfydd Clark).</info>
-<fanart>https://lh3.googleusercontent.com/proxy/PDzmF3Ost00bON8iUO7rwas3wTS3CTctkrcFkuACkH2Xk_G_JECpCt9VDa5NxFAMTCCwecD5=w511-h288-nc</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqH9feFVhMxm4_-zdpscG022XueE2UOAXB_3D4r_GmWQ_l_XRCq-CQQuBdMw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,Aventura e Drama</genre>
-<info>Esse filme È baseado nos capÌtulos do famoso cl·ssico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a histÛria de como o Macaco Rei se rebela contra o Imperador Jade do CÈu.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJtDUubRAgxdgkmqDTM5LdlVPYHUXizYjcTMMsbozVW2EVF8ADl86A52vieg</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLI0hBmFVOC1DbIPrU1LKlxxUMK1IFjTZt5LqZ5MHKFRytW67T</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Contador (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCNTDR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,Drama e Policia</genre>
-<info>Christian Wolff (Ben Affleck) È um portador da SÌndrome de Savant com mais afinidade por n˙meros do que por pessoas. Tendo um escritÛrio de contabilidade em uma cidadezinha como fachada, ele trabalha como contador autÙnomo para algumas das mais perigosas organizaÁıes criminosas do mundo.
-Com o Departamento Criminal do MinistÈrio da Fazenda, coordenado por Ray King (J.K. Simmons), comeÁando a fechar o cerco, Christian aceita um cliente legÌtimo: uma empresa de robÛtica de ˙ltima geraÁ„o onde uma assistente de contabilidade (Anna Kendrick) descobre uma discrep‚ncia envolvendo milhıes de dÛlares. PorÈm, conforme Christian desvenda os registros e se aproxima da verdade, a contagem de corpos comeÁa a subir.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3rOvj4Xx9W0aaQ2Poyh8w7YdGuHTAB7T3T5dsd_GvjusmfonMnJuvGH9z</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPQZRVEf8Vak_S7CWYhVw2QgVkHa1-Qkz9tlJcyz_zL_uLtfQ_lcxGoqLl</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Snowden: HerÛi ou Traidor (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNODNHROTRIDRLEG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Filme de Oliver Stone sobre Edward Snowden, ex-funcion·rio da CIA que divulgou para a imprensa uma sÈrie de documentos sigilosos da AgÍncia de SeguranÁa Nacional dos EUA que comprovaram atos de espionagem do governo norte-americano.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bp6L3y-q0mrzIgkZgD2ECWyu2KC-IcOogF91NuVpMlGwRVnbFA</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFvapXqN0czkNE4EfHAmCwstqLZRduDDuDf4wZ5QIIyC48jZSjA</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Programa (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRGMA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Cinebiografia do ciclista norte-americano Lance Armstrong (Ben Foster), que abrange desde a ascens„o e consagraÁ„o no Tour de France atÈ a desgraÁa pelas acusaÁıes de dopping.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Mestre dos GÍnios (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Biografia de Max Perkins, um dos editores liter·rios mais famosos do mundo. Apostando em jovens talentos, ele descobriu nomes fundamentais da literatura como F. Scott Fitzgerald, Ernest Hemingway e Thomas Wolfe. O filme acompanha a vida pessoal e Perkins e sua relaÁ„o complicada com os escritores, cujas obras foram fortemente influenciadas pelo trabalho do editor.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUnBuIkk6A4AeXTsAtDCZUnDbKlWuBkCRNWl4qFPp-gZez0x5iCA</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRE0z-cYooBpbvgZksiDviyIk70JMjpmS3u0kB-fK8i2JK5Ufifw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Come And Find Me (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>David (Aaron Paul) e Claire (Annabelle Wallis) vivem um tÛrrido romance apÛs se conhecerem em uma situaÁ„o incomum. Passado algum tempo juntos, a moÁa desapere do nada sem deixar nenhum traÁo. Destinado a encontrar sua amada, o homem comeÁa a caÁar pistas que possam o direcionar para a soluÁ„o do mistÈrio. Entretanto, ele vai acabar descobrindo uma verdade misteriosa e bizarra sobre ela e sobre o que ele conhecia sobre a sua personalidade.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDqCWaOAU5L9X6zzFGX1LUsvG_jAIYB_ceqiZ9byExF7Yi3mYtlgddaf8syA</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXTsceWQlx23-5Dh7NRgCFtw_kEvM8HVUO0jKHHFD3pmsxp5eojUqulk_2</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Sans„o e Dalila (Dublado) - 1951[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,Aventura e Drama</genre>
-<info>A histÛria dos personagens do Velho Testamento, Sans„o e Dalila, È mostrada aqui de modo monumental e com riqueza de detalhes. O Èpico de Cecil B. DeMille possui cenas memor·veis, como a da destruiÁ„o do templo dos filisteus e cen·rios que atÈ hoje impressionam por sua suntuosidade. Victor Mature e Hedy Lamarr interpretam Sans„o e Dalila com brilhantismo e emoÁ„o. Um filme obrigatÛrio para todos os amantes da 7™ arte.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNGA_OWz9dAkisVNo1mSXPMCX946Q19OLkPWqCsps9OuoSO7SLSUHKnOug</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVwhcRk25b_Y6Nfr_ufRfxuwhshNGV42MtbmgNDb0rRPBYyVUgBzh-HEt0g</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc9DdKscKaay-4XsM9R08lMitHCJkW3DAIPnSWapqxNQPdEPjByA</fanart>
-<thumbnail>https://img.fstatic.com/YY3rVSBk3WxsoBKhE2Px3-p9iBs=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2009/03/63df1e6e7e3b1e69d389400ce863020f.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Os Embalos de S·bado ‡ Noite (Dublado) - 1978[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Tony Manero, um jovem do Brooklyn e um excelente danÁarino de disco music, sÛ encontra significado na vida quando danÁa, pois passar a semana trabalhando em uma loja de tintas n„o o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influÍncia de seu irm„o, um padre frustrado, e de Stephanie, sua parceira de danÁa, comeÁa a questionar a maneira como encara a vida e a limitaÁ„o de suas perspectivas. Paralelamente Tony, vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF57Zf4j332gOn6MfPmoBPvJe7k2tyhY9A-K9JXQCNHHnlpBPJd_hQBXH1</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvInMz-LLx2RTF1ClGb4E9Qo_J881LjjMwTbcMqFMuuWGExbI88sdIhnTutg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]OperaÁ„o Drag„o (Dublado) - 1973[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,Drama e Policia</genre>
-<info>Determinado a vingar o assassinato de sua irm„, Bruce Lee, se infiltra na fortaleza isolada de um poderoso chef„o do crime, que utiliza sua academia de artes marciais como fachada para tr·fico de Ûpio e prostituiÁ„o. Para cumprir sua miss„o, Lee, ter· que participar de um torneiro de vida ou morte.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoziRs9W-7RQdeGCndYEVjLeVuWMHUxu8y59Yf5TxyUETXmO4IBNqV2VMS</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx20ZzTKcLFX41aOYBqKzuloyrqUfx1sDi0eC7TDZ0Iu3y0ujkNQ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Drag„o do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Aventura e Drama</genre>
-<info>Um grupo de Ûrf„os embarca em uma aventura para restaurar a m·gica no mundo e salvar o Natal.</info>
-<fanart>https://lh4.googleusercontent.com/proxy/zBzHWKwuMhfZiD9UzC09tlZjlaq6Z9WRQLe0MU-AMs64xMNPwX3WPnV9XUXEcPx_BGmCVWU-AFYwkVVpEEaIQ2fR12tTmxsdDnd2lA=w512-h288-nc</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrkobaJ5HT8-GxRR4t91Vzuf2-4b4hJyH7R76aonW5uzgtj_5npw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Aviador (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OAVADR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Howard Hughes (Leonardo DiCaprio) ficou milion·rio j· aos 18 anos, devido ‡ heranÁa que seu pai, um inventor texano, deixou para ele. Pouco depois ele se mudou para Los Angeles, onde passou a investir na ind˙stria do cinema. Hughes ajudou a carreira de v·rios astros, como Jean Harlow (Gwen Stefani), e ainda trabalhou em filmes de grande sucesso, como "Hell's Angels", que dirigiu. Paralelamente Hughes se dedicou a uma de suas maiores paixıes, a aviaÁ„o, e se envolveu com as atrizes Katharine Hepburn (Cate Blanchett) e Ava Gardner (Kate Beckinsale).</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBQAK4Ij89VItJb-u86Rt4lgJshgF6Wecw9LDmvbOZI7ajh6_GQzQW_gB</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDi2P_pyAXwaYMeExRDkMLAeVL9euiK_CHT94PQvhQvjt8-EQb</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>Ronald Miller (Patrick Dempsey) È um jovem tÌmido e trabalhador, que sempre sonhou em ser popular no colÈgio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, est· precisando de 1000 dÛlares ele surge com uma insÛlita proposta: empresta o dinheiro a ela e em troca ela dever· fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colÈgio.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcu7NXFT1PIzPkRWqr8SHdC3ochsJvq24U5WNRcP6Gz3XIjeceQ</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DcVFJCkRuCdWzOYY7HJaU_rX2sXlJB_EXDV1TZ-i_kgry2v51w</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Mercy (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MERCY.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>A histÛria gira ao redor de Lucy (Page), filha de um homem que est· no corredor da morte. Mas ela acaba se envolvendo com Mercy (Mara), descrita como "uma mulher do lado oposto da causa polÌtica de sua famÌlia".</info>
-<fanart>https://lh3.googleusercontent.com/proxy/N49qheSN9yZegmCk6VP48Gbfi349XMjAzXloiwfX103UQz5BZV7j5UPiIEPY3nUi2lf7LphcGbuTnR-A5sdgvfi_OYqnSulaW1jvJliSJJ5xAfIVnS43=w511-h288-nc</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbuSoGZfWU6L919SU3GLulJzZscjGTwzPQEA3SspWAyY5luXr8Nw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Jogo da Morte: A ⁄ltima Jogada (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o e Drama</genre>
-<info>Hannah Lee Baker (Abigail Breslin) È uma jovem brilhante presa em um submundo sombrio de violÍncia e armas, laboratÛrios de metanfetamina e gangues perigosas de motoqueiros, que tem no xadrez seu ˙nico ref˙gio. Ela vive com Amber, sua irm„ mais velha (Alexa vega); e seu tio Donny (Lew Temple), um viciado. Tudos vivem com medo do tio Frank Stinson (Sean Bean), que cuida do negÛcio ilegal da famÌlia com punhos de ferro, ajudado por seu irm„o psicÛtico mais novo, Bobby (Jake Busey). As coisas pioram quando Amber se apaixona por Wild Bill (James Purefoy), um traficante de metanfetamina em guerra com Frank. Hannah percebe que a ˙nica maneira de salvar sua famÌlia È jogando um pe„o contra o outro em um jogo real de xadrez</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZl9t1Dep8hdvz5Ubcq39xapzix5xjdM9z8CMUYsrEbYiPifv6gHXPgsUU</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtG4-xlbiBd4Hc6rm-krSLnlqqndQTbfnzXnq3iifp4hJLIWIW</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Horas Decisivas[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o e Drama</genre>
-<info>1952, uma grande nevasca leva uma plataforma de petrÛleo a se rachar, lanÁando 84 tripulantes ao mar. Enquanto a tempestade dificulta a sobrevivÍncia do grupo, uma equipe de guardas costeiros tenta resgatar as vÌtimas.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoRrl26RBP3dLe0C775vI51u3LaClaFK8jyKXmHvtuBX7U13QwkC2yRGuJ</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQPdcFBOpv5fVvrq_WvW6p1VTljr306rV38o7KRcNqt7VGt0yCSzs1Tm_C</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Honey 3: No Ritmo do Amor[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONY3.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Melea MARTIN se sente constrangido por polÌticas rÌgidas da escola e decide estabelecer por conta prÛpria. Procurando uma maneira de usar seus talentos como danÁarina</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn5gRnTizlwRzytlUdbEPXeLZEfPn06yRbM3xjxMgaJBnqVDt</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLfx0I40TetR_7RzC1tsj8vawkdBuhEzKEX57cvdaOkivV3eqPA</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Honey 2: No Ritmo dos Sonhos (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONY1.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Para Maria, viver honestamente significa conviver com a m„e de Honey, Connie (Lonette McKee), e manter um trabalho apenas para sobreviver. PorÈm, uma rara noite de divers„o em um clube de danÁa local lhe d· a oportunidade de mostrar o que ela tinha quase esquecido: seu talento para danÁa. Sua habilidade chama a atenÁ„o de Brandon (Randy Wayne), um volunt·rio do Centro Recreativo, que a convida para ajuda-lo a treinar um grupo de bailarinos talentosos, mas indisciplinados, chamado de HD. O talento de Maria tambÈm chama a atenÁ„o de seu ex-namorado Luis (Christopher ëWarí Martinez), o carism·tico lÌder da premiada equipe de danÁa 718, que espera atrai-la de volta ao mundo da marginalidade, da qual ela est· tentando escapar. Vendo a oportunidade de criar uma nova e significativa vida, Maria se entrega de corpo e alma no mundo da danÁa e comeÁa a treinara equipe HD para competir no concurso de danÁa ìDance or Dieî ñ o que significa competir contra o grupo 718 e seu antigo namorado Luis.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn5gRnTizlwRzytlUdbEPXeLZEfPn06yRbM3xjxMgaJBnqVDt</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUYtdCPzGknK2x_WeVLrdsueG8ssdyajJ1bZ66-ZZi8PFdeqs6Q</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Guerra ao Terror (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,Drama e Guerra</genre>
-<info>Para um grupo de soldados americanos, alguns dias os separam do retorno para casa. Um perÌodo relativamente curto, se n„o fosse por tantas ocorrÍncias que transformassem esse fim de jornada em um verdadeiro inferno. As forÁas armadas precisam de especialistas n„o sÛ nos campos de combate mas tambÈm no dia a dia, na proteÁ„o do grupo contra insurgentes que promovem atentados, matando milhares de cidad„os.
-Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Roteiro Original, Melhor Montagem, Melhor Som e Melhor EdiÁ„o de Som.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzSb9XixePr31USjBZBLOKjeyx1DeN0mUEIwScz6DcQVD4aQBAdl_qAT77cA</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEnQOkfw29_vPX7Gei4zKBneR5-xe_7Qbe_6iyX4FBAgZnScR7TD8ELah</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]ForÁa Para Viver (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Drama</genre>
-<info>Depois da morte do filho adolescente, um pai (Billy Crudup) tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma sÈrie letras de m˙sicas e gravaÁıes originais. Para honrar a memÛria do filho, ele decide montar uma banda para tocar estas canÁıes.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbswrV1h3hUYtYpvB9SbqIo8DsfPqOFvfpQ0hZyyIwptSs0uMEphUjL5JsXQ</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNTsJWEvMMg7povm7laewm5G8IYmyzCXkKpQBn8l7zGTIUqPI0</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Cavalo de Guerra (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama e Guerra</genre>
-<info>Na trama, em 1914, Joey, um potro com um sinal em forma de cruz na testa, È vendido ao exÈrcito e enviado ‡ Europa, onde se desenrola a Primeira Guerra Mundial. Entregue a um oficial, o animal se torna um cavalo de batalha, testemunhando o horror do conflito na FranÁa. A coragem de Joey toca os soldados, enquanto o cavalo sofre pela ausÍncia de Albert, o filho do fazendeiro que ele deixou para tr·s. Ser· que ele ver· seu dono verdadeiro outra vez?</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoszbs6_mO1wl7XFZqv047y-vHYcp9QN7ZldOvHWlJol8AINAjSez0kYwObw</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9-qlNs-xwpLbxRaCv3JvQDg6pRB6F0gq82HFkripCnjEu9aNJKUfCZvY</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,ComÈdia e Drama</genre>
-<info>Ao serem expulsos do templo de Shaolin por desacatarem seu Mestre, dois jovens passam a lutar pela sobrevivÍncia. Mas os caminhos escolhidos s„o opostos, Jun Bao (Jet Li) luta por um ideal de paz e poder. Anos depois, uma traiÁ„o faz com que estes caminhos se cruzem, colocando os dois amigos frente a frente cada um a lutar pelo seu ideal. Inicia-se uma luta sangrenta onde os dois maiores representantes de artes marciais do Oriente ter„o que mostrar todas as suas habilidades nem que para isso um deles chegue a morte. Uma histÛria de amizade e justiÁa foi respons·vel pela origem mundial da maravilhosa arte do Tai Chi Chuan</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDD7pecLyMV3a7dfJMuZiJvlsGPMtR4TiiwNdf6x7KFqFl7pH_v0sxSp0ZgQ</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9p3BjtXwi4pXYE3owEU9_0wTda1Nxt4_i5h3MCLuHYqiUuZvl</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]As Torres GÍmeas (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>11 de setembro de 2001. Will Jimeno (Michael Pena), integrante do Departamento da PolÌcia Portu·ria, parte para mais um dia de trabalho. O sargento John McLoughlin (Nicolas Cage), veterano do Departamento, j· estava acordado h· algumas horas, em decorrÍncia de sua ronda di·ria de uma hora e meia atÈ a cidade. Jimeno, McLoughlin e seus colegas partem para o centro de Manhattan, como se fosse um dia qualquer. AtÈ que um ataque terrorista ao World Trade Center muda completamente a situaÁ„o, fazendo com que toda a equipe do Departamento seja convocada com urgÍncia ao local do ataque. A 1™ equipe a entrar na torre n„o-atingida È composta por 5 homens, entre eles Jimeno e McLoughlin. PorÈm enquanto eles est„o dentro do prÈdio, tentando ajudar os sobreviventes da torre em chamas, um 2∫ ataque terrorista atinge o World Trade Center, exatamente no prÈdio que ainda n„o tinha sido atingido.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYtvK0wG-xBIKtt3cKvlNKsUeJo_TH9PlePD-In5NLGNB9zBdb</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj-CHbYImv4vjvh63rHcW-oGBbIiaOJV1cmEdgkKlnd04seP0OaA</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Esquadr„o de Elite (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o e Drama</genre>
-<info>Buren È um velho policial tempo que n„o joga pelas regras. No submundo Paris a sua equipa nunca tem medo de usar seus m˙sculos e armas para fazer cumprir a lei. Com todos os seus movimentos sob o escrutÌnio de Lenoir seu novo patr„o, Buren sabe que seu tempo est· se esgotando. Quando um assalto se transforma em assassinato, Buren segue suas entranhas e invade a casa de ex-presidi·rio Kasper um. Mas Kasper tem um ·libi sÛlido e Buren tem que deix·-lo ir. Marginalizado, Buren e seu esquadr„o desobedecer as ordens de Lenoir para tentar impedir um assalto a banco em curso. A operaÁ„o È um banho de sangue e Buren leva a queda para ele. Mas, quando ele percebe que os assaltos s„o parte de uma operaÁ„o maior, Buren com nada a perder, decide entrar em aÁ„o.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/29me8EsNWvFQQcQwmyxBJx9QmOYoodNlP-sYS57coXAT1E6ZZJjawWDmAZrpXEWTbJiObATq=w512-h287-nc</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY2wAkaPeYFAB4z9CoNg6Xn6d3csWNAefPQBjSOogWYI7CE-usrw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,Drama e Policia</genre>
-<info>O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks), visita a It·lia e se envolve em mais uma aventura envolvendo sÌmbolos ocultos e corporaÁıes secretas. Ele se vÍ em uma jornada em que procura desvendar os mistÈrios do cl·ssico da literatura "A Divina ComÈdia", de Dante Alighieri.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7jouGQGKf5Iek1H_VdNIT3hPjfbOvxDfLukQDSX9A3N89x_OK7YVksTQpgw</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv7nJ84k4YMNB3fy1UzbKOMtdDvQ0MMfyWBCBThfQmw8J_oshIRQ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Uma CanÁ„o (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama</genre>
-<info>Uma arqueÛloga (Anne Hathaway) est· de volta aos Estados Unidos apÛs um perÌodo de escavaÁıes no Marrocos, onde seu irm„o sofreu um acidente. Ao retornar, ela se envolve com um astro do rock (Johnny Flynn), que vem a ser o m˙sico preferido de seu irm„o.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjo10J4kfEhc4EPJRNpQwKw27U6w9mLt-mpaya81CD_3B5IScA</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuoOpyjhgyWGsWoXPM4Ivyd-qCH4y5yFnx2nGYZykgZsQAAAdj</thumbnail>
+	<title>[COLOR white][B]Hanna (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+	<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HANNA.mp4</link>
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPnnLSONyv2qO8wLFMyK6zD2o5eA1SY9gIAYNwt9dJg_PyfYT</thumbnail>
+	<fanart>https://images3.alphacoders.com/151/151697.jpg</fanart>
+		<info>Hanna foi criada nas terras geladas da Finl√¢ndia por seu pai, um ex-agente da CIA. Treinada para se tornar a assassina perfeita, a jovem leva uma vida completamente diferente daquela das outras garotas da sua idade. Certo dia, seu pai lhe d√° uma miss√£o arriscada e ela precisa atravessar a Europa enganando agentes muito experientes. Mas logo alguns segredos v√™m √† tona e Hanna come√ßa a questionar seus atos.</info>
+		<genre>Drama</genre>
 </item>
