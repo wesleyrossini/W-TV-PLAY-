@@ -1,899 +1,867 @@
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-
-
-<item>
-<title>[COLOR white][COLOR white]O Que Ser· de Nozes? 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/o-que-sera-de-nozes-2-2017-dublado/</page></regex>
-<genre>AnimaÁ„o,Aventura e ComÈdia</genre>
-<info>A aventura apresenta a continuaÁ„o da histÛria de Surly Squirrel e seus amigos. Quando o malvado prefeito de Oakton decide demolir o Liberty Park e construir um perigoso parque de diversıes no local, a turma precisa se reunir para salvar sua casa, derrotar o prefeito e retomar o parque.</info>
-<fanart>http://baconside.com.br/wp-content/uploads/2017/09/o-que-sera-de-nozes.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/unnamed.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Viidlox)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>","(.*mp4.*?)"</expres><page>https://vidlox.tv/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidlox.tv/</referer></regex><regex><name>ID_Igor_rangel</name><expres>vidlox=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
-<genre>AÁ„o e ComÈdia</genre>
-<info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal È roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalÁo.</info>
-<fanart>http://image.tmdb.org/t/p/original/qi53EJ4079uVcGQLsmCkR4GT0dE.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMjE2MDU0MzE1OF5BMl5BanBnXkFtZTgwNTIxNTIxMjI._V1_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/meu-malvado-favorito-3-dublado/</page></regex>
-<genre>AnimaÁ„o e ComÈdia</genre>
-<info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um tÌpico malvado bem-sucedido nos anos 80 e agora est· de volta ‡ ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru tambÈm vai encontrar o seu irm„o gÍmeo, Dru.</info>
-<fanart>(https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzMTM0MDQ5OF5BMl5BanBnXkFtZTgwMDM1NDY4MDI@._V1_SX1777_CR0,0,1777,732_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/meumalvadofavorito3_5.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]The House (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/casa-caiu-um-cassino-na-vizinhanca-dublado/</page></regex>
-<genre>ComÈdia</genre>
-<info>Um casal acidentalmente perde todo o dinheiro que haviam poupado para a universidade da filha. Para recuperar o valor, eles abrem um cassino clandestino em casa e convidam vizinhos e amigos para apostar.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpsyfRI1QNJcXlKw96i14cokiDWxt6W5_Xzb3db6LVHZi9pjoRUg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/MV5BMTc0NDYwNzU2M15BMl5BanBnXkFtZTgwOTUxNDg0MTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]A M˙mia (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
-</regex>
-<genre>AÁ„o,Aventura e ComÈdia</genre>
-<info>O azarado Capit„o Jack Sparrow (Johnny Depp) encontra os ventos da m· sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capit„o Salazar (Javier Bardem), escapam do Tri‚ngulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A ˙nica esperanÁa de sobrevivÍncia do Capit„o Jack encontra-se em buscar o lend·rio Tridente de Poseidon, um poderoso artefato que d· sobre seu possuidor total controle sobre os mares.</info>
-<fanart>http://www.sitetarjanerd.com.br/wp-content/uploads/2017/06/mumia6.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/FB_IMG_1492572776568.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Piratas do Caribe ñ A VinganÁa de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
-</regex>
-<genre>AÁ„o,Aventura e ComÈdia</genre>
-<info>O azarado Capit„o Jack Sparrow (Johnny Depp) encontra os ventos da m· sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capit„o Salazar (Javier Bardem), escapam do Tri‚ngulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A ˙nica esperanÁa de sobrevivÍncia do Capit„o Jack encontra-se em buscar o lend·rio Tridente de Poseidon, um poderoso artefato que d· sobre seu possuidor total controle sobre os mares.</info>
-<fanart>https://i.ytimg.com/vi/_jBjT5qN6Qs/maxresdefault.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/C56Z-8xU0AABexE.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Baywatch - S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
-<genre>AÁ„o,ComÈdia e Drama</genre>
-<info>Em Emerald Bay ninguÈm se destaca mais do que o lend·rio salva-vidas Mitch Buchannon (Dwayne "The Rock"). Como lÌder da equipe de Baywatch, Mitch tornou-se uma espÈcie de herÛi local. Mas o novo e insubordinado recruta do time Matt Brody (Zac Efron) anda tirando a sua paciÍncia. Apesar das desavenÁas, os dois se unem quando descobrem uma conspiraÁ„o criminosa local que ameaÁa o futuro da baÌa onde trabalham.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MDQ3MTE0NTNeQTJeQWpwZ15BbWU4MDUwOTAwMzIy._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/17991494_10155231994442052_4678730947847768271_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Poderoso Chefinho (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/o-poderoso-chefinho/</page></regex>
-<genre>AnimaÁ„o e ComÈdia</genre>
-<info>Um bebÍ falante que usa terno e carrega uma maleta misteriosa une forÁas com seu irm„o mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A miss„o È salvar os pais, impedir a cat·strofe e provar que o mais intenso dos sentimentos È uma poderosa forÁa.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzc5NzY5NV5BMl5BanBnXkFtZTgwOTcxMjczMDI@._V1_SX1777_CR0,0,1777,736_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/poderoso.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Poderoso Chefinho (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/o-poderoso-chefinho/</page></regex>
-<genre>AnimaÁ„o e ComÈdia</genre>
-<info>Um bebÍ falante que usa terno e carrega uma maleta misteriosa une forÁas com seu irm„o mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A miss„o È salvar os pais, impedir a cat·strofe e provar que o mais intenso dos sentimentos È uma poderosa forÁa.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzc5NzY5NV5BMl5BanBnXkFtZTgwOTcxMjczMDI@._V1_SX1777_CR0,0,1777,736_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/poderoso.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LEGO Batman: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/lego-batman-o-filme/</page></regex>
-<genre>AnimaÁ„o e ComÈdia</genre>
-<info>Com o mesmo espÌrito irreverente e divertido que fez de "Uma Aventura LEGO" um fenÙmeno global, o auto-proclamado lÌder daquele grupo ñ LEGO Batman ñ estrela sua prÛpria aventura na tela grande. Mas h· grandes mudanÁas sendo tramadas em Gotham, e se ele pretende salvar a cidade dos planos do Coringa, Batman ter· que abandonar a fachada de justiceiro solit·rio, aprender a trabalhar em equipe e, quem sabe, atÈ aprender a relaxar um pouco.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOTY5MTk2NjYtOGVmYS00Mzc0LTk5MzMtNjE3ZmI2MjgwZDQ4L2ltYWdlXkEyXkFqcGdeQXVyNjY5MTAwODQ@._V1_SX1777_CR0,0,1777,795_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/15326290_329075244144984_7141916695880954220_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o e ComÈdia</genre>
-<info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos s„o espiıes do governo.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrjfXoMeNwmYACvmLFzkO5S5EgnO5k6jDR1vKPBX7ALjQ1UtAI3r0sy8t9Ig</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/keeping_up_with_the_joneses.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]A Fabulosa Gilly Hopkins (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Drama</genre>
-<info>Uma garota de 12 anos que passa por diversos lares adotivos durante sua vida ao ser enviada para a casa de Maime Trotter elabora um plano de fuga para se juntar ‡ sua m„e biolÛgica, mas descobre que as coisas n„o s„o t„o simples quanto ela imaginava.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/BDg637uWj5KSdKf2hHo623BRrhZ_Qt3DTv35LXgw8s4Bc_pehxsYktbrcsHspgkTX1vZctWS=w540-h200-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/the-great-gilly-hopkins_t94779.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Amor em Sampa (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREMSP.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Nacional</genre>
-<info>ComÈdia musical rom‚ntica com roteiro de Bruna Lombardi e direÁ„o de Carlos Alberto Riccelli, o filme narra cinco histÛrias de amor que tÍm como ponto de partida uma ideia do publicit·rio Mauro (Rodrigo Lombardi), que desenvolve uma campanha para que a cidade de S„o Paulo mude para melhor, enquanto vive sua paix„o pela estilista Tutti (Mariana Lima).</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeVpkkmTXQ_h7H4t9bSWhaHfgc_vxtHYgbQXCRvFWuVcCmWNSwfGcKpHK</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/amor-em-sampa_t102811.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Apostando Tudo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia</genre>
-<info>Eddie Garrett (Jake Johnson) concorda em olhar uma bolsa para um conhecido que est· indo para a pris„o. Quando ele descobre que o que tem na sacola È dinheiro, n„o resiste ‡ tentaÁ„o e acaba gastando a grana. Quando o prisioneiro È solto mais cedo, Eddie tem uma pequena janela de tempo para ganhar todo o dinheiro de volta.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/lkocj_8-9z2qKfqADE-21YJrqBQXOiSvXe4eD9OL9qz_4m0rPGYvMRtuamBJ2_qmeeoDr3F843BFcekZeVD2hP-TKMLKjYeePpmNl9J2b_3JqmfsUz-I8_6CqAUJpP_ezSvVSg=w341-h192-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170405_223109.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Bem Casados (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance,Nacional e ComÈdia</genre>
-<info>Heitor (Alexandre Borges) È um homem solteiro que trabalha fazendo filmagens de festas de casamento. Durante os preparativos para cobrir mais um casamento, ele conhece PenÈlope (Camila Morgado), uma mulher bonita e independente que quer acabar com a festa antes mesmo de comeÁar. O objetivo de Heitor È garantir que dÍ tudo certo com o casamento. J· para PenÈlope, a cerimÙnia È uma oportunidade perfeita para executar seu plano.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsxSlRFZ6CFdf4dntfLryWfy-Hkr5TTkCgBXUHqAw4jLndxYn9zVsTfRJDlw</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/11/bem-casados_tNone.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Capit„o Fant·stico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Romance e ComÈdia</genre>
-<info>Ben È o pai de seis crianÁas, que decide fugir da civilizaÁ„o e criar os filhos nas florestas selvagens do PacÌfico Norte. Ele passa os seus dias dando liÁıes ‡s crianÁas, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben È forÁado a deixar o local e retornar ‡ vida na cidade. ComeÁa o aprendizado do pai, que deve se acostumar ‡ vida moderna.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZL4SUtGXSy4AQBWxFzkkhxKBuzayfp3XfN195OIEgBnROu-ZT6Gecy7n_Nw</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/captain_fantastic_ver3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Entre Abelhas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Drama,Nacional e ComÈdia</genre>
-<info>Coisas estranhas comeÁam a acontecer na vida de Bruno (F·bio Porchat), um jovem de quase 30 anos que acaba de se separar da mulher (Giovana Lancelotti). Bruno tropeÁa no ar, esbarra no que n„o vÍ ñ atÈ perceber que as pessoas ao seu redor est„o desaparecendo sÛ para ele. Os dias correm e a situaÁ„o sÛ piora. Com a ajuda da m„e (Irene Ravache) e do melhor amigo (Marcos Veras), Bruno tentar· se adaptar a esse novo mundo com cada vez menos gente.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5FDb2j6Ler42KPVYwHsm8XRlfGQx5gnkn4VNcAYO6iUoqe35yfB8b8AYe4g</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/01/entre-abelhas_t99797.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]N„o È Mais Um Besteirol Americano (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia</genre>
-<info>Janey Briggs (Chyler Leigh) È uma garota que estuda na John Hughes High School e n„o tem muitos amigos. Ela sonha em se tornar uma artista pl·stica de sucesso, sendo rejeitada pelos demais colegas de escola por sempre usar rabo de cavalo, Ûculos e uma jardineira velha suja de tinta. AtÈ que Jake Wyler (Chris Evans) faz uma aposta com seus colegas, de que poder· transformar Janey na rainha do baile de formatura. Enquanto isso, o time de futebol americano do colÈgio, liderado pelo prÛprio Jack e por Reggie Ray (Ron Lester), enfrenta problemas no campeonato que disputam. AlÈm disto a escola ainda È agitada pelas presenÁas de Sadie (Beverly Polcyn), uma senhora de 90 anos que est· disfarÁada de repÛrter, e ainda Areola (Cerina Vincent), uma aluna estrangeira que chegou ao local pelo programa de interc‚mbio.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiLR-TNijvKza-rUFNN0BFOUApvUxBvQVOq5VXkTJjrmK4qqNye2hkSG7KYQ</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/05/06b34f8cd53437b74db9c8ac692d0b11.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Roubo da TaÁa (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OROBDTA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Nacional</genre>
-<info>No dia 19 de dezembro de 1983, a taÁa Jules Rimet, prÍmio maior da Copa do Mundo de futebol e sÌmbolo do tricampeonato brasileiro, foi roubada por trÍs ladrıes "pÈs de chinelo". Por ironia do destino, a "copa" acabou derretida por um argentino. O filme conta, com humor e de maneira din‚mica, a histÛria do assalto, fazendo um resgate histÛrico do ˙ltimo suspiro da ditadura militar e retratando o sentimento dos brasileiros numa Època decadente. ''O IncrÌvel Roubo da TaÁa Jules Rimet" È um filme de Època, que transporta o p˙blico para universo dos anos 80, seja pela direÁ„o de arte colorida e muito bem fundamentada, pelos figurinos tÌpicos e pela trilha sonora potente e original.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRlmLb72zE4sMfQ9omicaSPfUUgziy2JbrcU7k8qJm1d1u8PSXH69JE8AN</fanart>
-<thumbnail>https://img.fstatic.com/12tr7OF_lJ5gstC_Vqsj2qSHNHg=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/07/o-roubo-da-taca_t75682.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Os Normais: O Filme (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Nacional</genre>
-<info>Vani (Fernanda Torres) e Rui (Luiz Fernando Guimar„es) est„o prestes a se casar. Ela com SÈrgio (Evandro Mesquita), ele com Martha (Marisa Orth). Ambas as cerimÙnias est„o marcadas para a mesma sacristia, sendo uma ‡s 18 hs e outro ‡s 20 hs. … l· que Vani e Rui se conhecem, quando ela lhe pede um pouco de arroz para comemorar o casamento que est· para ocorrer.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dM77qqlAEN6nblNH_6DJm_tz0Q7raHJIqDt7tQzm7uihQNeOnnh27j3HPg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/a57d1033a0665fc68c222aac3a7f8b79.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Porta Do Fundo Contrato Vitalicio (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Nacional</genre>
-<info>Miguel e Rodrigo s„o dois amigos que costumam realizar filmes juntos. Certa ocasi„o, um de seus filmes ganha um prÍmio importante em um festival internacional. Animados com a premiaÁ„o, os dois saem para comemorar e Rodrigo assina, em um guardanapo de bar, um contrato vitalÌcio que garante que ele estaria em todos os filmes de Miguel dali para frente. No entanto, Miguel desaparece e sÛ retorna dez anos depois; quando reaparece, ele leva para Rodrigo, agora um ator consagrado, a proposta de um filme insano que pode destruir a carreira e a vida do ator.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4RI4IB6ArK5q8nBaveURXcTYjMRxDu44EBw6EFOFUGQPfbyIUxhi43sZR</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/porta-dos-fundos-contrato-vitalicio_t72875.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Qualquer Gato Vira-Lata 2 (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance,Nacional e ComÈdia</genre>
-<info>Tati (Cleo Pires) e Conrado (Malvino Salvador), que terminam juntos o primeiro filme, viajam a Canc˙n, onde ele participa de uma conferÍncia para o lanÁamento de seu livro. Pronta para dar o prÛximo passo, ela aproveita a ocasi„o para pedi-lo em casamento, com transmiss„o via internet para todos os amigos no Brasil. Mas, ao responder, Conrado solta apenas um ìPosso pensar?î. A moÁa, ent„o, se decepciona e Marcelo (Dudu Azevedo), ex de Tati, volta a ter esperanÁas. Para complicar, ¬ngela (Rita Guedes), a ex de Conrado, tambÈm È convidada para o mesmo evento no MÈxico, onde est· lanÁando um livro, cuja tese bate de frente com a dele.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFeTxR-E-DkPqw9FkNk7TKbmyPlW2VJST3-g1-wcdp5JAD0KLwwiSq7rh1ow</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/04/qualquer-gato-vira-lata-2_t106002.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Qualquer Gato Vira-Lata (Nacional) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance,Nacional e ComÈdia</genre>
-<info>ìQualquer Gato Vira-Lataî narra a histÛria da jovem estudante de direito Tati (ClÈo Pires), que È abandonada pelo namorado Marcelo (Dudu Azevedo). Disposta a recuperar o amor, a jovem oferece como cobaia para as pesquisas do professor Conrado (Malvino Salvador). O pesquisador tem uma tese polÍmica sobre a harmonia entre as conquistas amorosas das pessoas e as leis da biologia, baseando- se nas atitudes dos animais, j· que normalmente as fÍmeas s„o recatadas e os machos s„o audaciosos.
-Curiosamente, a prÛpria vida amorosa do professor nega sua tese, pois sua namorada Angela (Rita Guedes) manda na relaÁ„o. A experiÍncia entre o pesquisador e a cobaia se revela ainda mais desafiadora a partir do momento que o romance comeÁa a surgir entre os dois. 
-Qualquer Gato Vira-Lata È inspirada na peÁa (quase) homÙnima 'Qualquer Gato Vira-lata Tem Uma Vida Sexual Mais Sadia que a Nossa', de Juca de Oliveira, que levou 1 milh„o de pessoas ao teatro entre 1998 e 2002.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPis-bhIqv_Me2q-cbVjLcgs7x4yr9RF8-pVgNmF6UYr2duLrfaI-N8CYl</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/06/5ffd0e46078184fba9dddd1ef2ff4ed9.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Superpai (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPRPAI.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e ComÈdia</genre>
-<info>Nos tempos de escola Diogo era o cara. Mesmo quando metia a turma numa encrenca, seu carisma bastava para manter os amigos por perto. Vinte anos se passaram e Diogo, casado com Mariana e pai do pequeno Luca, j· n„o È mais o mesmo. As noites de farra e bebedeira parecem t„o distantes quanto sua ˙ltima ida ‡ academia. A festa dos 20 anos de formatura da escola È sua grande chance de dar a volta por cima e resgatar a antiga moral. Mas a noite promete ser muito mais desafiadora e cheia de surpresas do que Diogo e seus amigos podiam esperar.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYIM9ZE-BVgLIGTdPopTkBoQhEVOvXnYPS8_9xi-TFRkhECrllcpvnwwYag</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/03/superpai_t105142.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Um Suburbano Sortudo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Nacional</genre>
-<info>O camelÙ DenÌlson (Rodrigo Sant'anna) vive no sub˙rbio do Rio de Janeiro e trabalha duro. 
-A sorte dele muda do dia para noite quando descobre que seu pai biolÛgico desconhecido morreu e que ele era milion·rio. 
-DenÌlson, ent„o pıe a m„o na heranÁa, mas para isso tem de aturar a famÌlia do falecido, que est· toda endividada. 
-Mas ele aguenta e ainda vai tentar usar sua experiÍncia como camelÙ para comandar a empresa do pai.</info>
-<fanart>https://lh5.googleusercontent.com/proxy/3MEKU7E2Bc0ZH54vmGRPYbRokogiWaco0j9zYq7WlFV_WcnaeZHJ0ZUdgmgzwdJRTpLWRBXV_JTRncverOOONKzL9-1CSazNlc09X3o7ERRAdsKGkO6Oub5Ajf7_X2Z9tGeo6lrKW5rA=w535-h275-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/12/um-suburbano-sortudo_t197004_2gYN2MP.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Internet: O Filme (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INTNET.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Nacional</genre>
-<info>O premiado diretor de curtas Filippo Capuzzi est· comprometido com o projeto, que È sua estreia em longas-metragens. Ser„o 8 esquetes, mostrando situaÁıes recorrentes do dia a dia. Em uma convenÁ„o de youtubers, os personagens vivenciam momentos de descobertas, erros, raiva, inveja e confusıes em busca da fama.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvndNbRERqMSsdEeeuLVI8_d50KkX19fM1ZFGogNh5WJNM9lfmev_yQ1Yq</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/16177838_1833154376932340_8486066288229609809_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Lisbela e o Prisioneiro (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance,Nacional e ComÈdia</genre>
-<info>Lisbela (DÈbora Falabella) È uma moÁa que adora ir ao cinema e vive sonhando com os gal„s de Hollywood dos filmes que assiste. LelÈu (Selton Mello) È um malandro conquistador, que em meio a uma de suas muitas aventuras chega ‡ cidade de Lisbela. ApÛs se conhecerem eles logo se apaixonam, mas h· um problema: Lisbela est· noiva. Em meio ‡s d˙vidas e aos problemas familiares que a nova paix„o desperta, h· ainda a presenÁa de um matador (Marco Nanini) que est· atr·s de LelÈu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvaBl0vtzWppaTO_1_Sv4T4CqV7pitzrddAh3y5NsarClHGSn1b3xE44Bu5w</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/acc8c9fc1091eeb6d4d9532cc95da6f6.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Aventura,Nacional e ComÈdia</genre>
-<info>As aventuras de Jo„o Grilo (Matheus Nachtergaele), um sertanejo pobre e mentiroso, e ChicÛ (Selton Mello), o mais covarde dos homens. Ambos lutam pelo p„o de cada dia e atravessam por v·rios episÛdios enganando a todos da pequena cidade em que vivem.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWcANA-roy5CnCipp6v_wd37QuXaeTzBtLBo7iLI-hc0w-XRC8CRPCiuzaOA</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/04/0b33712fa48c7178cde24ad73ffe536f.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Aventura e ComÈdia</genre>
-<info>Best Player È um filme para televis„o original da Nickelodeon que foi lanÁado em 12 de marÁo de 2011 nos Estados Unidos. … protagonizado pelos astros da famosa sÈrie iCarly, Jennette McCurdy como Chris "Prodigy" Saunders e Jerry Trainor como Quincy. Os dois s„o viciados em video games online, e juntos descobrem que o mundo real pode ser t„o emocionante quanto o virtual.
-Quincy, de 30 anos, È conhecido por Q nos games, e se dedica para se tornar o melhor jogador da rede. Seu mundo vira de cabeÁa para baixo quando seus pais decidem se mudar para a FlÛrida, sem ele. Com isso, a ˙nica chance de manter sua vida ìperfeitaî È jogar um novo game, Black Hole, que oferece um prÍmio em dinheiro para seu ganhador, com o qual ele pode comprar a casa de seus pais.
-Como atual campe„o multi-player online, Quincy pensa que È um negÛcio j· ganhoÖ atÈ que encontra "Prodigy", um jogador que ameaÁa aniquil·-lo. Com a ajuda de seu amigo Wendell, eles descobrem que seu rival È na verdade uma menina chamada Chris. A fim de conhecer melhor seu inimigo, ele comeÁa a namorar a m„e dela, Tracy, porÈm, o relacionamento acaba tomando um rumo imprevisÌvel.</info>
-<fanart>https://lh3.googleusercontent.com/proxy/Og5SHCv7mk6ekmL7hkBqqWmEeh3xW9lYp5aL0gqjmD0ZoTla3b3qMLr6vyhEliE4fmh6p2GxslgAJ_FHsM89F3ILqOpnx3FhuASXXwIerki-R7iK85i66voVGKfNJ9fxFhp6dQ=w341-h192-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/08/3e7cc593b7db7a87f0dc36a754b68de3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Fazenda Dos Cisnes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Drama</genre>
-<info>A hostilidade se transforma em outra coisa entre um fazendeiro vi˙vo e uma ornitÛloga insistente que veio para sua fazenda para salvar uma famÌlia de cisnes.</info>
-<fanart>https://lh3.googleusercontent.com/proxy/wf360-cZWOIZaem_nmRbSpHCvWo1VbDORe2U7ZBVLO2dUNGhZ2kFE7YmDt9RnoYzgbqrVtLxBH5KGbTqyOn7HiJAYtYbaR8EwWsbcj5fBUVkMkf6Rf3v5CEQxX1COrCAkhnl4vzUu3ybSvGhalLSnyeHjJIbfaNBxrn9=w543-h271-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/02/away-and-back_tNone_GqKrWjD.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Hop: Rebelde Sem P·scoa (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AnimaÁ„o e ComÈdia</genre>
-<info></info>
-<fanart>https://lh6.googleusercontent.com/proxy/qaJ6bpsABx3V55iiKWEdwq9FQa8jz7PB7_mIc7vFPx01OEIPy_uHp2ABt79JU20FFpTbel525GGKhytOGbBh9_PWBAO-ejaqrQb5Olc3i9QUPzaHlF6tGnqm=w512-h287-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/04/3844091c34fcbc52e36013c97f2c1572.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance,ComÈdia e Drama</genre>
-<info>Conta a histÛria do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas est„o ‡ deriva, e o fez lembrar da import‚ncia de se atrever a sonhar.</info>
-<fanart>https://lh4.googleusercontent.com/proxy/0Zq1DyPQf2nonPGm3qSpB8xIgMDDOkb8LEcBA2vFX-DXBRf4whtQW-aTuF9OaX6iCLbCvdK7UGYsnsGazAc9xw3UMs5A3_Jc=w443-h332-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/nuestro-amantes_t124967.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Aventura e ComÈdia</genre>
-<info>Aos 13 anos, Marnie descobre que vem de uma longa linhagem de bruxas e deve praticar para n„o perder seus poderes. Ao visitar a avÛ, que vive afastada em sua casa de Halloweentown, um misterioso lugar onde feiticeiras, duendes e outros habitantes fant·sticos, Marnie descobre que uma forÁa maligna planeja se apoderar do lugar. Ela tem que lutar para salvar o futuro da magia.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuf3rFEP_S1QeaFX4Mc5rFZig4msiX2vpSVb0NRWzbWYYrBajtTmzd6zxD</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/01/1eddb63bd53f966f0f6f53823e4fb985.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Do Que as Mulheres Gostam (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Romance e ComÈdia</genre>
-<info>ApÛs sobreviver a um grave acidente, Nick Marshall (Mel Gibson), um executivo machista que trabalha em Chicago, misteriosamente passa a ter o dom de ler os pensamentos das mulheres. Inicialmente ele usa este novo poder para agradar sua chefe, Darcy Maguire (Helen Hunt), mas aos poucos comeÁa a conhecer melhor a intimidade das mulheres e comeÁa a mudar seu estilo de vida.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmtwDmENAN1nnUzyQlAYJTAINVPTkfbruLMEdX409BeWM9aA1ToY-Y1AeYmA</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/12/2fcb5c7958837237975ae260321689a0.jpg</thumbnail>
-</item>
-
-<item>
-vCruzeiro das Loucas (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia</genre>
-<info>ApÛs romper com Felicia (Vivica A. Fox), sua noiva, Jerry (Cuba Gooding Jr.) entra em depress„o.
-Tentando animar o amigo, Nick (Horatio Sanz) sugere que ambos faÁam um cruzeiro para solteiros, na intenÁ„o de conhecer novas mulheres.
-PorÈm, quando ambos j· est„o em alto mar percebem algo: ao invÈs de mulheres lindas e disponÌveis o navio est· repleto de homens, sendo que um deles, Lloyd (Roger Moore) est· encantado com Nick.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAZih9IkIxJwDfXUceB7SQrm4PbgkPorSY5Oe34X9M0Oo2UsBW7fXj9Ng</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/10/cruzeiro-das-loucas_t2453.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]RefÈm: O Filme (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e ComÈdia</genre>
-<info>RogÈrio (Rafael Infante) È um cara que leva uma vida sossegada e comum. Casado com Jordana (Aline Fanju), ele vive pulando a cerca com Mirella. Em um dia, ele mente para a esposa e diz que vai viajar, quando na verdade vai para o motel com a amante. Mas o Ùnibus em que RogÈrio teoricamente estaria È sequestrado e vira notÌcia nacional, e ele comeÁa a encenar, por telefone, que est· no veÌculo sequestrado. Para se livrar da confus„o em que se meteu, RogÈrio pecisa de qualquer jeito burlar a forÁa policial e entrar no Ùnibus.</info>
-<fanart>https://lh4.googleusercontent.com/proxy/bOJ_bl4NPp7M09EPOXxq3Fv3Vh9jqdBqOut2uBSd-o9cTqbRuuM_GERRz8Q6GCseDE1wED6JhadFPj6Ho1OvHJorbvr_FzhlgPZk6PEbrrQb_PN7PC7g3pCOMr6IKBsQPNhdgvb_POW01wkVFUIoJJWcKqzLhMNVUCIW28vdDo1m_o3rIK0hyPEerwUeZ1QXAv2ya7Djv7zlLmzO3QE3vfY=w692-h213-nc</fanart>
-<thumbnail>http://br.web.img2.acsta.net/r_640_600/b_1_d6d6d6/pictures/14/11/12/16/43/304023.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Sandy Wexler (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia</genre>
-<info>Los Angeles, 1990. Sandy Wexler (Adam Sandler) È um agente determinado, empenhado e focado na evoluÁ„o da carreira de seus excÍntricos clientes. Sua rotina, no entanto, È abalada quando ele descobre em um parque de diversıes a talentosa cantora Courtney Clarke (Jennifer Hudson), por quem acaba se apaixonando.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/7YxBWdKZ2DMeIT5BNKI9OrK2LB5M3vLEYjBXKbtQGcyFs2J5nEQgWMxI7Ku2QM4OOpv731wVvsQRiQsdfZfWI0KlwBLW8eT0UxxjyvWoHT9sROeFG70poi860g=w512-h288-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/sandy_wexler.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Sing: Quem Canta Seus Males Espanta (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AnimaÁ„o e ComÈdia</genre>
-<info>Um koala (McConaughey), que preside um grande teatro, que tem caÌdo em tempos difÌceis, decide recuperar a glÛria atravÈs da produÁ„o da maior competiÁ„o de canto do mundo.
-Os concorrentes s„o um rato (MacFarlane), uma tÌmida adolescente elefante (Kelly) com medo do palco, uma m„e sobrecarregada (Witherspoon) esperando uma ninhada de 25 leitıes, um jovem gorila gangster (Egerton) e um porco-espinho punk-rock (Johansson) lutando para largar seu namorado arrogante.
-Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canÁıes e È dirigido por Garth Jennings com produÁ„o de Chris Meledandri e Janet Healy.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzVeMXu6Ggi4ReVSvVykNKzMjG63V1a1Ttf9BWK4_L7kMWElaeBTgWj0t7</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/11/sing_t195115.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o e ComÈdia</genre>
-<info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos s„o espiıes do governo.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrjfXoMeNwmYACvmLFzkO5S5EgnO5k6jDR1vKPBX7ALjQ1UtAI3r0sy8t9Ig</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/keeping_up_with_the_joneses.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AnimaÁ„o,Aventura e ComÈdia</genre>
-<info>… uma selva l· fora para Blu, Jade e seus trÍs filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil atÈ chegar na AmazÙnia, para uma reuni„o de famÌlia. Fora de casa, em um lugar desconhecido, Blu ter· que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vinganÁa de Nigel.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw75qSIRZCB-upK_Bn-KyOxFC2W9URRc7IFvmUNFqWn-wsNp-ICY6ua2sM</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/10/rio-2_t51555_2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AnimaÁ„o,Aventura e ComÈdia</genre>
-<info>Blu È uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e n„o sabe viver fora de casa. Um dia, o p·ssaro que È nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1y6NJgZqxQohSDuqAgaSt3N5PSNL2QACoxVAMu9DLA2jXBoKEm9Uc9jhPQ</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/07/6f7562305a97f7b3071bf5e26a167b63.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AnimaÁ„o,Aventura e ComÈdia</genre>
-<info>Moana Waialiki È uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores, que È seu maior hobbie e, tambÈm, trabalho. Querendo descobrir mais sobre seu passado e ajudar sua famÌlia, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mÌtica que ninguÈm sabe onde È. Com a ajuda do lend·rio semideus Maiu, Moana comeÁa sua jornada pelo mar aberto, onde vai enfrentar criaturas marinhas e descobrir antigas histÛrias do submundo.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHUAZAjCOt50TnVgybMt7-pptm1soJ85pLEgHMrCwlhRF3xgROubuVm_yrBw</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/14324454_1253345981353667_9146061834252970531_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Minha M„e È uma PeÁa 2 (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Nacional</genre>
-<info>Dona HermÌnia (Paulo Gustavo) est· de volta, desta vez rica, pois passou a apresentar um bem-sucedido programa de TV. PorÈm, a personagem superprotetora vai ter que lidar com o ninho vazio, afinal Juliano (Rodrigo Pandolfo) e Marcelina (Mariana Xavier) resolvem criar asas e sair de casa. Para balancear, Garib (Bruno Bebianno), o primogÍnito, chega com o neto. E ela tambÈm vai receber uma longa visitinha da irm„ Lucia Helena (Patricya Travassos), a ovelha negra da famÌlia, que mora h· anos em Nova York.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBVAs27dDa1NpO72cvdOQi9y_YCcj3WpjZpaOgtsdcWtvyDLSQ</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/CxjWVq5W8AAIzua.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Minha M„e È uma PeÁa: O Filme (Nacional) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Nacional e ComÈdia</genre>
-<info>AdaptaÁ„o da comÈdia que j· levou quase um milh„o de espectadores aos teatros pelo Brasil, ìMinha M„e È uma PeÁa ñ O Filmeî, acompanha as hil·rias peripÈcias de Dona HermÌnia, uma mulher de meia idade, aposentada, que apÛs ser trocada pelo marido por uma mulher mais nova e n„o ter mais que cuidar dos filhos j· crescidos, tem como preocupaÁ„o maior procurar o que fazer. Sem um trabalho ou um companheiro, a nada simp·tica Dona HermÌnia passa seu tempo desabafando com a tia idosa, fugindo da vizinha fofoqueira, ou ìenchendo o sacoî dos filhos ao tentar continuar a ìcuidarî da vida deles.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS30q1dmKJG_fQoiop0TNkyy0JzcwSM5tCLiNxohFga7pLJIaLPVYoC4BZy</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/05/6338a8eb26e0c75f86c1a9d27d4026f5.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]A ⁄ltima Ressaca Do Ano (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia</genre>
-<info>Com a morte recente do pai, os irm„os Clay (T.J. Miller) e Carol Vanston (Jennifer Aniston) disputam o controle da empresa de tecnologia por ele criada. Presidente da companhia, ele È ameaÁado por ela, CEO, que planeja inclusive demitir todos os funcion·rios. Visando impressionar um novo cliente que pode representar sua garantia no poder, Clay pede que seu braÁo direito, Josh (Jason Bateman), organize uma espetacular festa de Natal.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTon6bDlrQ0d-JOPbrvemDAq8uIldh9TcfbeBVA_OIPA_X7LbOU</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/a-ultima-ressaca-do-ano-2016-poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Shaolin Do Sert„o (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,Nacional e ComÈdia</genre>
-<info>Durante a dÈcada de 80, lutadores de vale-tudo passam por dificuldades devido ‡ falta de lutas profissionais. A fim de manter a paix„o pela luta, eles desafiam os valentıes no interior do Cear· que aceitam participar da competiÁ„o criada. AluÌsio Li, um aficionado e alienado por filmes de artes marciais, vÍ seu mundo ameaÁado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFceEr27ys_bQwGxMO98iJCfngmbv80em1Zik3A0C69Vj4zeJPE5LxRjL5xw</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/o-shaolin-do-sertao-2016-poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Kick Ass: Quebrando Tudo (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e AÁ„o</genre>
-<info>Dave (Aaron Johnson) È um adolescente viciado em quadrinhos cansado de apanhar ou ser ameaÁado. AtÈ o dia em que ele resolve virar o super herÛi Kick Ass e mudar esta rotina. Como? Nem ele sabia, mas ao defender fantasiado de herÛi (e apanhando mais ainda) um cara que levava uma surra, o vÌdeo com as imagens dele enfrentando os bandidos foi parar na internet e ele virou um fenÙmeno. Dave sÛ n„o contava que a sua fama iria envolvÍ-lo no meio de um plano de vinganÁa de Big Daddy (Nicolas Cage) e Hit Girl (Chloe Moretz) contra Frank D'Amico (Mark Strong), um mafioso da cidade, vivendo uma verdadeira e violenta aventura que mudaria para sempre a sua vida.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgndsF6riZgn_zzt5MqFATdLvWtY-l9YF48twui7eankBRtmMZyxa_fNeU4w</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/10/8a9bfc81e63e2777d923ac2fa301d1c9.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Kick-Ass 2 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e AÁ„o</genre>
-<info>O ato insano de Dave Lizewski (Aaron Taylor-Johnson) em se vestir como o super-herÛi Kick-Ass e ir para as ruas combater o crime, mesmo sem ter qualquer tipo de superpoder, serviu de inspiraÁ„o para dezenas de pessoas, que resolveram seguir o mesmo caminho. Mindy Macready (ChloÎ Moretz) deseja seguir como a super-heroÌna Hit-Girl, mas o sargento Marcus Williams (Morris Chestnut), que prometeu ao pai dela que iria cuid·-la em sua ausÍncia, n„o quer que ela leve uma vida perigosa. Com isso, Mindy È obrigada a levar a vida de uma garota de sua idade, deixando de lado os atos herÛicos, por mais que Dave insista para que ela faÁa o contr·rio. Entretanto, a carreira herÛica de Dave n„o ser· solit·ria por muito tempo, j· que n„o demora muito para conhecer o Coronel Estrelas e Listras (Jim Carrey), um ex-integrante da m·fia que est· reunindo um grupo de super-herÛis sem poderes para combater o crime. Paralelamente, Chris D'Amico (Christopher Mintz-Plasse) prepara sua vinganÁa contra Kick-Ass, assumindo um novo codinome: Motherfucker.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhiDXT8pW8Mkppqieh9uNpguszhuCF7SAtlNRQKIkxjo8_kFpMMvHN7F5sQ</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/06/61f611ffa6f6cfc841d8ea2bd699c42b.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevit·vel confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coraÁ„o para a vida e para a verdadeira cura interior.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6iJsoE2BxhWv1CmyVodJSDmWaieFVZg9MPL0U_HTQetvwsL</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/03/60e06e5290675646d60659aca9390fa1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Meu Irm„o Cego (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Comedia</genre>
-<info>A rivalidade entre dois irm„os vai longe demais durante uma competiÁ„o de nataÁ„o.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/E4viovgd5BR-1d7AK2KmjmZNAz5jLb1uRyzd0BYvMp0POVVBHavSFZM_kIGDxsCCNw488LPFvszJe-Ry0ntUTjQBrWW6PqJdMCpnRa1jNTLoo4BuUdMSidtNnA=w523-h281-nc</fanart>
-<thumbnail>https://lh3.googleusercontent.com/proxy/d0LCKQf81Ay79V0scUlautnFeIW6CtJoeZ1JKdS4fVxdvVIGul1Au3TNbofT8uk_0ckVjy2bj8FcCx9D_DoxifDMRzzq2mhsK-YQFCWTUs-EhvEnzX-qW5D_QQ41fnyesLL1rR2wkBVCH9M5PCgVj9jsEF1WjqeW94sgipjK_rRlzcel8rR8-rARI8RFsTNUn2ux6_alhNyX7vuxa0ceUoo3LMvqINkd01vN=w290-h430-nc</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>SÈculo XVIII. A bela vi˙va Lady Susan Vernon (Kate Beckinsale) foge das fofocas sobre seus casos amorosos buscando ref˙gio na fazenda dos antigos sogros. L· reflete sobre a vida e decide arranjar um novo marido para si e um bom pretendente para a filha, Frederica (Morfydd Clark).</info>
-<fanart>https://lh3.googleusercontent.com/proxy/PDzmF3Ost00bON8iUO7rwas3wTS3CTctkrcFkuACkH2Xk_G_JECpCt9VDa5NxFAMTCCwecD5=w511-h288-nc</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqH9feFVhMxm4_-zdpscG022XueE2UOAXB_3D4r_GmWQ_l_XRCq-CQQuBdMw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Desventuras em SÈrie (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Aventura e ComÈdia</genre>
-<info>Klaus (Liam Aiken), Violet (Emily Browning) e Sunny (Kara Hoffman e Shelby Hoffman) s„o trÍs irm„os que repentinamente recebem a notÌcia de que seus pais morreram em um incÍndio. Como s„o menores de idade eles n„o podem ainda herdar a fortuna de seus pais, o que apenas ocorrer· quando Violet, a mais velha, completar 18 anos. O trio passa ent„o a morar com o Conde Olaf (Jim Carrey), um parente distante bastante ganancioso, que deseja tomar a fortuna das crianÁas para si. Para atingir sua meta Olaf n„o medir· consequÍncias.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGt1IFjo_5uCHX8tQBSSYiO1a0RTzWc9o5YlwjFmA_z0bOJIhUzcM74blc</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HtX_RO8qX7WIDNBNn5WO0rfejjWRdbU0jh2pJQdth0QqcPBUXacc4PTsXw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Uma Noite Com a FamÌlia Blacks (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Terror</genre>
-<info>ComÈdia que parodia o filme de terror "Uma noite de crime". Uma vez por ano, durante uma noite inteira, uma paÌs pausa suas leis em relaÁ„o aos crimes e permite com que todos os cidad„os se vinguem de seus inimigos. RecÈm mudados para uma vizinhanÁa predominantemente branca, a famÌlia negra dos Black ser· perseguida das mais hil·rias maneiras.</info>
-<fanart>https://lh3.googleusercontent.com/proxy/xxnIN9VZRu7AxfW05P7LY-uU3TGMPAVszM0A-kqPisnF_1RrxUWZatOFy5Fvfivv3LRCpDHti7JD_FrxG3CG4CY66xAXbVFzAG5jOnkgftXWfChCeX-2=w511-h288-nc</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJvghL-xLFlDW0_AtTm9JQaVltf_uuoIyCPkr0d0MQpIYI-Has</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc9DdKscKaay-4XsM9R08lMitHCJkW3DAIPnSWapqxNQPdEPjByA</fanart>
-<thumbnail>https://img.fstatic.com/YY3rVSBk3WxsoBKhE2Px3-p9iBs=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2009/03/63df1e6e7e3b1e69d389400ce863020f.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Perfeita È a M„e (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Comedia</genre>
-<info>Uma mulher (Mila Kunis), com uma vida aparentemente perfeita - bom casamento, filhos exemplares, Ûtimo emprego, etc - acaba ficando estressada alÈm do ponto com as obrigaÁıes de sua vida. Cansada desse estado, ela se une a duas outras mulheres (Kathryn Hahn e Kristen Bell) que passam pelos mesmos problemas que ela para sair em uma jornada de libertaÁ„o.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCm_y9JRJb_Dw_6Ta1zOZpQgbpdeR2M9xMy7a4hjnvfE9CpFp-</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgALktMZCwLPeBegSHNMADEgfUi7AynGzKdmD0XvAZ19eHJhS9</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Porque È Novembro (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Romance</genre>
-<info>Steve sempre termina o romance com suas namoradas em novembro para impedir que a relaÁ„o fique mais sÈria, mas desta vez ele pode se arrepender de sua decis„o.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSktZ0VDWWYDyrRX2hJ2ew7LUqtnl8YJjPpCHFTa7xBrlN6loMX6g</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurayL3CO3R7PeSIq3iv1k3W_ow72MOAwZlJmtJKlAxtVIffzH</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Popstar: Sem Parar, Sem Limites (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Comedia</genre>
-<info>A histÛria acompanha um rapper que se reunir· com sua antiga boy band para recuperar o fracasso que foi seu ˙ltimo ·lbum.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3jrVeqRyfN4njctC2-RWNqcwt7cZ2fLnCONQm1lpEcr4LyMgdMsh_giY</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsrnXGN4RN2Qot6UxFVzue8tQzW1mGtBErHDwZGoRY1yq3Y_2X</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia,Drama e Romance</genre>
-<info>Ronald Miller (Patrick Dempsey) È um jovem tÌmido e trabalhador, que sempre sonhou em ser popular no colÈgio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, est· precisando de 1000 dÛlares ele surge com uma insÛlita proposta: empresta o dinheiro a ela e em troca ela dever· fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colÈgio.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcu7NXFT1PIzPkRWqr8SHdC3ochsJvq24U5WNRcP6Gz3XIjeceQ</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DcVFJCkRuCdWzOYY7HJaU_rX2sXlJB_EXDV1TZ-i_kgry2v51w</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]ForÁa Para Viver (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>ComÈdia e Drama</genre>
-<info>Depois da morte do filho adolescente, um pai (Billy Crudup) tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma sÈrie letras de m˙sicas e gravaÁıes originais. Para honrar a memÛria do filho, ele decide montar uma banda para tocar estas canÁıes.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbswrV1h3hUYtYpvB9SbqIo8DsfPqOFvfpQ0hZyyIwptSs0uMEphUjL5JsXQ</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNTsJWEvMMg7povm7laewm5G8IYmyzCXkKpQBn8l7zGTIUqPI0</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Escola de Rock (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Comedia</genre>
-<info>Dewey Finn (Jack Black) È um m˙sico que acaba de ser demitido de sua banda. Cheio de dÌvidas para pagar e sem ter o que fazer, ele aceita dar aulas como professor substituto em uma escola particular de discilipla rÌgida. Logo Dewey se torna um exemplo para seus alunos, sendo que alguns deles se juntam ao professor para montar uma banda local, sem o conhecimento de seus pais.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZByQbXYNx9dc8lRmanGR296bnD5IK0XX0tJwE4Z7DxOruwSX5H5P8gOeBA</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRcPjbrUDNfy6onSkqSJjsiOstbedj1t-xXqIotKvg-TGbapWGmtBGGjgW8Q</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Elvis & Nixon[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Comedia</genre>
-<info>Em 21 de dezembro de 1970, teve lugar um dos acontecimentos mais peculiares da histÛria recente dos Estados Unidos. Na ocasi„o, a Casa Branca recebeu um ilustre visitante, um homem que pediu uma audiÍncia privada - uma reuni„o que viria a se tornar lend·ria - com o presidente Richard Nixon (Kevin Spacey): o rei do rock and roll, Elvis Presley (Michael Shannon).</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShAJAJO3_SWj17Rd7EkhKwzOQtbbFBKPN3YOIznsPBrs9t8vVfOyBHMXhjdg</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkPvyGAf-qB1aGNofJr8ZAdGhL1aEavvEHSB-XiYp-4VppHlffzYOT67zc</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Deu a Louca no Mundo (Dublado) - 1963[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Comedia</genre>
-<info>Ladr„o sofre um acidente de carro numa rodovia e, antes de morrer, revela a um grupo de pessoas o local onde escondeu uma fortuna roubada. ComeÁa uma desesperada corrida ao tesouro, que acabar· envolvendo cada vez mais pessoas no caminho, culminando numa sÈrie de trapalhadas e confusıes.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAbvZsQGR6zvJVdAKuUek4hIT2JGa9kKWop1W6-C11aMSSkOGuVQ</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeBad1vRMVeiIECQUWT3d8P_q1YtMTPiWKnm2hoJtI6jhFptZv</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,ComÈdia e Drama</genre>
-<info>Ao serem expulsos do templo de Shaolin por desacatarem seu Mestre, dois jovens passam a lutar pela sobrevivÍncia. Mas os caminhos escolhidos s„o opostos, Jun Bao (Jet Li) luta por um ideal de paz e poder. Anos depois, uma traiÁ„o faz com que estes caminhos se cruzem, colocando os dois amigos frente a frente cada um a lutar pelo seu ideal. Inicia-se uma luta sangrenta onde os dois maiores representantes de artes marciais do Oriente ter„o que mostrar todas as suas habilidades nem que para isso um deles chegue a morte. Uma histÛria de amizade e justiÁa foi respons·vel pela origem mundial da maravilhosa arte do Tai Chi Chuan</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDD7pecLyMV3a7dfJMuZiJvlsGPMtR4TiiwNdf6x7KFqFl7pH_v0sxSp0ZgQ</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9p3BjtXwi4pXYE3owEU9_0wTda1Nxt4_i5h3MCLuHYqiUuZvl</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]GÍnios do Crime (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AÁ„o,ComÈdia e Policial</genre>
-<info>A histÛria gira em torno de Dave Ghantt, um guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos que organiza um dos mais ousados assaltos a banco da histÛria norte-americana.</info>
-<fanart>https://lh5.googleusercontent.com/proxy/B7KJPMhezLe6zAdVqmArZ4qlSmd_vbjsKSWsIAXzC6iOYBOoY_PiRHU5sPM3L5WQBqbM9gY-_55-rvJBTR7Xn0kIoT7YQfOQOAzmoQ=w512-h288-nc</fanart>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_ZFvtFAH3SQLoaIJX_r7x-JlBpiRkoFf-Sw1nFj0PJFitqESvEBUilKxi</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>AnimaÁ„o,Aventura e ComÈdia</genre>
-<info>Um ano apÛs despistar o FBI e ganhar a adulaÁ„o do p˙blico com seus n˙meros de m·gica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espet·culo que pretende expor as pr·ticas sem Ètica de um magnata da tecnologia, mas ao final do n˙mero, s„o desmascarados e raptados por um inimigo desconhecido. O homem por tr·s do ato de desaparecimento dos ilusionistas È nada menos que Walter Mabry (Daniel Radcliffe), um prodÌgio que ameaÁa os m·gicos e os obriga a fazer um roubo dos mais espetaculares e impossÌveis. A ˙nica esperanÁa È conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por tr·s de tudo.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSojLryWak5OPW3Nlg2pTBk41tHsz3vhf6DbMuq3rijNluVhIqUYfPnf52EsQ</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE3EoJQur69G_SwWjwQUhCeqFdavbXQ4unIu3c75xaHqk0QnY5MQFy8HONWw</thumbnail>
-</item>
-
- 
+<?xml version="1.0" encoding="utf-8"?>
+
+	
+<item>
+<title>[COLOR blue][B]Uma Noite Com a Familia Blacks - 2016[/B][/COLOR][COLOR red][B] 1080p[/B][/COLOR]</title>
+<sony>http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/UMANTCMAFMLBLC.mp4</sony>
+<thumbnail>http://i.imgur.com/vlkw6Jj.jpg</thumbnail>
+<fanart>https://i.imgur.com/evxR9Hn.jpg</fanart>
+</item>
+
+
+<item>
+		<title>[COLOR white][B] 17 Outra Vez (Dublado) - 2009 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/17OUTVZ.mp4</link>
+		<thumbnail>https://goo.gl/7ENxxR</thumbnail>
+		<fanart>https://goo.gl/DxMDQJ</fanart>
+		<info>Mike foi uma estrela do basquete que tinha um futuro promissor, por√©m jogou tudo para o alto ao casar-se com sua namorada para criar seu filho. Quase vinte anos depois, com casamento arruinado e com um trabalho que n√£o o leva para lugar algum, seus filhos o consideram um fracassado. Contudo, ele tem a chance de corrigir os erros que cometeu e mudar a sua vida quando milagrosamente transforma-se num adolescente.</info>
+		<genre>Com√©dia (2009)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]American Pie 2: A Segunda Vez √â Ainda Melhor (Dublado) - 2001 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE2.mp4</link>
+		<thumbnail>https://goo.gl/EZXE2y</thumbnail>
+		<fanart>https://goo.gl/7eCq38</fanart>
+		<info>Depois de um ano separados - frequentando escolas diferentes e conhecendo pessoas diferentes - os rapazes alugam uma casa de praia e prometem que ser√° o melhor ver√£o de todos os tempos. Mas, para que isso aconte√ßa, vai depender das garotas. Entre festas de arromba, revela√ß√µes chocantes e outras aventuras, os jovens descobrem que os tempos mudam e as pessoas tamb√©m. Mas, no final das contas, √© tudo uma quest√£o de permanecer unidos.</info>
+		<genre>Com√©dia (2001)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Um Senhor Estagi√°rio (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMSNHRESTGIARIO.mp4</link>
+		<thumbnail>https://goo.gl/GUcedj</thumbnail>
+		<fanart>https://goo.gl/bQdMX5</fanart>
+		<info>Ben Whittaker √© um vi√∫vo com 70 anos que descobriu que a aposentadoria n√£o √© tudo aquilo de bom que as pessoas falam. Aproveitando uma oportunidade de voltar √† ativa, ele se torna estagi√°rio s√™nior de um site de moda, fundado e dirigido por Jules Ostin, com quem cria uma forte amizade</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]American Pie: A 1¬™ Vez √© Inesquec√≠vel (Dublado) - 1999 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCNPIE1.mp4</link>
+		<thumbnail>https://goo.gl/GNporU</thumbnail>
+		<fanart>https://goo.gl/XAvkKt</fanart>
+		<info>Jim Levenstein, Kevin Myers, Oz Ostreicher e Paul Finch s√£o quatro amigos virgens √†s v√©speras do baile de formatura. Em meio a suas tentativas frustradas de fazer sexo com as namoradas, olhar mulheres nuas na internet e at√© mesmo atacar uma torta rec√©m-sa√≠da do forno, os rapazes fazem um pacto e prometem deixar a virgindade para tr√°s antes do baile de formatura. Agora eles t√™m 24 horas para cumprir esse acordo.</info>
+		<genre>Com√©dia (1999)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ted 2 (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TED2.mp4</link>
+		<thumbnail>https://goo.gl/39X5CW</thumbnail>
+		<fanart>https://goo.gl/xEF6SM</fanart>
+		<info>O urso de pel√∫cia Ted casa-se com Tami-Lynn. O casal pretende ter um beb√™, mas para terem direito √† insemina√ß√£o artificial, Ted tem que provar na justi√ßa que √© um ser humano. Para alcan√ßar o seu sonho, ele conta com a ajuda da advogada Samantha e do seu grande amigo John</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Meninas Malvadas 2 (Dublado) - 2011 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MENDMLVDS2.mp4</link>
+		<thumbnail>https://goo.gl/Z6HYv5</thumbnail>
+		<fanart>https://goo.gl/fJmEkc</fanart>
+		<info>Um grupo de garotas toma o controle de um col√©gio e transforma a vida de uma nova estudante em um pesadelo</info>
+		<genre>Com√©dia (2011)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Como Sobreviver a um Ataque Zumbi (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4</link>
+		<thumbnail>https://goo.gl/bTPpp6</thumbnail>
+		<fanart>https://goo.gl/Rpi2tT</fanart>
+		<info>Ben, Carter e Augie s√£o amigos desde que se conheceram no grupo de escoteiros. Enquanto os dois primeiros tentam realizar outras atividades, o √∫ltimo faz quest√£o de convenc√™-los a acampar mais uma vez. Ben e Carter topam, mas fogem no meio da noite para ir a uma badalada festa secreta na cidade. Chegando ao local, descobrem que tudo foi dominado por zumbis e agora eles t√™m a miss√£o de sobreviver a esse ataque.</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Uma Noite Com a Fam√≠lia Blacks (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMANTCMAFMLBLC.mp4</link>
+		<thumbnail>https://goo.gl/kuzvQ8</thumbnail>
+		<fanart>https://goo.gl/XoWy73</fanart>
+		<info>A fam√≠lia Black sai de Chicago e vai para Beverly Hills, na esperan√ßa de uma vida melhor. Carl Black (Mike Epps), sua esposa Lorena (Zulay Henao), os filhos Carl Jr. (Alex Henderson) e Allie Black (Bresha Webb) e a prima Cronut (Lil Duval) n√£o poderiam ter escolhido pior momento para se mudar. Eles chegam a cidade na purga, que acontece uma vez por ano, onde durante 12 horas todo crime √© considerado legal.</info>
+		<genre>Com√©dia (2016)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Show de Vizinha (Dublado) - 2004 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SHWDVZNA.mp4</link>
+		<thumbnail>https://goo.gl/w3BQmd</thumbnail>
+		<fanart>https://goo.gl/VZo9wq</fanart>
+		<info>Com 18 anos de idade, Matthew Kidman √© um careta nato que nunca curtiu sua vida at√© que ele se apaixona por sua nova vizinha, a bonita Danielle, que tem apar√™ncia de inocente. Quando Matthew descobre que ela √© atriz porn√¥, ele fica pasmo. Danielle ajuda Matthew a ter autoconfian√ßa e a descobrir que √†s vezes voc√™ tem que arriscar tudo pela pessoa amada.</info>
+		<genre>Com√©dia (2004)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Todo Mundo em P√¢nico (Dublado) - 2000 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC1.mp4</link>
+		<thumbnail>https://goo.gl/pfnpht</thumbnail>
+		<fanart>https://goo.gl/JLvxLu</fanart>
+		<info>Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que h√° um assassino entre eles. A hero√≠na Cindy Campbell e a sua turma de amigos mauricinhos e patricinhas, tentam se proteger do perigo, mas uma rep√≥rter irritante, Gail Hailstorm, simplesmente n√£o os deixa em paz.</info>
+		<genre>Com√©dia (2000)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Cinquenta Tons de Preto (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CQNTATNSDPRT.mp4</link>
+		<thumbnail>https://goo.gl/SMws1D</thumbnail>
+		<fanart>https://goo.gl/15UeH6</fanart>
+		<info>Uma par√≥dia do filme "Cinquenta Tons de Cinza". Uma inexperiente e sonhadora estudante universit√°ria come√ßa a se relacionar com um empres√°rio milion√°rio que se interessa por sadomasoquismo.</info>
+		<genre>Com√©dia (2016)</genre>
+</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Tenacious D: Uma Dupla Infernal (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNCSDUDI.mp4</link>
+		<thumbnail>https://goo.gl/yQEtXT</thumbnail>
+		<fanart>https://goo.gl/HurKnb</fanart>
+		<info>Os m√∫sicos JB e KG iniciam uma amizade que pode levar √† forma√ß√£o da maior banda de rock do mundo. Para o sonho virar realidade, a dupla vai atr√°s de uma legend√°ria guitarra que possui poderes sobrenaturais.</info>
+		<genre>Com√©dia (2006)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Se Beber, N√£o Case! Parte III (Dublado) - 2013 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEBBRNCSE3.mp4</link>
+		<thumbnail>https://goo.gl/Q9uPZv</thumbnail>
+		<fanart>https://goo.gl/xGRA6B</fanart>
+		<info>Faz dois anos desde que o quarteto, conhecido como Wolfpack, quase escapou de um desastre em Bangkok. Agora, Phil, Stu e Doug vivem felizes em casa, mas Alan n√£o. Ainda sem rumo na vida, Alan n√£o tem tomado seus rem√©dios e est√° vivendo sob impulsos naturais. Est√° nas m√£os dos amigos ajud√°-lo com sua crise pessoal, embarcando em uma viagem para o lugar onde tudo come√ßou: Las Vegas.</info>
+		<genre>Com√©dia (2013)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Se Beber, N√£o Case! Parte II (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEBBRNCSE2.mp4</link>
+		<thumbnail>https://goo.gl/6dz4is</thumbnail>
+		<fanart>https://goo.gl/jcF8ZQ</fanart>
+		<info>Dois anos depois da desastrosa despedida de solteiro de Doug em Las Vegas, agora √© a vez de Stu. Ele decide se casar na Tail√¢ndia, pa√≠s de sua futura mulher. Com medo de que os incidentes da despedida de solteiro em Las Vegas se repitam, Stu organiza muito bem a comemora√ß√£o, mas nada sai como o esperado, e as confus√µes prometem ser inimagin√°veis.</info>
+		<genre>Com√©dia (2011)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Se Beber, N√£o Case! (Dublado) - 2009 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEBBRNCSE.mp4</link>
+		<thumbnail>https://goo.gl/Mw15mm</thumbnail>
+		<fanart>https://goo.gl/uPtUj1</fanart>
+		<info>Dois dias antes de seu casamento, Doug e tr√™s amigos v√£o de carro para Las Vegas para uma louca e memor√°vel despedida de solteiro. Na verdade, quando os tr√™s padrinhos acordam na manh√£ seguinte, eles n√£o podem lembrar de nada e nem podem encontrar Doug. Com pouco tempo de sobra, os tr√™s amigos tentam retra√ßar seus passos e encontrar Doug para que possam lev√°-lo de volta a Los Angeles a tempo de caminhar at√© o altar.</info>
+		<genre>Com√©dia (2009)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ela √© Demais pra Mim (Dublado) - 2010 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ELAEDMSPRMIN.mp4</link>
+		<thumbnail>https://goo.gl/FYXUKZ</thumbnail>
+		<fanart>https://goo.gl/rDiWdL</fanart>
+		<info>Kirk √© um sujeito com um emprego sem perspectivas. Ele n√£o acredita na sorte quando uma garota linda e bem-sucedida chamada Molly se apaixona por ele. Sem a ajuda de seus amigos surpresos, parentes e ex-namorada, Kirk precisar achar uma maneira de fazer esse relacionamento incomum dar certo, mesmo admitindo que Molly √© muito para ele.</info>
+		<genre>Com√©dia (2010)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Perfeita √© a M√£e (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PRFTEAMA.mp4</link>
+		<thumbnail>https://goo.gl/ZYW1ix</thumbnail>
+		<fanart>https://goo.gl/qKHA3h</fanart>
+		<info>Amy tem um bom casamento e sucesso na carreira. Aparentemente, sua vida √© perfeita. Por√©m, ela acaba se cansando das obriga√ß√µes e do estresse do dia a dia, e, em companhia de tr√™s mulheres que vivem a mesma situa√ß√£o, vai em busca de sua liberdade.</info>
+		<genre>Com√©dia (2016)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Desnorteados (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DESNRTAD.mp4</link>
+		<thumbnail>https://goo.gl/abnBhd</thumbnail>
+		<fanart>https://goo.gl/vnjyyr</fanart>
+		<info>Hugo e Braulio, dois jovens com forma√ß√£o universit√°ria, fartos de uma Espanha incapaz de dar trabalho e um futuro, decidem emigrar para Alemanha seguindo os cantos de sereia de um programa de televis√£o tipo "Espanhois pelo mundo". Mas logo descobrem que perseguir o sonho alem√£o pode ser um pesadelo.</info>
+		<genre>Com√©dia (2016)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Primeira Vez (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRMRVEZ.mp4</link>
+		<thumbnail>https://goo.gl/x4TcHu</thumbnail>
+		<fanart>https://goo.gl/zqHLW2</fanart>
+		<info>Dave √© platonicamente apaixonado pela melhor amiga Jane. J√° Aubrey namora Ronny, um m√∫sico que n√£o a compreende. Em uma sexta √† noite, os caminhos de Dave e Aubrey se entrela√ßar√£o, e ao longo do fim de semana muitas descobertas ser√£o feitas pelo casal.</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]G√™nios do Crime (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GNSDCRM.mp4</link>
+		<thumbnail>https://goo.gl/ffKD3E</thumbnail>
+		<fanart>https://goo.gl/d5pUCg</fanart>
+		<info>Dave Ghantt, guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos, organiza um dos mais ousados assaltos a banco da hist√≥ria norte-americana. Mesmo sem ter experi√™ncia e contando com a ajuda dos colegas mais atrapalhados, ele consegue roubar 17 milh√µes de d√≥lares. Baseado em uma hist√≥ria real</info>
+		<genre>Com√©dia (2016)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Loucademia de Pol√≠cia (Dublado) - 1984 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC01.mp4</link>
+		<thumbnail>https://goo.gl/e7ieBU</thumbnail>
+		<fanart>https://goo.gl/iQjjR7</fanart>
+		<info>Para combater uma onda de crimes, a prefeita de uma grande cidade resolve aumentar o n√∫mero de policiais nas ruas. Ela recruta candidatos sem a menor qualifica√ß√£o para desespero do sisudo comandante da academia de pol√≠cia e seu fiel ajudante.</info>
+		<genre>Com√©dia (1984)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Loucademia de Pol√≠cia 2: A Primeira Miss√£o (Dublado) - 1985 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC02.mp4</link>
+		<thumbnail>https://goo.gl/sVJP3t</thumbnail>
+		<fanart>https://goo.gl/wCRTFA</fanart>
+		<info>O 16o distrito policial precisa deter uma onda de crimes na cidade dentro de 30 dias, mas conta com apenas seis oficiais, todos incompetentes</info>
+		<genre>Com√©dia (1985)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Loucademia de Pol√≠cia 3: De Volta ao Treinamento (Dublado) - 1986 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC03.mp4</link>
+		<thumbnail>https://goo.gl/9pNhwQ</thumbnail>
+		<fanart>https://goo.gl/Qgb9HF</fanart>
+		<info>Quando o o governador do estado n√£o pode manter funcionando ambas academias de pol√≠cia, o Comandante lassard e o Comandante Mauser se op√µem um contra o outro. Lassard pede a alguns de seus velhos cadetes, incluindo o sargento Mahoney, para treinar seus novos recrutas, que inclui o nervoso Sweetchuck e o fofoqueiro Zed. Quando o dia da avalia√ß√£o se aproxima, cada lado deve sabotar o do outro.</info>
+		<genre>Com√©dia (1986)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Loucademia de Pol√≠cia 4: O Cidad√£o Se Defende (Dublado) - 1987 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC04.mp4</link>
+		<thumbnail>https://goo.gl/XDSXja</thumbnail>
+		<fanart>https://goo.gl/vZ8MGV</fanart>]
+		<info>Os desajeitados policiais Mahoney, Hightower, Jones, Tackleberry, Sweetchuck, Callahan, e Zed recebem a miss√£o de treinar um grupo de volunt√°rios civis para combater o crime, que novamente est√° tomando conta das ruas da cidade.</info>
+		<genre>Com√©dia (1987)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Loucademia de Pol√≠cia 5: Miss√£o Miami Beach (Dublado) - 1988 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC05.mp4</link>
+		<thumbnail>https://goo.gl/FTLNDL</thumbnail>
+		<fanart>https://goo.gl/U8z7kn</fanart>
+		<info>Com√©dia mostra os policiais incompetentes da Loucademia de Pol√≠cia em Miami. Desta vez, o comandante Lassard ir√° receber o pr√™mio de Policial da D√©cada. Chegando ao aeroporto, o pobre Lassard fica preso com uma quadrilha de assaltantes e, para piorar, o capit√£o Harris chega na cena para assumir o comando das opera√ß√µes.</info>
+		<genre>Com√©dia (1988)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Loucademia de Pol√≠cia 6 (Dublado) - 1989 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC06.mp4</link>
+		<thumbnail>https://goo.gl/dzsGdy</thumbnail>
+		<fanart>https://goo.gl/oSu2X9</fanart>
+		<info>Uns cadetes cometem mais trapalhadas quando tentam combater tr√™s ladr√µes que andam cometendo uma s√©rie de crimes.</info>
+		<genre>Com√©dia  (1989)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Loucademia de Pol√≠cia 7: Miss√£o Moscou (Dublado) - 1994 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCDMDPLC07.mp4</link>
+		<thumbnail>https://goo.gl/255uKX</thumbnail>
+		<fanart>https://goo.gl/F4BjNz</fanart>
+		<info>A desastrada Academia de Pol√≠cia viaja a Moscou para capturar um perigoso criminoso. Durante a estadia, arrumam confus√µes no teatro do Bal√© Bolshoi, na Pra√ßa Vermelha e no Circo de Moscou.</info>
+		<genre>Com√©dia (1994)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Uma Aventura de Bab√°s (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMAVNTRDBABS.mp4</link>
+		<thumbnail>https://goo.gl/gZya2r</thumbnail>
+		<fanart>https://goo.gl/2M3ApN</fanart>
+		<info>Uma noite mon√≥tona transforma-se em uma grande aventura para as bab√°s rivais Jenny e Lola, que saem em busca de crian√ßas fujonas na cidade grande.</info>
+		<genre>Com√©dia (2016)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Irm√£s (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/IRMAS.mp4</link>
+		<thumbnail>https://goo.gl/FB824X</thumbnail>
+		<fanart>https://goo.gl/UKmiWJ</fanart>
+		<info>Irm√£o ou irm√£ aquele que √© filho do mesmo pai e da mesma m√£e, biol√≥gica ou adotiva. Aquele que s√≥ √© filho do mesmo pai ou s√≥ filho da mesma m√£e √© denominado de meio-irm√£o</info>
+		<genre>Com√©dia (2016)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]As Branquelas (Dublado) - 2004 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASBRNQLS.mp4</link>
+		<thumbnail>https://goo.gl/FD1ZMJ</thumbnail>
+		<fanart>https://goo.gl/d2M5Dy</fanart>
+		<info>Dois irm√£os agentes do FBI, Marcus e Kevin Copeland, acidentalmente evitam que bandidos sejam presos em uma apreens√£o de drogas. Como castigo, eles s√£o for√ßados a escoltar um par de socialites para o Hampton. Por√©m quando as meninas descobrem o plano do FBI, elas se recusam a ir. Sem op√ß√µes, Marcus e Kevin decidem posar como irm√£s, transformando-se de homens afro-americanos em um par de loiras.</info>
+		<genre>Com√©dia (2004)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Os Del√≠rios de Consumo de Becky Bloom (Dublado) - 2009 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDLRISDCSMO.mp4</link>
+		<thumbnail>https://goo.gl/zZ4jFh</thumbnail>
+		<fanart>https://goo.gl/m7dMeR</fanart>
+		<info>Rebecca mora em Nova York e tem o sonho de trabalhar para uma renomada revista de moda, mas ainda n√£o conseguiu essa fa√ßanha. Contudo, ela consegue um trabalho como colunista para uma revista financeira que pertence √† mesma empresa. Sua coluna torna-se um sucesso da noite para o dia, mas ela est√° a ponto de arruinar sua vida e sua carreira por ser uma compradora compulsiva.</info>
+		<genre>Com√©dia (2009)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Inatividade Paranormal (Dublado) - 2013 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INATVDADPRNRML1.mp4</link>
+		<thumbnail>https://goo.gl/1QZ7hw</thumbnail>
+		<fanart>https://goo.gl/5YRksx</fanart>
+		<info>Malcolm e Kisha se mudam para a casa dos sonhos, mas logo percebem que n√£o est√£o sozinhos. N√£o porque a casa seja assombrada, mas porque Kisha est√° possu√≠da por dem√¥nios. Para salv√°-la, Malcolm contrata um grupo de paranormais.</info>
+		<genre>Com√©dia (2013)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Inatividade Paranormal 2 (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INATVDADPRNRML2.mp4</link>
+		<thumbnail>https://goo.gl/FzuZjE</thumbnail>
+		<fanart>https://goo.gl/o1tq59</fanart>
+		<info>Malcolm est√° tentando reiniciar a vida ao lado de outra mulher, junto dos dois filhos dela. A fam√≠lia se muda para uma casa nova. Ele permanece com mania de filmar tudo o que acontece √† sua volta, com diversas c√¢meras. Entretanto, n√£o demora muito para que Malcolm volte a ser afetado por acontecimentos sobrenaturais, especialmente quando inicia um caso com uma estranha boneca.</info>
+		<genre>Com√©dia (2014)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Especialista em Crise (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.mp4</link>
+		<thumbnail>https://goo.gl/AptrJq</thumbnail>
+		<fanart>https://goo.gl/3JoAJg</fanart>
+		<info>A consultora pol√≠tica Jane Bodine √© especialista em conseguir contornar situa√ß√µes complicadas. Apesar de estar aposentada, ela decide trabalhar na campanha do candidato √† presid√™ncia Pedro Castillo. Para conseguir o que deseja, Jane precisa manipular os pontos de vista e tornar Castillo o homem certo para a popula√ß√£o, mesmo sabendo que ele ir√° trair todos no momento em que assumir o cargo.</info>
+		<genre>Com√©dia (2016)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Gente Grande (Dublado) - 2010 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GNTGRND.mp4</link>
+		<thumbnail>https://goo.gl/vwB1fH</thumbnail>
+		<fanart>https://goo.gl/BHrnZe</fanart>
+		<info>A morte do treinador de basquete da inf√¢ncia de velhos amigos os re√∫ne no mesmo lugar que celebraram um campeonato anos atr√°s. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade n√£o significa o mesmo que maturidade.</info>
+		<genre>Com√©dia (2010)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Gente Grande 2 (Dublado) - 2013 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/GNTGRND2.mp4</link>
+		<thumbnail>https://goo.gl/UCTtvf</thumbnail>
+		<fanart>https://goo.gl/5VeJNM</fanart>
+		<info>Lenny Feder e sua fam√≠lia se mudam para sua cidade natal para ficar perto dos amigos, mas acabam tendo que enfrentar alguns fantasmas do passado, como a covardia diante de valent√µes e o famigerado bullying na escola.</info>
+		<genre>Com√©dia (2013)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Fant√°stica F√°brica de Chocolate (Dublado) - 1971 - 720p [/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT.mp4</link>
+		<thumbnail>https://goo.gl/vTz1Ua</thumbnail>
+		<fanart>https://goo.gl/PG5ekz</fanart>
+		<info>O √∫ltimo dos cinco cobi√ßados cupons dourados √© encontrado por um menino muito doce, mas extremamente pobre. Ele e seu av√¥ ganham o direito de participar de um passeio pela mais estranha f√°brica de chocolates do mundo.</info>
+		<genre>Com√©dia (1971)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Fant√°stica F√°brica de Chocolate (Dublado) - 2005 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT2005.mp4</link>
+		<thumbnail>https://goo.gl/n2BQq1</thumbnail>
+		<fanart>https://goo.gl/MXjrW7</fanart>
+		<info>Baseado no conto de Roald Dahl, este c√¥mico e fant√°stico filme segue o jovem Charlie Bucket e seu av√¥ Joe. Eles se juntam a um pequeno grupo de ganhadores de uma competi√ß√£o, os quais v√£o para um passeio na m√°gica e misteriosa f√°brica do exc√™ntrico Willy Wonka. Ajudado por seus an√µes trabalhadores, Wonka esconde uma surpresa para durante o passeio.</info>
+		<genre>Com√©dia (2005)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Todo Mundo em P√¢nico 2 (Dublado) - 2001 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC2.mp4</link>
+		<thumbnail>https://goo.gl/SXWYd9</thumbnail>
+		<fanart>https://goo.gl/ChWwVf</fanart>
+		<info>Como sequ√™ncia do primeiro filme, "Scary Movie 2" lan√ßa seu olhar sat√≠rico sobre esses √≠cones cl√°ssicos como " O Exorcista" e "Poltergeist", bem como os filmes mais recentes "Hannibal" e "What Lies Beneath". Al√©m de todas as coisas sobrenaturais, tamb√©m inclui "Anjos de Charlie" e "Miss√£o Imposs√≠vel 2".</info>
+		<genre>Com√©dia (2001)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Todo Mundo em P√¢nico 3 (Dublado) - 2004 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC3.mp4</link>
+		<thumbnail>https://goo.gl/rHVhNF</thumbnail>
+		<fanart>https://goo.gl/9WVhQP</fanart>
+		<info>Depois de a rep√≥rter de jornal Cindy assistir acidentalmente uma estranha fita de v√≠deo que faz com que o espectador morra dentro de uma semana, ela descobre que a fita √© apenas um dos muitos acontecimentos estranhos recentes. Os agricultores locais Tom e George relataram c√≠rculos enormes que aparecem durante a noite em seus campos. Cindy encontra uma liga√ß√£o entre a fita e os c√≠rculos nas planta√ß√µes com a ajuda do presidente dos Estados Unidos e uma tia gentil.</info>
+		<genre>Com√©dia (2004)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Todo Mundo em P√¢nico 4 (Dublado) - 2006 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC4.mp4</link>
+		<thumbnail>https://goo.gl/7XRCRT</thumbnail>
+		<fanart>https://goo.gl/b2gzXE</fanart>
+		<info>Mais uma continua√ß√£o da franquia de filmes que faz s√°tiras das produ√ß√µes mais recentes de terror, como Jogos Mortais e O Grito. Desta vez, duas jovens tentam salvar o mundo de uma invas√£o alien√≠gena.</info>
+		<genre>Com√©dia (2006)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Todo Mundo em P√¢nico 5 (Dublado) - 2013 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TDMNDEMPNC5.mp4</link>
+		<thumbnail>https://goo.gl/E18wqp</thumbnail>
+		<fanart>https://goo.gl/en5doP</fanart>
+		<info>Ap√≥s noite juntos, Charlie √© morto por Lindsay, que foi possu√≠da por um dem√¥nio, com isso, os tr√™s filhos dele desaparecem, sendo encontrados por dois amigos em uma cabana abandonada. L√° duas das crian√ßas passaram a agir de forma estranha, obedecendo as ordens de um ser invis√≠vel quem chamam de Mama. Ap√≥s serem levados para orfanato, os tr√™s passam a viver com os tios Dan e Jody. Entretanto, √© l√° que estranhos eventos acontecem tendo Mama como respons√°vel.</info>
+		<genre>Com√©dia (2013)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O M√°skara (Dublado) - 1994 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSKR01.mp4</link>
+		<thumbnail>https://goo.gl/pS8f2D</thumbnail>
+		<fanart>https://goo.gl/E3WKQ4</fanart>
+		<info>A vida do t√≠mido banc√°rio Stanley Ipkiss (Jim Carrey) muda completamente quando ele encontra uma m√°scara que possui o esp√≠rito do deus Loki. Sempre que usa a m√°scara, Stanley ganha superpoderes e se transforma em um cara cheio de charme e confid√™ncia, tudo o que √© suficiente para ganhar a aten√ß√£o da linda cantora Tina e tamb√©m do seu perigoso namorado, o g√¢ngster Dorian. Infelizmente, sob a influ√™ncia da m√°scara, Ipkiss tamb√©m rouba um banco</info>
+		<genre>Com√©dia (1994)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Golpe Duplo (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GLPDPL.mp4</link>
+		<thumbnail>https://goo.gl/ob1X89</thumbnail>
+		<fanart>https://goo.gl/dng3yg</fanart>
+		<info>Nicky √© um trapaceiro profissional que acaba sendo escolhido como v√≠tima por uma iniciante na profiss√£o, Jess. Esperto como √©, ele se deixa cair no golpe para desmascar√°-la no momento certo. Decepcionada, a ambiciosa Jess insiste para que Nicky lhe ensine seu m√©todo de trabalho e a aceite em sua equipe. Ap√≥s uma certa relut√¢ncia, Nicky concorda com isso. Mas o problema maior √© que ele tamb√©m acaba se envolvendo romanticamente com ela, o que vai de encontro a uma de suas principais regras.</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Professor Aloprado (Dublado) - 1996 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR.mp4</link>
+		<thumbnail>https://goo.gl/qN7wQU</thumbnail>
+		<fanart>https://goo.gl/sFutrm</fanart>
+		<info>O professor Sherman, um cientista de mais de 200 kg, se apaixona pela nova colega, Carla Purty. Eles saem juntos e Sherman √© humilhado por um comediante por causa de seu peso. Chateado e deprimido, ele toma uma po√ß√£o que s√≥ havia sido testada em animais e se transforma em um bonit√£o esbelto e bom de papo que atrai todas as garotas</info>
+		<genre>Com√©dia (1996)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Professor Aloprado 2: A Fam√≠lia Klump (Dublado) - 2000 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR2.mp4</link>
+		<thumbnail>https://goo.gl/K5CQoA</thumbnail>
+		<fanart>https://goo.gl/9THLf4</fanart>
+		<info>O professor Sherman Klump est√° prestes a se casar com Denise Gains, mas antes ter√° que lutar para se livrar de seu alter ego Buddy Love que, acidentalmente, acaba ganhando vida pr√≥pria e est√° disposto a tudo para permanecer vivo.</info>
+		<genre>Com√©dia (2000)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Belas e Perseguidas (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLSEPRSGDS.mp4</link>
+		<thumbnail>https://goo.gl/y612dU</thumbnail>
+		<fanart>https://goo.gl/1qzXhD</fanart>
+		<info>Cooper, uma policial honesta, precisa proteger e escoltar Daniella Riva, uma linda colombiana muito engra√ßada, durante uma viagem de San Antonio, Calif√≥rnia, at√© o Texas, para que ela e seu marido possam testemunhar contra um traficante de drogas.</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ver√£o Em Staten Island (Dublado) - 2015 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VERAEMSTISLND.mp4</link>
+		<thumbnail>https://goo.gl/Wbp4zD</thumbnail>
+		<fanart>https://goo.gl/7o92PJ</fanart>
+		<info>Danny e Frank trabalham como salva-vidas durante as f√©rias de ver√£o e planejam fazer a maior festa da esta√ß√£o.</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Como Se Fosse a Primeira Vez (Dublado) - 2004 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMSFSAPRMVZ.mp4</link>
+		<thumbnail>https://goo.gl/NxNiwX</thumbnail>
+		<fanart>https://goo.gl/Q3roAj</fanart>
+		<info>Henry Roth (Adam Sandler) √© um veterin√°rio paquerador, que vive no Hava√≠ e √© famoso pelo grande n√∫mero de turistas que conquista. Seu novo alvo √© Lucy Whitmore (Drew Barrymore), que mora no local e por quem Henry se apaixona perdidamente.</info>
+		<genre>Com√©dia (2004)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Desventuras em S√©rie (Dublado) - 2005 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DSVNTRESER.mp4</link>
+		<thumbnail>https://goo.gl/jHHxLX</thumbnail>
+		<fanart>https://goo.gl/QwkMCX</fanart>
+		<info>Um inc√™ndio na mans√£o de Baudelaire obriga tr√™s irm√£os, que agora est√£o √≥rf√£os, a morarem com seu parente distante, o Conde Olaf. Infelizmente, Olaf √© um homem cruel, interessado apenas na heran√ßa que a irm√£ mais velha, Violet, est√° para receber. As crian√ßas escapam e encontram abrigo com o tio Monty e logo depois com a tia Josephina, mas Olaf est√° sempre por perto.</info>
+		<genre>Com√©dia (2005)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Escola de Rock (Dublado) - 2004 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCLDRCK.mp4</link>
+		<thumbnail>https://goo.gl/j63V4k</thumbnail>
+		<fanart>https://goo.gl/n1Pz4e</fanart>
+		<info>Depois que o guitarrista Dewey √© expulso de sua banda, ele se faz passar por professor de m√∫sica em uma escola particular. Quando ouve seus alunos tocarem, ele se d√° conta de que podem formar uma banda e participar da Batalha das Bandas, na qual ele finalmente ter√° a chance de se tornar o astro de rock que sempre soube que estava destinado a ser.</info>
+		<genre>Com√©dia (2004)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Dois Estranhos, Um Casamento / O Prazer da Sua Companhia (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRZRDSUACMPNH.mp4</link>
+		<thumbnail>https://goo.gl/rvKgSq</thumbnail>
+		<fanart></fanart>
+		<info>Depois de perder a mulher de seus sonhos, Anderson (Biggs) est√° convencido de que nunca ir√° se apaixonar outra vez. Mas gra√ßas a seu melhor amigo ele √© encorajado a conhecer uma gar√ßonete chamada Katie (Fisher). Mesmo sendo uma desconhecida, Anderson n√£o leva muito tempo para pedir a mo√ßa em casamento. Uma situa√ß√£o desconcertante, mas que ir√° mostrar que aquele era o tipo de amor que Anderson e Katie sempre estiveram procurando.</info>
+		<genre>Com√©dia (2006)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Um Brinde a Amizade (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UBRNDAMZD.mp4</link>
+		<thumbnail>https://goo.gl/SBMeZp</thumbnail>
+		<fanart>https://goo.gl/x8x7hR</fanart>
+		<info>Luke e Kate s√£o colegas de trabalho em uma cervejaria que passam suas noites bebendo e flertando, mas tentam ignorar a atra√ß√£o m√∫tua que sentem um pelo outro.</info>
+		<genre>Com√©dia (2014)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Good Burger (Dublado) - 1997 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GODBRGRS.mp4</link>
+		<thumbnail>https://goo.gl/mhYgro</thumbnail>
+		<fanart>https://goo.gl/wFe7kR</fanart>
+		<info>Funcion√°rios da lanchonete Good Burger precisam enfrentar concorr√™ncia que pretende dominar o mercado e tir√°-los do p√°reo. Eles inventam um molho que o p√∫blico adora. Irritado, dono da concorrente quer a receita a qualquer pre√ßo.</info>
+		<genre>Com√©dia (1997)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Vizinhos Imediatos de 3¬∫ Grau (Dublado) - 2012 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VIZNHIMDATS.mp4</link>
+		<thumbnail>https://goo.gl/RcH7Kk</thumbnail>
+		<fanart>https://goo.gl/ZTd3NW</fanart>
+		<info>Quatro amigos formam um grupo de vigil√¢ncia do bairro. Equipados, levam sua miss√£o a s√©rio. Mas quando descobrem que alien√≠genas vivem entre eles e ningu√©m acredita, precisam agir sozinhos para salvar o mundo.</info>
+		<genre>Com√©dia (2012)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Debi & L√≥ide: Dois Idiotas em Apuros (Dublado) - 1995 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DBELID1.mp4</link>
+		<thumbnail>https://goo.gl/U8Zx6W</thumbnail>
+		<fanart>https://goo.gl/TNpM3U</fanart>
+		<info>Dois amigos debiloides v√£o para Aspen, no estado do Colorado para tentar devolver uma maleta esquecida pela passageira da limusine que um deles estava dirigindo para o aeroporto. Sem saber que na mala havia uma quantia enorme de dinheiro, que serviria para pagar o resgate de um sequestro, os dois acabam sendo perseguidos pela policia e por assassinos profissionais.</info>
+		<genre>Com√©dia (1995)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Amor √† Segunda Vista (Dublado) - 2003 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRASGNDVST.mp4</link>
+		<thumbnail>https://goo.gl/uJKaBF</thumbnail>
+		<fanart>https://goo.gl/tddBoH</fanart>
+		<info>A dedicada advogada Lucy Kelson vai trabalhar para o bilion√°rio George Wade como parte de um acordo para preservar um centro comunit√°rio. Muito indeciso, George fica dependente da orienta√ß√£o de Lucy para tudo, desde assuntos jur√≠dicos at√© que roupa usar. Irritada, Lucy pede as contas, come√ßa a cumprir aviso pr√©vio e contrata June Carter como sua substituta. Quando seus √∫ltimos dias na empresa come√ßam a se aproximar, Lucy fica com ci√∫mes de June e tem d√∫vidas em deixar George.</info>
+		<genre>Com√©dia (2003)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Mentira (Dublado) - 2010 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMNTR.mp4</link>
+		<thumbnail>https://goo.gl/1LUaMz</thumbnail>
+		<fanart>https://goo.gl/XXyrRY</fanart>
+		<info>Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive, uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas raz√µes erradas.</info>
+		<genre>Com√©dia (2010)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Li√ß√µes em Fam√≠lia (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LICSEMFMLA.mp4</link>
+		<thumbnail>https://goo.gl/fYZAzG</thumbnail>
+		<fanart>https://goo.gl/8CRA2N</fanart>
+		<info>Aidan Bloom √© um ator, pai e marido, que com 35 anos ainda sonha em encontrar sua identidade ou um prop√≥sito para sua vida. Aidan e a esposa sofrem financeiramente e a rela√ß√£o n√£o melhora com o fato de que ele passa boa parte do tempo sonhando em ser um grande e futur√≠stico guerreiro espacial, um sonho seu desde pequeno.</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Bom Filho √† Casa Torna (Dublado) - 2008 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBMFLHACSTRN.mp4</link>
+		<thumbnail>https://goo.gl/MhAxV1</thumbnail>
+		<fanart>https://goo.gl/6V2yZJ</fanart>
+		<info>Determinado a provar para sua fam√≠lia o quanto mudou, um apresentador de TV de sucesso retorna √† sua pequena cidade para o anivers√°rio de casamento de seus pais.</info>
+		<genre>Com√©dia (2008)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Os Pinguins do Papai (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSPNGUNSDPAI.mp4</link>
+		<thumbnail>https://goo.gl/1nnZdC</thumbnail>
+		<fanart>https://goo.gl/kZEdu7</fanart>
+		<info>Popper √© um executivo de sucesso que n√£o tem muito tempo para a fam√≠lia. Mas seu destino muda quando ele recebe seis pinguins de heran√ßa do pai, transformando seu apartamento luxuoso em um habitat para os animais.</info>
+		<genre>Com√©dia (2011)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Um Pr√≠ncipe em Nova York (Dublado) - 1988 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4</link>
+		<thumbnail>https://goo.gl/GwN4pD</thumbnail>
+		<fanart>https://goo.gl/3HyuZo</fanart>
+		<info>Pr√≠ncipe Akeem √© o pr√≠ncipe de um rico pa√≠s Africano e n√£o deseja mais nada, exceto uma mulher que o amar√° apesar de seu t√≠tulo nobre. Para escapar de um casamento arranjado, Akeem foge para os Estados Unidos acompanhado de seu exigente companheiro Semmi para encontrar a sua rainha. Disfar√ßado como um estudante estrangeiro e trabalhando em um restaurante de comida r√°pida, ele namora Lisa e luta contra a revela√ß√£o de sua verdadeira identidade.</info>
+		<genre>Com√©dia (1988)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ted (Dublado) - 2012 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TED.mp4</link>
+		<thumbnail>https://goo.gl/jonNYc</thumbnail>
+		<fanart>https://goo.gl/zNqjK6</fanart>
+		<info>Quando crian√ßa, John desejou que seu ursinho Ted ganhasse vida e, surpreendentemente, foi atendido. Por√©m, agora que √© adulto, ele precisa lidar com as consequ√™ncias de seu pedido, j√° que Ted n√£o vai parar de atormentar a sua vida.</info>
+		<genre>Com√©dia (2012)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Cruzeiro das Loucas (Dublado) - 2003 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCRZRDLCS.mp4</link>
+		<thumbnail>https://goo.gl/ucNeGq</thumbnail>
+		<fanart>https://goo.gl/Y23M2K</fanart>
+		<info>Agente de viagens decide dar uma li√ß√£o em Nick (Horatio Sanz) e seu melhor amigo Jerry (Cuba Gooding Jr.), fazendo uma reserva para os dois em um cruzeiro exclusivo para homessexuais. Quando eles percebem isso j√° √© tarde demais, mas aos poucos eles v√£o deixando seus sentimentos homof√≥bicos de lado e acabam conhecendo Inga, uma linda modelo e Gabriella (Roselyn S√°nchez), uma professora de dan√ßa por quem Jerry se apaixona.</info>
+		<genre>Com√©dia (2003)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ligeiramente Gr√°vidos (Dublado) - 2007 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGRANTGRVDS.mp4</link>
+		<thumbnail>https://goo.gl/uPs9xY</thumbnail>
+		<fanart>https://goo.gl/Bhwfsu</fanart>
+		<info>A jornalista de sucesso Alison Scott encontra um grande obst√°culo depois que uma noite amorosa com Ben, um rapaz irrespons√°vel que ela conheceu em um bar, resulta em gravidez. Primeiro ela pensa em criar o filho sozinha, mas depois decide procurar Ben para contar sobre a novidade e dar a ele uma chance de ser um pai presente. No entanto, ele n√£o tem certeza se est√° pronto para ser pai e os dois se perguntam se seriam parceiros compat√≠veis.</info>
+		<genre>Com√©dia (2007)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Namorada de Aluguel (Dublado) - 1987 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NARMDALGL.mp4</link>
+		<thumbnail>https://goo.gl/mh2AeX</thumbnail>
+		<fanart>https://goo.gl/BtkChw</fanart>
+		<info>Ronald Miller √© um jovem que cansou de ser visto como perdedor na escola. Quando uma menina popular precisa comprar um vestido, ele v√™ a oportunidade de pagar a garota para que ela se passe por sua namorada. A partir de ent√£o, Ronald passa por confus√µes e dilemas tentando se enturmar com os populares.</info>
+		<genre>Com√©dia (1987)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Vov√≥... Zona (Dublado) - 2000 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA.mp4</link>
+		<thumbnail>https://goo.gl/CPdvTu</thumbnail>
+		<fanart>https://goo.gl/NWf548</fanart>
+		<info>Um agente dur√£o do FBI chega ao extremo para ficar na pista de um ladr√£o de bancos violento que fugiu da pris√£o. Enquanto se disfar√ßa de av√≥ obesa com uma l√≠ngua afiada, ele √© for√ßado a usar todas as suas habilidades, desde cozinhar a levar as crian√ßas para a igreja local.</info>
+		<genre>Com√©dia (2000)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Vov√≥... Zona 2 (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA2.mp4</link>
+		<thumbnail>https://goo.gl/TNQFb2</thumbnail>
+		<fanart>https://goo.gl/qbMqLc</fanart>
+		<info>Ap√≥s seu mentor ser morto, um agente do FBI se disfar√ßa, novamente, como uma senhora gorda e aceita um emprego como bab√° na casa de um suspeito do crime. Enquanto trabalha no caso, o agente representa uma amea√ßa √† seguran√ßa interna do pa√≠s e consegue ajudar uma fam√≠lia desunida a se reaproximar.</info>
+		<genre>Com√©dia (2006)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Vov√≥... Zona 3: Tal Pai, Tal Filho (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA3.mp4</link>
+		<thumbnail>https://goo.gl/cPoNMH</thumbnail>
+		<fanart>https://goo.gl/WvKRw2</fanart>
+		<info>Depois que seu enteado Trent testemunha um assassinato, o agente do FBI Malcolm Turner traz Vov√≥zona, seu alter ego, de volta para ajudar a resolver o crime. Ele trabalha disfar√ßado em uma escola de artes c√™nicas para meninas, mas, desta vez, conta com Trent e seu alter ego feminino, Charmaine, para ajud√°-lo. A dupla precisa encontrar o assassino antes que o assassino os encontre, mas as coisas se complicam quando Trent se apaixona por uma estudante.</info>
+		<genre>Com√©dia (2011)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Zelador Animal (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OZLDR.mp4</link>
+		<thumbnail>https://goo.gl/q68tRH</thumbnail>
+		<fanart>https://goo.gl/6zxLJH</fanart>
+		<info>Para conquistar uma jovem, o t√≠mido Griffin, zelador de um zool√≥gico, quer mudar de profiss√£o. Mas os animais querem que ele permane√ßa no emprego e passam a aconselh√°-lo sobre como se comportar diante de uma mulher.</info>
+		<genre>Com√©dia (2011)</genre>
+	</item>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Patch Adams: O Amor √© Contagioso (Dublado) - 1998 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PTCHADMSOAMRECNTG.mp4</link>
+		<thumbnail>https://goo.gl/3PVdEe</thumbnail>
+		<fanart>https://goo.gl/NyKKqh</fanart>
+		<info>Patch Adams descobre que o humor e o carinho podem fazer maravilhas e ajudar a curar pessoas hospitalizadas, mas suas ideias entram em conflito com os defensores da medicina tradicional.</info>
+		<genre>Com√©dia (1998)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Birdman (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRDMAINSPDVRTDAIGN.mp4</link>
+		<thumbnail>https://goo.gl/NQxdsQ</thumbnail>
+		<fanart>https://goo.gl/p3WUhy</fanart>
+		<info>Por mais de 20 anos, o ator Riggan Thomson foi conhecido por interpretar Birdman, um super-her√≥i que se tornou um √≠cone cultural. Entretanto, ao recusar-se a gravar o quarto filme com o mesmo personagem, sua carreira come√ßa a decair. Em uma tentativa de recuperar a fama perdida e tamb√©m o reconhecimento do p√∫blico, ele decide dirigir, roteirizar e estrelar a adapta√ß√£o de um texto consagrado para a Broadway.</info>
+		<genre>Com√©dia (2015)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Zumbil√¢ndia (Dublado) - 2009 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ZMBLND.mp4</link>
+		<thumbnail>https://goo.gl/78JjSK</thumbnail>
+		<fanart>https://goo.gl/3tGirq</fanart>
+		<info>A popula√ß√£o foi infectada com um v√≠rus que faz com que as pessoas se transformem em zumbis. Poucos s√£o os humanos n√£o infectados, entre eles Columbus, que deseja voltar para sua cidade natal na esperan√ßa de encontrar seus pais ainda vivos. No caminho, Columbus encontra Tallahassee, que est√° indo para a Fl√≥rida para aniquilar zumbis, e pega carona. Ao parar em uma mercearia, a dupla encontra Wichita e Little Rock, que aparenta ter sido mordida por um zumbi, o que divide o grupo sobre o que fazer.</info>
+		<genre>Com√©dia (2009)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Garota Veneno (Dublado) - 2002 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTVNO.mp4</link>
+		<thumbnail>https://goo.gl/qmtre7</thumbnail>
+		<fanart>https://goo.gl/YZgwZV</fanart>
+		<info>Jessica Spencer n√£o s√≥ √© a garota mais popular da escola, como tamb√©m √© a mais mesquinha. Mas as coisas se complicam para a adolescente quando um acidente envolvendo um par de brincos amaldi√ßoados e um encontro casual em um posto de gasolina com um homem chamado Clive faz com que eles troquem de corpos. Jessica, na forma repulsiva de Clive, tenta se adaptar a esta mudan√ßa radical e procura recuperar seu pr√≥prio corpo antes do baile da escola.</info>
+		<genre>Com√©dia (2002)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Amor √â Cego (Dublado) - 2002 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OAMRECG.mp4</link>
+		<thumbnail>https://goo.gl/z7p348</thumbnail>
+		<fanart>https://goo.gl/U8o1Pz</fanart>
+		<info>A hist√≥ria gira em torno de Hal, que aceitou o conselho de seu pai moribundo e namora apenas as formas da perfei√ß√£o f√≠sica feminina. Por√©m tudo muda ap√≥s Hal ter um encontro inesperado com um guru, Tony Robbins. Intrigado pela superficialidade de Hal, Robbins o hipnotiza para que ele veja a beleza que existe mesmo em mulheres menos atraentes fisicamente.</info>
+		<genre>Com√©dia (2002)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Nome do Jogo (Dublado) - 1995 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ONMDJG.mp4</link>
+		<thumbnail>https://goo.gl/nqcbm5</thumbnail>
+		<fanart>https://goo.gl/B2pmz5</fanart>
+		<info>Apaixonado por cinema, um g√¢ngster insatisfeito com a rotina v√™ surgir a sua chance de mudar de ramo -- e arrumar muita confus√£o -- quando √© enviado a Los Angeles para cobrar uma d√≠vida de um produtor de filmes "B".</info>
+		<genre>Com√©dia (1995)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Dave: Presidente por um Dia (Dublado) - 1993 - 1080p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DAVPRSDNTPUD.mp4</link>
+		<thumbnail>https://goo.gl/w1jK3s</thumbnail>
+		<fanart>https://goo.gl/vKCNj6</fanart>
+		<info>Dono de uma ag√™ncia de empregos, Dave Kovic √© id√™ntico ao presidente dos Estados Unidos e √© contratado pela Casa Branca para substituir o l√≠der em apari√ß√µes sem import√¢ncia. Por√©m, o presidente sofre um derrame, e Dave deve assumir o cargo.</info>
+		<genre>Com√©dia (1993)</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Com a Bola Toda (Dublado) - 2004 - 720p[/B][/COLOR]</title>
+		<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMABLATD.mp4</link>
+		<thumbnail>https://goo.gl/z3bKkH</thumbnail>
+		<fanart>https://goo.gl/3yTFeP</fanart>
+		<info>A academia Average Joe e seu dono, Peter La Fleur, est√£o ambos sem sorte. Uma sofisticada academia concorrente, a Globo-Gym, gerenciada pelo viciado em sa√∫de, White Goodman, est√° prestes a levar a Average Joe √† fal√™ncia, a menos que Peter consiga levantar cinquenta mil d√≥lares para pagar a sua hipoteca. Para salvar a academia, Peter, um grupo de membros e funcion√°rios da Average Joe entram em um concurso de queimada, que oferece um grande pr√™mio em dinheiro.</info>
+		<genre>Com√©dia (2004)</genre>
+	</item>
