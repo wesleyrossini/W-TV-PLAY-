@@ -1,0 +1,7 @@
+ <channels>
+        </channels><channel>
+        <name>[COLOR white][B]1ª Temporada[/B][/COLOR]</name>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/313540-1.jpg</thumbnail>
+        <externallink>https://pastebin.com/raw/1BEDhNW5</externallink>
+        <fanart>https://dg31sz3gwrwan.cloudfront.net/fanart/313540/1145252-0-q80.jpg</fanart>
+    </channel>
