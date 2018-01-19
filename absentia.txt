@@ -1,0 +1,69 @@
+<item>
+<title>[COLOR white][B]1x01 . Volte[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e01-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x02 . Restabelecer[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e02-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x03 . The Emily Show[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e03-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x04 . Me You Him Me[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e04-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x05 . Escavação[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e05-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x06 . Ninguém está inocente[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e06-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x07 . A & B[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e07-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x08 . Bravo[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e08-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x09 . Jogo de criança[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e09-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]1x10 . Pecado original[/B][/COLOR]</title>
+<link>http://cavstreaming.ntcdn.us/tvshows/absentia/s01e10-dub-720p.mp4</link>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/330500-1.jpg</thumbnail>
+<fanart>https://www.axn.pt/sites/pt.axn/files/ct_gallery_f_images/v4-emily-nick-tommy.jpg</fanart>
+</item>
