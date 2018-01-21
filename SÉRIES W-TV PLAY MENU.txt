@@ -509,7 +509,7 @@ Isto faz Louis afastar-se, deixando o namorado doente e solitário, e isto faz s
 </channels><channel>
 <name> [COLOR white][B]Dark[/B][/COLOR]</name>
 <thumbnail>https://www.thetvdb.com/banners/_cache/posters/334824-1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/PPUaJSLa</externallink>
+<externallink>http://bit.ly/2EYSwWR</externallink>
 <fanart>https://goo.gl/NpDWm6</fanart>
 <info>Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.
 Estrelando: Louis Hofmann,Oliver Masucci,Jördis Triebel</info>
