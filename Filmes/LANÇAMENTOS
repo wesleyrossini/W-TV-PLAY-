@@ -5,21 +5,17 @@
 
 
 <item>
-<title>[COLOR white][B]12 HERÓIS [COLOR gold]HD-CAM[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]429351-horse-soldiers.mp4|Referer=https://unitplay.net/</link>
-<regex><name>BrazucaPlay</name><expres>(.*?).unity</expres><page>http://bit.ly/rcfhd</page></regex>
-<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
-<fanart>https://2.bp.blogspot.com/-zVRWROHEeYA/WqrVMvbpNxI/AAAAAAAAPsA/yFTJ5gjMDlIEUd15klbMYfmX338NwYkbwCLcBGAs/s1600/12-Strong-Wallpaper-1440x890.jpg</fanart>
-<info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade se formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
-</item>
-
-<item>
-<title>[COLOR white][B]12 HERÓIS [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]12HERS.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres>(.*?).unity</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
-<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
-<fanart>https://2.bp.blogspot.com/-zVRWROHEeYA/WqrVMvbpNxI/AAAAAAAAPsA/yFTJ5gjMDlIEUd15klbMYfmX338NwYkbwCLcBGAs/s1600/12-Strong-Wallpaper-1440x890.jpg</fanart>
-<info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade se formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
+<title>[COLOR white]12 Heróis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]12HERS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>Uma equipe formada por agentes da CIA e das forças especiais se dirige para o Afeganistão em resposta aos ataques do 11 de setembro, na tentativa de desmantelar o Talibã.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBXRwFGwAlHsvjMO9ZWMxz66w1e_Qew3Kl3uyU421o4rVyu0uTJiBcYGGk</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/5a0b2ef49007c1d3fe15968b3.jpg</thumbnail>
 </item>
 
 <item>
