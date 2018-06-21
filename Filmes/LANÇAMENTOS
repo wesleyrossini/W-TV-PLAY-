@@ -3,6 +3,20 @@
 <layoutype>fanart</layoutype>
 
 
+<item>
+<title>[COLOR white]Beirute (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BEITELEG.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Beirute, década de 1980. Mason Skiles, diplomata norte-americano afastado do cargo, volta ao serviço para tentar evitar que um colega seja assassinado pelos mesmos criminosos que destruíram sua família. Uma agente da CIA que trabalha disfarçada na embaixada é designada para protegê-lo e contribuir com o sucesso da missão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCOsPijc5LvcozZ1FUHrSY_7ZDpJ420lKLDv3vyo2yQ7AM52IuXl2n71welg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BZWU5MjMxYmMtYzY2NS00MDU1LWIwMzAtMzIwYjY5NDIxZjZkXkEyXkFqcGdeQX_LO77AN7.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR white]12 Heróis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
