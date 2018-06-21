@@ -15,7 +15,7 @@
 
 <item>
 <title>[COLOR white][B]12 HERÓIS [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]12HERS.mp4|Referer=https://unitplay.net/</link>
+<link>$doregex[BrazucaPlay]12HERS.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>(.*?).unity</expres><page>http://bit.ly/rcfhd</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
 <fanart>https://2.bp.blogspot.com/-zVRWROHEeYA/WqrVMvbpNxI/AAAAAAAAPsA/yFTJ5gjMDlIEUd15klbMYfmX338NwYkbwCLcBGAs/s1600/12-Strong-Wallpaper-1440x890.jpg</fanart>
