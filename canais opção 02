@@ -1,0 +1,1054 @@
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]TV ABERTA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]021$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]020$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RPC TV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]081$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]079$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]066$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR red]SD[/COLOR][/B]</title>
+<link>http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://listaiptvbrasil.com/logo/recordtv.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]REDE TV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]036$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/redetv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SBT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]084$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]SBT 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://listaiptvbrasil.com/logo/sbt.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]NOTICIAS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]032$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]013$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]100$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record_news.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]DOCUMENTÁRIOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]animalplanet.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]017$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]discovery.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]c016$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]discoverycivilization.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_civilization.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]058$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_civilization.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]discoverysience.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]074$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]094$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_world.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]discoverytheater.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]history.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]024$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]history2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]034$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]natgeo.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]natgeo.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]natgeowind.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]082$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]ESPORTES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]bandsports.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]combate.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]discoveryturbo.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]espn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN+[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]espnmais.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]espnbrasil.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO BR[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]esporteinterativobr.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]esporteinterativo1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]esporteinterativo2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]foxsports1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]foxsports2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]premiereclubes.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]premiere2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]premiere3.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]premiere4.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]premiere5.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]premiere6.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]premiere7.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]sportv1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]sportv2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]sportv3.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]FILMES & SÉRIES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]aie.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]axn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]amc.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]axn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]cinemax.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]fox.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]foxpremium1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]foxpremium2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]099$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fx.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]047$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]048$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]088$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_family.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]055$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]089$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_signature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]060$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX UP[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]046$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_up.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]093$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_prime.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]038$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/megapix.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]004$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SONY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]003$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sony.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]029$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/space.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]096$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/studio_universal.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]067$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/syfy.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]090$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_action.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]054$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_cult.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]101$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_fun.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]092$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]091$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]056$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_touch.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]009$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]025$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt_series.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]083$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/universal_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]WARNER[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]077$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BIS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]035$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bis.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]068$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/off.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]030$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/comedy_central.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_home_health.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]050$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fishtv.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]c012$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/food_network.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]069$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_life.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]GNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]065$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gnt.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]ID[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]033$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_investigation.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]022$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/multishow.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]005$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/lifetime.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]057$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mais_globosat.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]103$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PLAY TV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]071$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/playtv.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TBS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]052$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tbs.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]049$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tcm.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VH1 HD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]012$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/vh1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]037$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tlc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TRUTV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]097$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/trutv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]051$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/vh1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]WOOHOO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]070$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/woohoo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]001$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]INFANTIL[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]boomerang.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]072$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]cartoon.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]027$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]discoverykids.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]c014$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]disney.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]095$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]disneyjunior.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]087$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]disneyx.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]086$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]gloob.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]nickjr.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR red]HD   [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]059$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]nick.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]tooncast.m3u8|Referer=https://canais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR red]HD  [B][COLOR lime]OPÇÃO 2[/COLOR][/B]</title>
+<link>https://$doregex[BP1]085$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]BABY TV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]080$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/babytv.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]073$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]NICK[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]015$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]TV RÁ-TIM-BUM[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://$doregex[BP1]023$doregex[BP2].m3u8</link>
+<regex><name>BP1</name><expres>(.*?).ds</expres><page>http://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).m3u8</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR red]\\\\[/COLOR][COLOR white]\\\[/COLOR][COLOR red]\\\[/COLOR] [COLOR lime]RELIGIOSOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.pinimg.com/564x/e1/a9/5a/e1a95a818cea8f11dce59d797aaeb447.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]REDE VIDA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/playlist.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CANÇÃO NOVA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]TV APARECIDA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://i0.wp.com/i.imgur.com/UOMWJH6.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NOVO TEMPO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).cg</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>https://i0.wp.com/i.imgur.com/IZKxzJ9.png</thumbnail>
+</item>
