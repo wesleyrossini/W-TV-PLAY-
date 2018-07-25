@@ -10,6 +10,15 @@ http://ipstream.dyndns.biz:35461/live/nunonovo/45655/2.ts
 #################################################################################DOCUMENTARIOS
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTARIOS", ANIMAL PLANET
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/119.ts
+#EXTINF:-1,Discovery Channel HD
+http://ipstream.dyndns.biz:35461/live/nunonovo/45655/61.ts
+#EXTINF:-1,Discovery Channel SD
+http://ipstream.dyndns.biz:35461/live/nunonovo/45655/62.ts
+#EXTINF:-1,Discovery Civilization HD
+http://ipstream.dyndns.biz:35461/live/nunonovo/45655/220.ts
+#EXTINF:-1,Discovery Civilization SD
+http://ipstream.dyndns.biz:35461/live/nunonovo/45655/221.ts
+
 #EXTINF:-1,A&E SD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/120.ts
 #EXTINF:-1,AMC HD
@@ -87,14 +96,7 @@ http://ipstream.dyndns.biz:35461/live/nunonovo/45655/122.ts
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/9.ts
 #EXTINF:-1,Cultura SD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/10.ts
-#EXTINF:-1,Discovery Channel HD
-http://ipstream.dyndns.biz:35461/live/nunonovo/45655/61.ts
-#EXTINF:-1,Discovery Channel SD
-http://ipstream.dyndns.biz:35461/live/nunonovo/45655/62.ts
-#EXTINF:-1,Discovery Civilization HD
-http://ipstream.dyndns.biz:35461/live/nunonovo/45655/220.ts
-#EXTINF:-1,Discovery Civilization SD
-http://ipstream.dyndns.biz:35461/live/nunonovo/45655/221.ts
+
 #EXTINF:-1,Discovery Home & Health HD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/33.ts
 #EXTINF:-1,Discovery Home & Health SD
