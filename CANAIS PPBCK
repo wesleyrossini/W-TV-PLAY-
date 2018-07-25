@@ -1,8 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1,Animal Planet SD
-http://ipstream.dyndns.biz:35461/live/nunonovo/45655/60.ts
-#EXTINF:-1,A&E HD
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", [COLOR red]//////////CANAIS ABERTOS//////////[/COLOR]
+#EXTINF:-1,Band Campinas HD
+http://ipstream.dyndns.biz:35461/live/nunonovo/45655/1.ts
+#EXTINF:-1,Band Campinas SD
+http://ipstream.dyndns.biz:35461/live/nunonovo/45655/2.ts
+
+#################################################################################DOCUMENTARIOS
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTARIOS", ANIMAL PLANET
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/119.ts
 #EXTINF:-1,A&E SD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/120.ts
@@ -24,10 +30,7 @@ http://ipstream.dyndns.biz:35461/live/nunonovo/45655/110.ts
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/222.ts
 #EXTINF:-1,BabyTV SD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/223.ts
-#EXTINF:-1,Band Campinas HD
-http://ipstream.dyndns.biz:35461/live/nunonovo/45655/1.ts
-#EXTINF:-1,Band Campinas SD
-http://ipstream.dyndns.biz:35461/live/nunonovo/45655/2.ts
+
 #EXTINF:-1,Band News HD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/55.ts
 #EXTINF:-1,Band News SD
