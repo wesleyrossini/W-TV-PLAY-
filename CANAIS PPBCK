@@ -1,7 +1,7 @@
 #EXTM3U
 
 #################################################################################CANAIS
-#EXTINF:-1,group-title="CAMNAIS", ANIMAL PLANET
+#EXTINF:-1,group-title="CANAIS", ANIMAL PLANET
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/60.ts
 #EXTINF:-1,A&E HD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/119.ts
