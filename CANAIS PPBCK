@@ -1,7 +1,7 @@
 #EXTM3U
 
 #################################################################################LISTA 01
-#EXTINF:-1,Animal Planet SD
+#EXTINF:-1,group-title="LISTA 01", ANIMAL PLANET
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/60.ts
 #EXTINF:-1,A&E HD
 http://ipstream.dyndns.biz:35461/live/nunonovo/45655/119.ts
